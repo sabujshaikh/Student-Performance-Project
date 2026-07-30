@@ -1,5 +1,7 @@
 # 🎓 Student Performance Prediction & Analytics System
 
+[📸 Screenshots](https://www.google.com/search?q=%23-screenshots)  •  [⚙️ Installation](https://www.google.com/search?q=%23%EF%B8%8F-installation-guide)  •  [🗄️ Database](https://www.google.com/search?q=%23%EF%B8%8F-database-schema)  •  [👥 Team](https://www.google.com/search?q=%23-team)
+
 ---
 
 ## 📌 Table of Contents
@@ -27,6 +29,7 @@
 * [Troubleshooting](https://www.google.com/search?q=%23-troubleshooting)
 * [License](https://www.google.com/search?q=%23-license)
 * [Acknowledgements](https://www.google.com/search?q=%23-acknowledgements)
+* [Team](https://www.google.com/search?q=%23-team)
 * [Contact](https://www.google.com/search?q=%23-contact)
 * [Support](https://www.google.com/search?q=%23-support)
 
@@ -314,6 +317,12 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 * World University of Bangladesh (WUB) academic framework inspiration.
 * Open-source libraries including React, Flask, Scikit-Learn, and Tailwind CSS.
+
+---
+
+## 👥 Team
+
+> **Group: 66D / Academic Project**
 
 ---
 
