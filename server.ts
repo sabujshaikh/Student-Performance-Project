@@ -24,16 +24,16 @@ function startFlaskBackend() {
 async function startServer() {
   const app = express();
   const PORT = 3000;
-  const FLASK_URL = "https://student-performance-project-y2wl.onrender.com";
+  const FLASK_URL = "http://127.0.0.1:5000";
 
   // Start Python Flask API backend
   startFlaskBackend();
 
   app.use(express.json());
 
-  // Proxy /api/* requests directly to Python Flask Backend
+  // Proxy /api/* requests directly to Python Flask Backend (Port 5000)
   app.use("/api", async (req, res) => {
-    const targetUrl = `${FLASK_URL}${req.url}`;
+    const targetUrl = `${FLASK_URL}/api${req.url}`;
     try {
       const options: RequestInit = {
         method: req.method,
@@ -78,7 +78,7 @@ async function startServer() {
   }
 
   app.listen(PORT, "0.0.0.0", () => {
-    console.log(`[Node Server] Running on http://0.0.0.0:${PORT} (Proxying /api to Flask)`);
+    console.log(`[Node Server] Running on http://0.0.0.0:${PORT} (Proxying /api to Flask @ :5000)`);
   });
 }
 
