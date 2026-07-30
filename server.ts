@@ -24,7 +24,7 @@ function startFlaskBackend() {
 async function startServer() {
   const app = express();
   const PORT = 3000;
-  const FLASK_URL = "http://127.0.0.1:5000";
+  const FLASK_URL = "https://student-performance-project-y2wl.onrender.com";
 
   // Start Python Flask API backend
   startFlaskBackend();
