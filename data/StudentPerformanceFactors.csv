@@ -1,0 +1,1201 @@
+Student_Name,Hours_Studied,Attendance,Parental_Involvement,Parental_Education_Level,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Distance_from_Home,Gender,Exam_Score
+Sabuj Shaikh,23,80.3,High,High School,Low,Yes,5,83.1,High,Yes,0,High,Medium,Public,Negative,1,No,Far,Female,91.6
+Arafat Jahan,22,94.1,Low,Postgraduate,High,No,8,65.9,Low,Yes,0,Medium,High,Public,Positive,3,No,Near,Male,89.8
+Tanvir Islam,21,59.0,Low,College,Low,No,8,49.9,Low,No,2,Low,Medium,Public,Neutral,1,Yes,Far,Male,61.5
+Arif Ahmed,16,73.1,High,Postgraduate,Medium,Yes,7,64.2,High,No,2,Low,Low,Public,Negative,4,No,Near,Female,67.4
+Tasnim Islam,20,64.9,Medium,College,Low,Yes,9,66.4,High,Yes,2,Low,Medium,Public,Positive,2,Yes,Moderate,Female,74.2
+Sajib Ali,15,93.4,Low,High School,Low,Yes,6,78.1,Medium,No,1,Low,Medium,Private,Negative,3,Yes,Moderate,Female,76.5
+Sadia Jahan,19,69.3,High,Postgraduate,High,No,5,85.5,Medium,No,1,Low,High,Private,Positive,7,No,Far,Female,82.5
+Tanzim Ali,42,96.3,Low,High School,High,Yes,9,77.1,Low,No,4,Medium,High,Private,Positive,7,Yes,Far,Female,100.0
+Aabuj Akter,19,78.4,High,High School,High,No,9,53.3,High,No,3,Low,Medium,Private,Negative,7,Yes,Near,Female,80.4
+Mehedi Siddique,9,71.4,Low,Postgraduate,Medium,No,8,58.2,High,Yes,3,High,High,Public,Negative,1,No,Far,Female,70.8
+Nusrat Alam,14,89.3,Medium,College,Low,No,9,88.4,Low,Yes,2,High,Low,Public,Negative,2,No,Near,Female,85.4
+Tanvir Siddique,18,74.5,High,College,Low,No,5,52.9,High,No,0,High,High,Public,Positive,2,No,Moderate,Female,74.5
+Farhana Hossain,11,67.6,Medium,High School,High,Yes,5,85.4,High,Yes,3,Low,Low,Public,Negative,5,No,Near,Female,86.9
+Farhana Ahmed,11,81.1,High,College,Low,No,7,87.6,High,No,1,Low,Low,Private,Negative,4,No,Near,Female,79.2
+Sumaiya Khan,19,100.0,High,High School,High,No,9,37.3,High,No,0,Low,High,Public,Negative,4,No,Near,Male,87.2
+Sadia Chowdhury,8,94.5,Low,College,Medium,Yes,6,86.6,Low,Yes,0,High,Low,Private,Positive,4,No,Near,Male,77.0
+Fahim Khan,31,75.8,Low,College,Low,No,6,62.7,Low,No,4,Medium,Medium,Public,Neutral,2,Yes,Far,Female,87.6
+Anika Jahan,24,95.9,Low,Postgraduate,High,Yes,6,77.6,High,No,0,High,Low,Private,Negative,1,No,Near,Male,100.0
+Nahid Hossain,20,93.6,High,High School,Medium,Yes,7,64.2,Low,Yes,0,Medium,High,Public,Positive,2,No,Moderate,Male,83.6
+Tanvir Chowdhury,30,78.5,Low,Postgraduate,High,Yes,9,36.8,Medium,No,0,High,Medium,Private,Negative,3,No,Near,Male,82.7
+Sadia Alam,17,72.4,Medium,High School,Low,No,6,71.7,Medium,Yes,1,High,Medium,Public,Neutral,3,No,Far,Male,72.2
+Nusrat Alam,12,98.8,Low,Postgraduate,High,Yes,7,73.7,Low,No,1,Low,Medium,Private,Positive,7,No,Far,Female,77.6
+Tanzim Hossain,20,100.0,High,College,Medium,No,9,71.3,Low,Yes,0,High,Low,Private,Negative,1,Yes,Far,Female,88.2
+Nusrat Hossain,22,81.9,High,High School,High,Yes,6,84.7,Low,Yes,2,Medium,Medium,Public,Neutral,6,No,Near,Female,89.6
+Farhana Akter,26,71.1,Low,College,High,Yes,8,93.6,Medium,Yes,2,Medium,High,Public,Negative,7,No,Near,Female,94.8
+Farhana Ahmed,12,82.9,Low,Postgraduate,Low,Yes,5,67.1,Medium,No,0,Medium,Low,Private,Negative,6,No,Near,Male,69.5
+Mahmud Chowdhury,20,76.0,Medium,College,Low,No,5,52.3,Medium,Yes,2,Low,Medium,Private,Positive,1,No,Near,Female,70.6
+Nahid Chowdhury,24,71.0,Medium,Postgraduate,Medium,Yes,7,82.7,Medium,No,0,Low,High,Public,Neutral,4,Yes,Near,Male,86.1
+Arafat Akter,13,78.1,Medium,Postgraduate,Medium,No,9,85.4,High,No,3,Medium,Low,Private,Positive,2,Yes,Far,Female,78.9
+Mahmud Chowdhury,30,100.0,High,College,High,Yes,8,69.5,High,No,3,Medium,Low,Private,Neutral,4,No,Moderate,Female,100.0
+Rakib Akter,22,91.4,Low,Postgraduate,Medium,No,6,56.7,High,Yes,2,Low,Low,Public,Neutral,1,No,Near,Male,81.9
+Tanzim Jahan,24,96.6,Medium,Postgraduate,Low,No,5,77.2,Medium,No,0,Medium,Medium,Public,Positive,7,No,Near,Male,91.4
+Sumaiya Jahan,22,73.4,Low,Postgraduate,High,No,9,100.0,Medium,Yes,2,Medium,Low,Public,Negative,4,No,Moderate,Female,98.1
+Mehedi Mia,25,70.5,Medium,College,Medium,No,6,63.5,Low,Yes,2,Medium,High,Private,Positive,3,Yes,Near,Female,80.0
+Sajib Rahman,27,87.0,High,High School,Low,Yes,9,85.5,Low,Yes,0,Low,Low,Private,Positive,4,Yes,Moderate,Female,98.0
+Sumaiya Shaikh,9,72.7,Low,College,Medium,No,8,86.3,High,No,2,Low,High,Public,Positive,5,No,Moderate,Female,77.8
+Arif Bhuiyan,20,99.4,High,High School,Medium,Yes,8,70.3,Low,No,0,Medium,Medium,Private,Neutral,2,Yes,Far,Male,97.2
+Nahid Siddique,12,93.7,Low,College,High,No,8,74.6,High,Yes,0,Medium,High,Public,Negative,3,No,Near,Female,86.2
+Mahmud Khan,18,90.6,Medium,College,Medium,No,5,80.6,Medium,Yes,4,High,Medium,Private,Negative,7,No,Moderate,Male,91.2
+Tanzim Bhuiyan,16,91.3,Low,High School,Low,Yes,8,88.6,Low,No,1,High,High,Public,Negative,6,No,Far,Male,84.6
+Tanvir Bhuiyan,21,67.1,Medium,High School,High,No,8,76.4,High,Yes,1,High,High,Public,Negative,6,No,Moderate,Female,90.0
+Mahmud Hossain,21,72.3,High,Postgraduate,High,Yes,5,88.8,Low,Yes,2,Medium,Low,Private,Positive,5,Yes,Far,Female,90.9
+Sajib Shaikh,28,94.6,Medium,College,Low,Yes,8,54.7,Medium,No,3,Low,Medium,Private,Positive,4,No,Far,Female,85.4
+Lamia Ahmed,22,85.1,Medium,High School,Low,No,8,74.3,Medium,No,1,Low,Medium,Public,Neutral,2,Yes,Moderate,Male,85.5
+Tasnim Bhuiyan,24,95.6,Medium,College,Medium,Yes,8,87.4,High,Yes,3,Low,High,Private,Positive,5,No,Far,Female,100.0
+Farhana Mia,10,64.0,Medium,Postgraduate,High,No,8,76.3,Medium,Yes,0,Medium,Medium,Public,Negative,5,No,Moderate,Female,63.9
+Laboni Rahman,38,59.6,Medium,Postgraduate,High,No,7,83.6,Medium,No,0,Low,Medium,Private,Neutral,1,No,Far,Male,92.4
+Arif Bhuiyan,12,78.0,High,High School,Low,No,6,95.8,Low,Yes,0,Low,High,Private,Neutral,3,No,Near,Female,77.4
+Sabuj Mia,14,84.6,High,High School,Medium,Yes,8,74.6,Low,No,1,Low,Low,Private,Positive,4,No,Far,Female,74.5
+Rakib Rahman,30,91.9,Low,High School,Medium,No,9,74.2,Medium,Yes,1,High,Low,Public,Neutral,3,No,Near,Male,99.3
+Arafat Jahan,14,92.2,Low,Postgraduate,Medium,No,7,62.9,High,No,0,Medium,High,Public,Positive,5,No,Far,Female,79.8
+Nahid Shaikh,13,100.0,High,Postgraduate,Low,Yes,6,69.3,Low,Yes,0,Low,High,Public,Neutral,1,No,Far,Male,76.3
+Sumaiya Khan,34,86.9,High,Postgraduate,Medium,No,8,56.3,Medium,No,4,Low,Low,Public,Neutral,1,No,Moderate,Male,100.0
+Arif Jahan,23,100.0,High,High School,Medium,No,8,55.4,Low,No,0,Medium,Low,Public,Negative,3,No,Moderate,Female,92.1
+Laboni Siddique,30,73.5,Medium,College,Low,No,7,80.2,High,No,1,Low,Low,Private,Positive,5,No,Near,Male,94.4
+Tanzim Bhuiyan,19,70.8,Low,College,High,No,7,55.9,High,No,1,Low,Medium,Private,Negative,3,Yes,Moderate,Female,77.2
+Nusrat Ali,33,64.8,Low,College,Medium,No,7,67.8,High,Yes,1,Medium,Medium,Private,Positive,1,No,Moderate,Female,91.3
+Rafi Ali,20,100.0,High,High School,High,Yes,5,79.7,High,No,0,High,Medium,Private,Negative,2,Yes,Far,Female,100.0
+Tanvir Siddique,21,74.8,Low,College,Medium,Yes,5,75.0,High,Yes,4,Medium,Medium,Public,Negative,2,No,Far,Female,87.9
+Nusrat Khan,4,97.4,Low,Postgraduate,Low,No,9,65.4,Medium,No,1,Medium,High,Private,Positive,2,Yes,Near,Female,75.5
+Rafi Jahan,18,89.1,High,Postgraduate,High,No,9,77.9,Low,No,0,Low,Low,Private,Neutral,5,No,Far,Female,84.2
+Fahim Ali,27,76.4,Low,College,High,No,9,65.3,Medium,No,2,Medium,Medium,Private,Positive,4,No,Far,Male,89.3
+Farhana Ali,27,85.7,Medium,High School,Medium,Yes,5,85.4,High,No,0,Low,Medium,Private,Neutral,7,No,Far,Female,99.4
+Rakib Hossain,24,73.5,High,College,Low,Yes,5,49.0,High,Yes,2,Medium,Low,Private,Positive,7,No,Moderate,Female,70.7
+Sajib Ali,24,79.6,High,Postgraduate,Medium,Yes,8,71.0,Medium,Yes,2,Low,High,Private,Positive,1,No,Near,Male,94.1
+Nusrat Khan,16,85.1,Low,Postgraduate,Medium,No,9,74.2,Low,No,3,Medium,Low,Private,Negative,4,Yes,Near,Male,86.7
+Lamia Akter,25,78.3,Low,High School,Low,Yes,7,78.5,Low,No,4,High,High,Private,Positive,4,No,Near,Female,92.0
+Tanvir Akter,35,94.8,Low,College,Medium,No,7,48.9,High,No,1,High,High,Public,Negative,4,No,Far,Female,99.5
+Anika Jahan,29,91.5,Medium,College,Low,No,9,82.7,Low,No,0,Low,Medium,Private,Positive,7,Yes,Moderate,Male,96.0
+Tanzim Alam,14,81.9,High,Postgraduate,Medium,Yes,5,44.7,Medium,No,3,High,Low,Private,Negative,3,No,Far,Male,76.3
+Rakib Shaikh,13,78.1,High,College,High,No,9,79.8,Low,Yes,2,Low,Low,Private,Neutral,5,No,Far,Female,78.8
+Tanvir Ali,16,84.4,Low,College,Medium,No,9,81.8,Medium,Yes,0,Low,High,Private,Negative,3,No,Far,Female,86.5
+Arafat Bhuiyan,8,65.1,Medium,High School,Medium,No,8,63.9,High,No,2,High,Low,Private,Neutral,1,No,Near,Male,63.0
+Nahid Alam,3,100.0,High,College,High,No,5,69.8,Low,No,1,High,High,Public,Positive,1,Yes,Near,Male,76.5
+Anika Khan,22,72.1,Low,High School,Low,No,8,81.3,High,No,4,High,Low,Private,Neutral,5,No,Moderate,Male,93.8
+Sumaiya Ahmed,8,71.9,Low,Postgraduate,Medium,No,5,69.2,Low,Yes,4,High,Medium,Private,Negative,4,No,Far,Female,70.8
+Tanvir Jahan,21,82.2,Low,College,Low,No,9,75.4,High,Yes,4,Low,Low,Public,Negative,2,No,Near,Male,85.5
+Farhana Rahman,38,86.9,Low,Postgraduate,Low,No,7,68.0,Medium,Yes,2,Low,Low,Public,Positive,7,No,Near,Male,100.0
+Farhana Hasan,26,84.2,Medium,High School,Low,No,7,100.0,Medium,Yes,0,High,Low,Public,Positive,5,No,Moderate,Female,90.0
+Lamia Hossain,18,65.7,Medium,Postgraduate,Low,Yes,8,88.5,High,Yes,0,Medium,Low,Private,Neutral,6,Yes,Moderate,Male,68.8
+Rakib Hossain,22,100.0,Low,College,High,No,5,87.3,Low,No,2,High,Low,Public,Neutral,7,No,Moderate,Female,100.0
+Nusrat Ali,25,99.7,High,Postgraduate,High,Yes,5,83.8,High,No,3,Medium,Low,Private,Neutral,3,Yes,Moderate,Female,100.0
+Sumaiya Rahman,29,76.4,High,College,Medium,Yes,6,50.0,Low,Yes,4,Low,High,Private,Negative,5,Yes,Near,Female,95.6
+Tanzim Hasan,22,85.3,High,Postgraduate,Medium,No,9,39.7,High,Yes,0,Medium,Low,Private,Neutral,5,No,Moderate,Male,71.6
+Mahmud Islam,20,82.6,High,College,Low,No,5,67.7,Low,Yes,1,Medium,Medium,Private,Negative,2,No,Far,Female,79.0
+Tanvir Mia,9,88.4,Medium,College,Medium,No,8,88.8,Low,Yes,1,Low,Low,Public,Positive,4,No,Near,Male,84.3
+Rakib Rahman,22,73.0,Low,College,Medium,Yes,7,95.7,High,Yes,1,High,Medium,Public,Negative,4,No,Far,Male,92.2
+Sumaiya Khan,21,95.8,High,College,Medium,No,5,88.4,Medium,Yes,1,Medium,Low,Public,Neutral,2,Yes,Far,Female,94.8
+Rafi Hasan,25,98.4,Low,High School,Low,No,6,60.5,Medium,No,0,Low,Low,Public,Neutral,2,No,Moderate,Female,86.8
+Rafi Siddique,6,99.3,High,High School,High,No,7,86.4,High,Yes,1,Medium,High,Private,Negative,5,No,Moderate,Male,87.8
+Sumaiya Hasan,32,82.9,Medium,Postgraduate,High,Yes,5,96.8,Medium,No,3,Low,Medium,Public,Neutral,4,Yes,Far,Female,100.0
+Nusrat Jahan,19,91.6,Medium,Postgraduate,Medium,No,9,70.1,High,Yes,4,Medium,Low,Private,Neutral,5,No,Near,Male,85.6
+Mahmud Alam,3,80.9,Medium,College,High,Yes,5,55.7,High,No,0,Low,Low,Public,Negative,2,No,Far,Male,64.8
+Fahim Khan,11,87.9,High,Postgraduate,Medium,No,7,84.5,High,Yes,1,Medium,High,Private,Positive,7,No,Moderate,Female,83.5
+Tanvir Hasan,12,88.0,Low,College,High,Yes,9,66.6,Low,Yes,0,Medium,Medium,Private,Neutral,5,No,Near,Male,72.5
+Laboni Chowdhury,8,79.7,Medium,Postgraduate,High,Yes,5,74.8,High,No,2,High,Low,Private,Positive,4,Yes,Far,Male,68.3
+Nusrat Bhuiyan,14,84.6,Medium,Postgraduate,Low,Yes,7,72.4,High,No,3,Medium,High,Public,Negative,4,No,Moderate,Female,81.1
+Sumaiya Bhuiyan,14,89.0,Medium,Postgraduate,High,No,9,66.3,Low,Yes,1,High,High,Private,Negative,7,Yes,Moderate,Female,78.1
+Sadia Rahman,7,98.4,Low,Postgraduate,High,No,7,97.0,Low,Yes,0,High,Medium,Private,Positive,7,No,Moderate,Female,84.0
+Sadia Akter,26,70.1,High,Postgraduate,High,No,7,74.4,High,Yes,1,Medium,Low,Private,Positive,7,No,Near,Male,95.4
+Fahim Jahan,18,70.5,Low,High School,Low,Yes,6,51.5,Low,No,0,High,Medium,Public,Positive,2,No,Far,Female,62.8
+Mehedi Ali,18,81.4,High,Postgraduate,Low,No,6,59.1,High,Yes,1,Medium,Medium,Public,Neutral,5,No,Far,Female,71.2
+Farhana Ahmed,33,92.6,Medium,High School,Medium,No,9,73.9,High,No,0,High,High,Private,Neutral,2,Yes,Near,Male,100.0
+Tanvir Shaikh,38,94.2,High,College,Medium,Yes,8,67.8,High,Yes,0,Medium,Low,Public,Neutral,1,Yes,Far,Male,100.0
+Farhana Ali,12,65.4,Medium,College,Low,No,5,87.0,Medium,Yes,1,Medium,Low,Private,Positive,3,No,Moderate,Male,75.2
+Nusrat Ali,20,83.5,High,Postgraduate,Medium,No,5,68.9,Low,Yes,0,High,Low,Public,Neutral,1,Yes,Moderate,Male,78.6
+Tanvir Jahan,14,76.2,Low,Postgraduate,High,No,8,65.7,High,Yes,0,Medium,High,Private,Negative,6,No,Near,Male,75.4
+Nahid Khan,2,90.2,Low,High School,Medium,Yes,6,79.5,High,Yes,3,Medium,High,Public,Positive,5,Yes,Near,Female,77.2
+Sumaiya Islam,15,91.1,High,Postgraduate,Low,Yes,7,81.0,High,No,4,Medium,Medium,Public,Positive,3,No,Far,Female,83.6
+Sabuj Rahman,36,100.0,Low,College,Low,No,6,87.1,High,Yes,0,Low,High,Public,Positive,7,No,Far,Female,100.0
+Rakib Mia,13,60.3,Medium,Postgraduate,Low,No,7,51.2,Low,Yes,0,Low,Low,Private,Negative,5,No,Near,Female,52.5
+Rafi Ali,7,91.6,High,College,Medium,No,7,58.1,Low,Yes,1,High,High,Public,Neutral,4,No,Moderate,Male,70.5
+Rafi Mia,14,82.6,Medium,College,Medium,No,9,62.0,Low,Yes,0,High,Medium,Private,Neutral,7,Yes,Near,Female,68.6
+Mehedi Siddique,15,91.1,Medium,College,Low,No,5,89.5,Low,No,1,Low,Medium,Private,Neutral,6,Yes,Moderate,Female,85.2
+Tasnim Hasan,2,72.4,Medium,College,High,Yes,5,82.1,Low,Yes,3,Low,Low,Private,Neutral,2,Yes,Near,Male,68.5
+Tasnim Rahman,21,83.1,Medium,Postgraduate,Low,No,8,80.8,High,No,3,Low,Low,Private,Neutral,3,No,Far,Female,95.3
+Tanvir Jahan,22,77.1,Low,High School,High,Yes,8,67.2,Low,No,0,Medium,Medium,Private,Positive,2,Yes,Near,Female,80.8
+Nusrat Islam,24,94.4,Low,College,Low,No,7,43.1,High,No,3,High,Medium,Public,Positive,7,No,Far,Female,85.1
+Mehedi Mia,29,77.1,High,Postgraduate,High,Yes,9,45.5,Low,Yes,1,Low,Medium,Public,Negative,5,Yes,Near,Female,80.4
+Tasnim Khan,28,71.9,High,High School,High,No,5,51.9,Low,No,3,Medium,Low,Private,Neutral,4,No,Near,Female,87.2
+Rakib Akter,26,55.5,High,College,Low,No,6,77.3,High,Yes,0,Low,High,Public,Negative,3,No,Moderate,Male,82.9
+Farhana Rahman,21,88.8,High,College,Low,No,6,61.8,Medium,Yes,2,High,Low,Private,Negative,6,No,Far,Male,78.2
+Nahid Mia,25,100.0,High,College,High,No,8,76.5,Low,Yes,0,High,Low,Public,Negative,6,Yes,Far,Male,99.3
+Arif Ahmed,11,72.2,High,College,Medium,No,8,95.1,Low,Yes,3,High,High,Private,Neutral,4,No,Near,Female,84.3
+Rakib Jahan,28,75.9,Medium,Postgraduate,Low,No,7,70.2,Medium,No,2,Low,High,Private,Positive,2,No,Far,Male,84.4
+Rakib Hossain,16,75.4,Medium,College,Low,No,6,87.5,Low,No,2,Low,Low,Public,Neutral,7,No,Moderate,Female,81.9
+Mehedi Khan,23,100.0,High,College,Medium,No,5,63.2,Medium,No,0,Low,Medium,Public,Negative,1,No,Far,Female,82.4
+Anika Khan,21,92.0,High,Postgraduate,High,No,5,61.5,Medium,Yes,4,Medium,Medium,Public,Negative,4,No,Moderate,Female,83.3
+Tanzim Hasan,22,68.5,High,High School,Medium,No,8,100.0,High,No,0,High,Medium,Public,Neutral,3,No,Near,Male,90.1
+Sajib Siddique,34,89.1,Medium,High School,Low,Yes,8,77.0,High,Yes,0,Low,High,Private,Positive,5,No,Far,Female,100.0
+Rakib Islam,35,98.1,High,Postgraduate,Low,No,9,96.3,Medium,No,4,High,High,Private,Negative,3,No,Far,Female,100.0
+Fahim Ali,19,91.4,Low,College,Medium,No,5,100.0,High,Yes,1,High,Low,Private,Positive,5,Yes,Moderate,Male,99.4
+Fahim Islam,18,76.9,High,Postgraduate,High,Yes,8,59.8,High,Yes,1,High,Medium,Public,Positive,3,No,Near,Male,73.7
+Sumaiya Islam,18,89.5,Medium,Postgraduate,Low,Yes,8,91.8,Medium,Yes,1,High,High,Private,Positive,5,No,Far,Female,85.3
+Rafi Rahman,17,64.0,Low,College,High,No,6,70.6,Medium,No,1,Low,High,Private,Positive,3,No,Moderate,Female,76.7
+Anika Mia,26,80.1,Low,Postgraduate,High,No,6,89.1,Medium,No,2,Low,Medium,Private,Neutral,3,Yes,Moderate,Female,92.0
+Tanzim Ahmed,17,68.7,High,High School,Medium,No,6,100.0,Medium,Yes,0,Low,High,Private,Positive,1,No,Far,Female,84.4
+Nahid Mia,13,90.1,High,High School,Low,Yes,5,72.4,Low,Yes,0,Low,High,Public,Positive,6,Yes,Moderate,Female,75.3
+Sadia Shaikh,19,75.5,High,High School,Medium,Yes,5,64.0,High,No,2,Medium,Medium,Private,Positive,6,No,Far,Male,80.5
+Lamia Jahan,31,50.1,High,Postgraduate,High,Yes,5,44.9,Low,No,1,Medium,Low,Private,Negative,1,No,Far,Female,70.7
+Anika Hasan,17,77.5,High,High School,Medium,No,8,54.3,Medium,No,2,Low,Medium,Private,Negative,6,No,Moderate,Male,69.2
+Tanvir Mia,17,81.2,Low,High School,High,No,5,80.8,Medium,No,2,High,Medium,Public,Negative,2,No,Near,Female,84.0
+Sadia Khan,25,68.5,Medium,High School,Low,No,6,66.7,Medium,No,2,Medium,Medium,Public,Neutral,1,No,Moderate,Female,79.8
+Nusrat Khan,17,79.2,Medium,High School,Medium,Yes,8,85.4,High,No,3,Medium,High,Private,Positive,2,No,Near,Male,87.9
+Rakib Mia,17,95.9,High,College,Medium,Yes,9,58.9,High,Yes,0,High,High,Private,Positive,6,No,Far,Female,86.1
+Tasnim Hossain,6,100.0,High,High School,Low,Yes,9,56.6,High,Yes,1,Medium,High,Public,Positive,4,Yes,Near,Male,66.9
+Arafat Alam,7,89.3,High,College,Low,Yes,8,56.1,Medium,No,1,High,Low,Private,Neutral,3,No,Far,Male,67.9
+Sabuj Mia,5,75.5,Low,Postgraduate,Low,Yes,8,87.6,Low,Yes,2,Low,Medium,Private,Positive,2,Yes,Near,Female,65.8
+Sadia Bhuiyan,17,81.3,High,Postgraduate,High,No,5,78.3,Medium,No,2,Low,Medium,Private,Neutral,2,No,Far,Female,79.4
+Arif Chowdhury,15,77.0,High,High School,High,No,8,56.0,Low,No,0,High,Low,Public,Neutral,3,Yes,Near,Male,71.3
+Sadia Ahmed,21,70.3,Low,Postgraduate,Low,Yes,8,79.7,Low,Yes,2,Low,High,Private,Positive,5,No,Near,Male,74.9
+Tanzim Jahan,16,88.3,High,High School,Medium,Yes,6,96.7,Medium,No,2,Low,Low,Public,Negative,3,No,Far,Female,96.6
+Sadia Akter,5,66.6,High,High School,Medium,Yes,8,65.3,Medium,No,0,High,Medium,Public,Positive,7,Yes,Near,Female,55.1
+Laboni Rahman,17,84.4,High,College,Medium,No,8,53.9,Low,Yes,1,Low,Medium,Private,Negative,1,No,Far,Male,75.4
+Arif Chowdhury,12,65.8,Medium,Postgraduate,High,Yes,5,60.3,Low,No,1,High,Medium,Public,Neutral,5,No,Moderate,Female,70.6
+Mahmud Shaikh,36,78.3,Medium,College,High,Yes,5,75.3,High,Yes,0,Medium,High,Public,Negative,2,No,Moderate,Female,100.0
+Mahmud Mia,15,83.5,Low,Postgraduate,Medium,Yes,7,100.0,Low,No,1,Medium,High,Public,Neutral,3,Yes,Moderate,Female,89.3
+Tasnim Siddique,17,84.9,Medium,College,Low,No,6,76.5,High,No,1,Medium,Medium,Private,Negative,1,No,Far,Male,78.9
+Tanvir Siddique,14,100.0,High,Postgraduate,High,No,7,83.9,Medium,Yes,2,Medium,Medium,Public,Negative,7,No,Moderate,Female,90.1
+Fahim Mia,11,93.2,High,Postgraduate,Medium,Yes,5,49.3,Medium,No,0,Low,Low,Private,Negative,7,No,Far,Male,71.2
+Tanzim Bhuiyan,19,89.4,Low,College,Low,Yes,9,76.5,High,Yes,3,Low,Low,Public,Positive,6,Yes,Moderate,Male,82.5
+Nahid Alam,26,89.4,Medium,Postgraduate,Medium,Yes,6,92.0,Low,No,3,High,Low,Private,Negative,1,No,Near,Female,100.0
+Nusrat Siddique,19,62.1,Low,High School,Low,No,9,80.0,High,No,0,Low,High,Private,Neutral,2,No,Moderate,Female,76.6
+Farhana Ahmed,26,83.6,High,High School,High,No,6,80.3,High,No,4,High,Low,Public,Neutral,1,Yes,Near,Male,100.0
+Fahim Ali,19,90.2,Medium,Postgraduate,Medium,Yes,9,74.4,High,No,1,Medium,Low,Public,Negative,5,No,Near,Female,87.9
+Tanzim Islam,8,88.0,Medium,High School,Low,No,9,59.4,High,Yes,2,High,Low,Private,Negative,3,No,Far,Female,72.5
+Rafi Bhuiyan,18,76.7,High,High School,High,Yes,7,94.3,High,No,1,Low,Low,Private,Negative,1,No,Moderate,Female,93.1
+Tanvir Bhuiyan,26,85.4,Medium,College,Low,Yes,5,55.1,Medium,No,0,Low,High,Private,Neutral,3,No,Near,Male,83.4
+Sadia Chowdhury,20,94.8,High,Postgraduate,Low,Yes,7,66.8,High,Yes,1,Low,Medium,Private,Neutral,1,No,Moderate,Female,89.7
+Sadia Hossain,27,85.8,Low,College,Medium,Yes,8,50.5,High,Yes,2,Medium,High,Private,Negative,1,No,Far,Female,84.3
+Anika Chowdhury,16,78.6,Medium,High School,High,No,8,55.2,High,Yes,0,Low,Low,Public,Positive,2,No,Moderate,Female,71.7
+Arafat Islam,4,67.5,Medium,College,Medium,No,8,59.0,Medium,Yes,4,High,Medium,Public,Neutral,1,Yes,Far,Male,62.0
+Sadia Ahmed,27,79.4,Low,College,Medium,No,9,73.3,High,No,2,High,Medium,Private,Neutral,6,No,Moderate,Female,96.4
+Mahmud Khan,29,100.0,Medium,High School,Medium,Yes,5,52.0,Medium,No,0,Medium,Medium,Private,Positive,5,No,Moderate,Female,90.4
+Mahmud Hasan,15,75.3,High,High School,High,Yes,6,65.1,High,No,0,Medium,Low,Private,Positive,6,No,Moderate,Female,81.2
+Anika Jahan,17,67.9,Medium,Postgraduate,Low,No,9,85.1,High,No,0,High,Medium,Private,Negative,1,Yes,Far,Female,78.8
+Tasnim Mia,15,89.6,High,Postgraduate,High,No,7,76.8,Low,Yes,1,High,Low,Public,Positive,7,No,Far,Female,79.0
+Sumaiya Hossain,13,84.0,Low,High School,Medium,No,8,68.9,Low,No,0,Medium,High,Public,Neutral,1,No,Moderate,Male,77.4
+Anika Chowdhury,22,86.0,Low,High School,High,No,5,83.2,Low,Yes,0,High,Medium,Private,Neutral,4,Yes,Moderate,Female,99.8
+Rakib Rahman,6,66.9,Low,College,Low,Yes,9,86.4,High,Yes,1,High,Low,Public,Neutral,2,No,Far,Male,60.6
+Sajib Siddique,15,84.7,Medium,College,Low,No,8,73.8,Medium,No,1,Low,High,Public,Negative,1,No,Moderate,Female,81.8
+Mahmud Jahan,29,86.1,Medium,Postgraduate,Low,No,9,92.5,High,Yes,1,Medium,Low,Public,Neutral,6,No,Moderate,Female,95.0
+Sajib Hasan,24,77.7,Medium,Postgraduate,Medium,No,6,82.3,High,Yes,3,High,Low,Private,Neutral,3,No,Far,Male,99.1
+Nusrat Jahan,23,90.6,Medium,High School,Low,No,8,81.0,Medium,No,2,High,High,Public,Positive,2,No,Far,Female,95.9
+Fahim Akter,31,89.8,High,Postgraduate,High,No,7,71.7,Low,Yes,1,Low,High,Public,Neutral,1,No,Moderate,Male,100.0
+Fahim Islam,14,87.9,Low,College,High,No,5,79.9,High,No,1,High,High,Private,Neutral,5,Yes,Moderate,Male,91.9
+Sabuj Bhuiyan,21,82.6,Low,College,Low,No,7,55.0,Medium,No,2,High,Low,Private,Negative,7,No,Far,Male,78.0
+Arif Ali,31,84.6,Medium,Postgraduate,Low,Yes,7,77.7,High,Yes,1,Medium,Medium,Public,Neutral,7,No,Moderate,Female,94.3
+Arafat Khan,19,85.3,Low,High School,Low,No,5,82.5,High,Yes,0,High,High,Private,Positive,5,No,Near,Male,86.6
+Tasnim Siddique,21,86.9,Medium,Postgraduate,High,No,6,71.4,Low,Yes,2,Low,Medium,Private,Neutral,6,Yes,Near,Female,88.8
+Sadia Jahan,21,73.6,Low,Postgraduate,Medium,Yes,5,90.7,Low,No,0,High,High,Private,Neutral,6,Yes,Moderate,Female,81.2
+Arafat Chowdhury,22,75.7,High,Postgraduate,Medium,No,7,72.2,High,Yes,2,High,Medium,Private,Neutral,7,No,Far,Female,78.2
+Arafat Bhuiyan,15,100.0,High,College,Low,No,7,53.7,Medium,No,0,Medium,Low,Private,Neutral,6,No,Far,Female,62.5
+Tanzim Shaikh,25,93.8,Low,Postgraduate,Medium,No,7,89.7,Low,Yes,0,Medium,Low,Public,Neutral,2,No,Far,Male,100.0
+Tanvir Hossain,25,80.8,High,College,Medium,No,5,99.9,Low,No,1,High,Medium,Public,Negative,1,No,Moderate,Male,92.3
+Mahmud Khan,27,79.5,Low,High School,High,Yes,8,64.0,Low,No,0,Low,High,Private,Negative,1,Yes,Far,Male,88.2
+Farhana Chowdhury,9,99.3,Low,Postgraduate,Low,Yes,9,72.8,Low,No,4,Low,Medium,Private,Neutral,6,No,Near,Male,82.8
+Mehedi Khan,22,79.2,Medium,Postgraduate,Low,No,9,83.9,High,Yes,3,Low,High,Public,Neutral,6,No,Near,Male,95.5
+Rafi Rahman,25,97.9,Medium,College,Low,No,8,76.8,Low,Yes,2,High,Medium,Public,Negative,3,No,Near,Male,96.0
+Tanzim Bhuiyan,11,81.4,Low,College,Medium,Yes,9,79.2,Low,Yes,1,Medium,Low,Private,Positive,4,No,Near,Female,71.2
+Tasnim Siddique,19,64.8,High,High School,Medium,No,9,75.8,Low,Yes,0,Low,Low,Public,Negative,7,No,Moderate,Female,70.6
+Sumaiya Chowdhury,14,93.9,High,College,Low,Yes,8,70.1,High,No,0,Low,High,Public,Neutral,5,No,Near,Female,79.4
+Arafat Ahmed,16,52.9,High,College,High,No,5,51.8,Low,Yes,2,Medium,Low,Public,Negative,1,No,Moderate,Male,67.5
+Sadia Mia,22,87.7,Low,High School,Medium,No,5,73.7,Medium,Yes,0,High,High,Private,Negative,3,No,Far,Male,85.8
+Sumaiya Ahmed,19,68.1,High,High School,Medium,No,7,95.0,High,No,1,Low,High,Public,Neutral,2,Yes,Far,Male,92.7
+Tanvir Bhuiyan,12,82.5,Low,Postgraduate,High,Yes,7,70.2,High,Yes,0,Low,Low,Public,Positive,4,No,Near,Female,77.4
+Sadia Islam,11,78.6,Low,Postgraduate,High,No,9,99.2,High,Yes,3,Medium,High,Private,Negative,3,No,Moderate,Male,96.2
+Nusrat Siddique,16,76.7,High,High School,Low,Yes,9,77.9,Low,No,2,Medium,High,Public,Neutral,4,No,Moderate,Male,75.0
+Sabuj Rahman,20,74.2,Low,College,High,No,8,83.8,Medium,No,2,Low,High,Public,Neutral,1,No,Near,Male,93.2
+Farhana Siddique,15,95.1,Medium,Postgraduate,High,No,8,75.6,Low,No,3,Low,Medium,Public,Positive,4,No,Far,Male,94.2
+Tanzim Islam,36,73.7,High,College,Low,No,9,98.3,Low,No,0,High,Low,Private,Positive,2,No,Far,Male,100.0
+Rafi Hossain,11,75.6,High,Postgraduate,Low,No,7,82.7,Medium,No,1,Medium,High,Public,Negative,4,Yes,Far,Female,76.6
+Tanvir Jahan,33,87.2,Low,High School,Low,Yes,9,74.5,High,No,0,Medium,Low,Public,Negative,3,No,Moderate,Male,96.7
+Mahmud Khan,15,84.5,Medium,College,Medium,No,6,89.3,Low,Yes,2,Low,Low,Public,Positive,3,No,Near,Male,84.7
+Rafi Siddique,16,100.0,Low,Postgraduate,Medium,No,5,56.8,Medium,Yes,4,Low,Low,Public,Neutral,1,Yes,Near,Male,78.8
+Tanzim Ali,7,100.0,Low,High School,Low,No,6,72.5,Medium,Yes,3,Low,Medium,Public,Positive,1,No,Near,Female,81.6
+Sajib Hossain,18,92.6,Low,College,Low,No,6,83.1,Low,No,4,Low,High,Private,Positive,3,Yes,Far,Female,85.8
+Mahmud Alam,24,67.0,Low,College,Medium,Yes,5,93.3,Medium,No,0,Medium,Low,Public,Positive,1,Yes,Far,Female,89.0
+Tanvir Chowdhury,23,85.1,Low,College,Low,Yes,7,66.3,High,No,4,High,High,Public,Positive,5,No,Moderate,Female,89.1
+Laboni Rahman,22,78.5,Medium,College,Low,No,6,50.9,Low,Yes,3,Medium,Medium,Public,Negative,1,No,Far,Male,74.6
+Farhana Akter,26,47.8,Low,College,High,No,7,90.1,High,No,0,Low,Low,Public,Positive,5,No,Near,Female,79.3
+Sabuj Mia,22,81.0,High,College,High,No,6,85.3,High,Yes,1,Medium,Low,Public,Neutral,5,No,Near,Male,90.3
+Farhana Shaikh,16,86.2,High,College,Low,No,9,73.3,Medium,Yes,0,Medium,High,Public,Negative,6,No,Near,Male,78.6
+Sadia Bhuiyan,3,85.1,Low,Postgraduate,Medium,Yes,8,70.4,Low,No,0,Medium,Medium,Private,Positive,7,No,Near,Male,66.9
+Fahim Akter,32,92.2,Medium,High School,High,Yes,5,69.1,High,No,0,Medium,High,Private,Negative,6,No,Near,Male,100.0
+Lamia Chowdhury,26,96.7,High,High School,Low,Yes,6,91.0,High,No,3,Low,Medium,Public,Positive,3,No,Far,Male,100.0
+Sajib Islam,28,84.9,High,High School,High,Yes,7,70.4,High,No,0,Low,High,Private,Neutral,3,No,Far,Male,98.6
+Nusrat Mia,20,73.7,Low,High School,Medium,No,5,72.2,Medium,No,4,Medium,High,Private,Negative,7,No,Far,Female,82.8
+Fahim Bhuiyan,20,58.0,High,Postgraduate,High,Yes,5,86.8,Low,No,1,Low,Low,Private,Negative,3,No,Moderate,Male,82.8
+Mehedi Alam,3,100.0,Medium,High School,High,No,6,61.8,Low,Yes,0,Medium,High,Public,Neutral,1,No,Far,Female,73.5
+Nusrat Rahman,28,69.5,Low,High School,Medium,No,9,82.6,High,No,4,Low,High,Private,Positive,5,No,Near,Female,96.5
+Fahim Islam,22,74.2,Low,College,Low,No,7,89.0,Medium,Yes,0,Low,Low,Private,Positive,1,No,Near,Male,80.4
+Fahim Ali,26,87.9,Low,College,Medium,No,8,76.1,Medium,Yes,1,Medium,Medium,Private,Negative,1,Yes,Moderate,Male,93.7
+Tanvir Khan,27,85.7,Medium,College,Low,Yes,9,67.7,Medium,Yes,4,High,High,Public,Negative,2,No,Far,Female,94.1
+Arif Shaikh,28,96.2,Medium,Postgraduate,Medium,Yes,9,82.9,High,No,1,Medium,High,Private,Positive,5,No,Moderate,Male,100.0
+Laboni Bhuiyan,13,85.6,High,Postgraduate,High,Yes,5,88.1,Low,Yes,2,Low,Low,Private,Negative,6,No,Near,Female,86.0
+Sumaiya Jahan,32,87.4,High,High School,High,No,5,70.6,Medium,No,1,High,Medium,Public,Negative,7,No,Moderate,Female,100.0
+Nahid Hasan,28,88.8,High,College,Low,Yes,8,84.1,Medium,Yes,1,High,Low,Public,Positive,3,No,Moderate,Female,96.1
+Rafi Akter,18,83.5,Medium,Postgraduate,High,No,7,71.6,Medium,Yes,1,High,Low,Public,Neutral,6,Yes,Near,Female,84.1
+Farhana Shaikh,9,62.3,High,College,Medium,No,7,61.6,Medium,No,1,Medium,Low,Private,Neutral,6,No,Near,Male,64.4
+Rakib Bhuiyan,14,66.1,Medium,College,High,No,5,97.0,Medium,Yes,2,Medium,High,Public,Negative,5,Yes,Far,Female,90.4
+Mehedi Hossain,2,73.8,Medium,Postgraduate,High,Yes,5,74.8,Medium,Yes,1,Low,Low,Public,Negative,3,No,Near,Female,68.2
+Mahmud Ahmed,8,62.3,Medium,College,High,Yes,6,88.3,Medium,Yes,2,Medium,High,Public,Positive,7,Yes,Far,Female,85.0
+Fahim Hasan,25,88.9,High,College,Medium,Yes,6,70.5,Low,No,4,Low,Medium,Public,Neutral,6,No,Far,Male,96.5
+Farhana Akter,13,78.6,Low,College,High,Yes,6,50.3,Medium,No,0,Low,High,Public,Positive,3,No,Far,Male,70.0
+Nahid Bhuiyan,27,74.6,Medium,Postgraduate,High,No,9,47.2,High,No,2,Medium,Medium,Private,Neutral,7,No,Moderate,Female,88.2
+Nahid Chowdhury,12,93.3,High,High School,Low,No,7,60.2,High,No,0,High,High,Private,Positive,3,No,Moderate,Male,72.7
+Sajib Ali,12,88.6,Medium,College,High,Yes,6,99.9,High,Yes,0,Low,High,Private,Negative,6,Yes,Far,Female,94.5
+Sabuj Akter,7,87.3,Medium,College,Medium,Yes,7,73.7,Medium,Yes,3,Medium,Medium,Private,Positive,5,No,Far,Female,76.0
+Anika Ali,15,82.8,Low,Postgraduate,High,Yes,5,80.6,Low,No,2,High,Medium,Public,Neutral,2,No,Far,Female,86.0
+Tasnim Jahan,20,82.5,High,College,Medium,No,8,64.2,Medium,No,2,Low,Medium,Private,Positive,2,Yes,Near,Male,78.4
+Laboni Hossain,29,78.4,High,College,High,Yes,6,70.1,Medium,Yes,0,Medium,Medium,Public,Negative,3,Yes,Far,Female,94.8
+Mehedi Bhuiyan,14,92.7,Low,College,Medium,Yes,9,69.9,High,Yes,2,Medium,Low,Private,Positive,7,No,Near,Male,88.5
+Mehedi Khan,21,72.6,Low,High School,High,No,7,100.0,Medium,No,0,Medium,High,Private,Neutral,1,No,Near,Male,89.2
+Sajib Bhuiyan,25,87.0,High,High School,Low,No,6,71.4,High,No,0,Low,Low,Public,Negative,1,No,Moderate,Female,85.8
+Tanzim Ahmed,29,100.0,Medium,College,High,Yes,8,52.5,High,No,1,Medium,High,Private,Neutral,1,No,Near,Male,100.0
+Farhana Jahan,19,100.0,High,High School,Low,No,9,62.7,High,Yes,1,Medium,Low,Public,Negative,1,No,Far,Male,90.2
+Nusrat Akter,27,95.2,Low,High School,High,Yes,7,78.2,Low,No,1,Medium,Medium,Private,Neutral,4,No,Near,Male,98.8
+Nusrat Akter,16,79.6,High,College,High,Yes,6,65.9,High,Yes,0,Medium,High,Public,Neutral,5,No,Near,Female,78.4
+Mahmud Bhuiyan,15,79.6,Medium,Postgraduate,Low,Yes,7,63.4,Medium,Yes,3,High,High,Private,Neutral,2,Yes,Near,Female,75.1
+Sabuj Shaikh,21,63.3,High,High School,Low,Yes,8,78.6,High,Yes,1,High,High,Private,Negative,3,No,Moderate,Male,83.1
+Tanvir Khan,10,67.2,Low,High School,Low,No,5,83.7,Low,No,2,High,Medium,Private,Positive,7,No,Near,Male,74.6
+Sadia Akter,14,81.3,High,High School,Medium,Yes,8,81.8,Medium,No,0,Medium,Medium,Private,Positive,4,No,Near,Female,76.9
+Tanvir Ali,12,89.6,Medium,Postgraduate,Medium,Yes,9,61.2,Medium,Yes,1,Low,High,Public,Negative,6,No,Moderate,Female,75.6
+Rakib Islam,14,96.8,High,College,Medium,No,7,89.3,High,Yes,4,Medium,Low,Public,Neutral,6,Yes,Near,Male,98.0
+Sajib Shaikh,15,65.1,High,Postgraduate,High,No,8,75.0,High,Yes,3,Medium,High,Public,Positive,2,No,Moderate,Female,87.3
+Arif Alam,38,86.7,High,High School,Low,Yes,7,76.7,High,Yes,0,Medium,Low,Private,Neutral,1,No,Near,Female,100.0
+Laboni Jahan,24,89.0,High,Postgraduate,Medium,No,5,59.0,Medium,No,1,Low,Low,Public,Neutral,4,Yes,Moderate,Female,80.9
+Sabuj Hossain,5,88.1,Medium,College,Low,No,5,58.6,High,Yes,2,High,High,Public,Negative,7,Yes,Moderate,Female,58.2
+Farhana Ali,26,82.4,Medium,College,High,No,5,77.5,High,No,3,Low,High,Private,Positive,3,No,Far,Male,100.0
+Tasnim Ali,20,80.8,High,College,High,Yes,9,86.9,High,No,3,Low,Medium,Public,Negative,2,Yes,Near,Female,96.0
+Mahmud Hossain,24,89.2,Medium,High School,Medium,No,9,66.9,Low,Yes,1,High,High,Private,Negative,5,No,Moderate,Female,89.3
+Sadia Khan,24,71.2,Low,Postgraduate,High,No,5,74.4,Low,Yes,2,High,High,Private,Positive,4,No,Far,Male,91.5
+Nahid Hasan,18,84.4,Medium,Postgraduate,Medium,No,8,100.0,Medium,No,2,Medium,High,Public,Neutral,5,Yes,Near,Male,94.0
+Laboni Ahmed,20,66.3,High,Postgraduate,Medium,Yes,6,59.1,High,No,1,High,High,Public,Negative,5,No,Far,Male,75.8
+Arif Mia,24,82.6,High,College,High,No,5,48.8,Low,No,1,Medium,Medium,Private,Positive,4,No,Far,Male,79.7
+Sadia Shaikh,12,80.3,High,High School,Low,No,7,57.1,Medium,Yes,2,Low,Low,Private,Positive,7,No,Near,Male,67.3
+Rakib Hossain,12,87.0,High,Postgraduate,High,No,9,64.4,High,Yes,4,Medium,Low,Private,Negative,1,Yes,Moderate,Female,84.5
+Sabuj Mia,21,78.0,Medium,High School,High,Yes,6,65.4,Medium,Yes,2,Medium,Low,Private,Positive,2,Yes,Near,Male,83.6
+Laboni Hossain,20,73.3,Medium,High School,Medium,Yes,5,52.5,Medium,No,2,Low,High,Private,Negative,2,No,Moderate,Male,79.9
+Sajib Hasan,2,93.2,Low,Postgraduate,High,No,6,54.9,High,Yes,1,High,Medium,Private,Positive,5,No,Far,Male,66.6
+Arafat Bhuiyan,29,78.2,High,High School,Medium,No,7,86.3,High,Yes,0,Low,High,Private,Negative,2,No,Moderate,Female,100.0
+Nahid Siddique,15,50.9,Medium,Postgraduate,High,Yes,8,66.4,Low,Yes,1,Low,Low,Private,Neutral,3,No,Moderate,Male,67.5
+Arif Mia,12,81.6,Medium,High School,High,Yes,5,46.6,Medium,No,3,High,High,Private,Neutral,2,No,Moderate,Male,82.8
+Arif Siddique,19,70.8,Low,Postgraduate,Low,No,6,67.8,Low,Yes,2,Low,High,Public,Positive,1,Yes,Far,Male,72.0
+Rakib Mia,2,76.7,Medium,High School,Low,Yes,8,61.8,Low,Yes,2,Medium,Low,Public,Neutral,4,Yes,Moderate,Female,45.0
+Sajib Shaikh,14,94.5,Medium,Postgraduate,Low,Yes,9,65.5,High,Yes,0,Medium,Low,Public,Positive,1,No,Moderate,Female,82.4
+Anika Bhuiyan,19,93.1,Medium,College,Medium,Yes,6,93.7,High,Yes,3,High,Low,Private,Negative,3,Yes,Far,Female,100.0
+Tasnim Shaikh,30,100.0,High,Postgraduate,Low,No,6,74.4,Low,Yes,0,Medium,Low,Public,Positive,4,No,Far,Female,92.0
+Laboni Islam,20,100.0,Low,High School,Low,Yes,7,70.8,High,Yes,0,High,Medium,Public,Negative,6,Yes,Far,Male,86.1
+Arafat Ahmed,17,84.2,Low,High School,High,Yes,6,55.1,High,Yes,1,Low,Medium,Private,Neutral,3,No,Far,Male,76.6
+Fahim Khan,25,95.9,Medium,Postgraduate,High,No,6,67.7,Medium,No,0,Medium,High,Public,Positive,7,No,Near,Female,94.8
+Farhana Mia,29,90.6,High,Postgraduate,Medium,No,8,87.9,Medium,No,2,Medium,Medium,Public,Positive,5,Yes,Moderate,Female,99.5
+Nusrat Islam,9,76.0,High,Postgraduate,Low,Yes,9,77.9,Medium,Yes,2,Low,Low,Public,Neutral,2,No,Far,Female,63.5
+Tanzim Siddique,23,100.0,Medium,Postgraduate,High,No,9,65.0,Medium,Yes,4,High,High,Public,Neutral,5,No,Near,Female,100.0
+Arafat Chowdhury,31,100.0,Medium,Postgraduate,Low,Yes,8,84.4,High,No,2,Low,Low,Public,Positive,3,No,Far,Male,100.0
+Tanzim Jahan,17,71.9,Medium,High School,Low,Yes,5,59.4,Medium,No,1,Medium,Medium,Public,Negative,6,Yes,Moderate,Male,58.2
+Sajib Hossain,24,83.8,High,Postgraduate,High,Yes,9,67.2,Medium,No,0,High,High,Private,Positive,3,Yes,Moderate,Male,89.1
+Rafi Alam,22,91.8,Low,Postgraduate,Medium,Yes,9,86.0,Medium,Yes,3,Medium,Medium,Private,Neutral,6,No,Near,Male,94.1
+Tanvir Jahan,26,72.2,Low,High School,Low,Yes,8,91.0,Medium,No,2,Medium,High,Public,Positive,2,No,Moderate,Female,91.4
+Lamia Islam,25,96.1,High,College,Low,Yes,5,76.5,Low,Yes,4,High,Low,Public,Positive,2,No,Far,Male,90.7
+Tanvir Alam,19,81.0,Low,Postgraduate,Medium,No,8,85.4,High,Yes,0,Low,High,Public,Positive,2,Yes,Far,Female,91.5
+Farhana Ali,29,82.3,Medium,Postgraduate,Low,No,8,78.3,High,No,1,High,Low,Private,Negative,2,No,Near,Female,99.8
+Nusrat Shaikh,4,82.9,Low,Postgraduate,High,Yes,5,99.4,High,Yes,3,Medium,Medium,Public,Positive,4,No,Far,Male,87.2
+Sadia Alam,30,90.1,High,Postgraduate,Low,No,8,72.1,High,No,0,Low,High,Private,Positive,3,Yes,Near,Female,91.4
+Lamia Bhuiyan,26,70.9,High,Postgraduate,High,No,7,92.0,Low,Yes,0,Low,Medium,Public,Neutral,2,No,Far,Female,91.5
+Sabuj Mia,33,86.7,High,High School,High,Yes,8,57.3,High,No,1,Medium,Low,Public,Neutral,6,No,Near,Male,100.0
+Lamia Ahmed,22,99.5,Medium,Postgraduate,Medium,No,9,53.7,High,Yes,0,Medium,Medium,Private,Positive,5,Yes,Near,Female,81.4
+Fahim Ahmed,25,77.5,Medium,Postgraduate,Medium,Yes,9,98.2,High,Yes,3,Medium,Medium,Public,Positive,4,No,Near,Male,99.7
+Sajib Bhuiyan,6,99.5,High,Postgraduate,High,No,5,97.5,High,Yes,0,Low,High,Public,Negative,1,No,Moderate,Female,87.5
+Tanvir Jahan,7,97.2,Medium,High School,High,No,6,66.3,Low,Yes,2,Low,High,Private,Neutral,7,Yes,Moderate,Male,90.6
+Laboni Ahmed,21,73.7,Low,High School,High,Yes,6,100.0,High,Yes,2,Medium,High,Public,Positive,1,No,Far,Male,100.0
+Tanvir Bhuiyan,28,89.1,Medium,College,High,Yes,7,84.9,Medium,Yes,1,Low,Medium,Public,Positive,7,No,Far,Female,99.8
+Tanvir Jahan,28,74.2,High,High School,Medium,Yes,9,87.3,Medium,No,1,High,High,Public,Neutral,3,No,Far,Male,98.6
+Sajib Hossain,10,79.7,High,College,High,No,9,64.0,High,Yes,0,Medium,Medium,Private,Neutral,7,Yes,Far,Female,64.8
+Sabuj Khan,23,65.6,Low,College,Low,Yes,7,76.7,Medium,No,1,Medium,High,Public,Positive,2,No,Far,Male,81.5
+Anika Hossain,29,89.0,Medium,Postgraduate,High,No,8,70.8,Medium,No,3,Low,Low,Public,Neutral,6,No,Near,Male,97.8
+Mahmud Jahan,29,58.8,High,High School,Medium,No,9,56.5,Low,Yes,1,Low,Low,Public,Negative,1,No,Near,Female,78.4
+Arif Shaikh,21,60.8,Medium,College,High,Yes,5,78.5,Medium,No,0,Medium,Medium,Private,Neutral,5,No,Far,Male,78.3
+Sumaiya Khan,28,79.7,High,High School,High,Yes,8,68.8,Medium,No,3,Medium,Medium,Public,Neutral,5,No,Near,Male,97.8
+Nusrat Rahman,10,47.5,Medium,Postgraduate,Medium,No,8,73.6,Low,No,1,High,High,Private,Negative,4,No,Moderate,Male,67.6
+Mahmud Chowdhury,27,91.3,High,College,Medium,Yes,8,79.0,Medium,Yes,0,Low,Medium,Private,Negative,2,No,Near,Female,89.5
+Sadia Bhuiyan,26,96.7,High,High School,Medium,Yes,8,72.6,Low,No,0,Medium,Low,Private,Neutral,1,No,Moderate,Male,91.9
+Mehedi Shaikh,22,79.3,Low,College,Medium,No,7,62.2,High,No,2,Medium,Low,Private,Positive,1,No,Far,Female,80.6
+Sumaiya Hossain,31,78.7,Medium,Postgraduate,High,No,5,73.7,Low,No,0,High,High,Public,Neutral,4,Yes,Far,Female,95.4
+Nahid Ahmed,20,68.4,Medium,Postgraduate,Low,No,7,49.3,Low,Yes,3,Low,High,Private,Neutral,3,No,Moderate,Male,66.9
+Anika Mia,20,88.2,Medium,Postgraduate,High,No,6,52.1,Medium,No,2,Low,Medium,Private,Neutral,6,No,Near,Male,81.0
+Tanvir Mia,11,88.8,High,Postgraduate,Low,Yes,9,55.3,Low,Yes,4,Medium,Low,Private,Negative,7,No,Near,Female,79.8
+Arafat Hossain,7,96.0,Medium,Postgraduate,Low,Yes,6,63.7,Low,Yes,3,High,High,Private,Neutral,5,No,Moderate,Male,69.6
+Mehedi Shaikh,28,100.0,Low,Postgraduate,Medium,No,9,69.9,Medium,No,2,Low,Medium,Private,Positive,4,No,Far,Female,99.5
+Laboni Akter,13,83.0,High,Postgraduate,Medium,No,7,59.0,Medium,No,0,Medium,Medium,Public,Negative,1,Yes,Moderate,Male,56.5
+Sabuj Siddique,16,100.0,Low,College,Medium,No,9,98.8,Medium,No,1,Medium,High,Public,Positive,2,No,Moderate,Female,92.8
+Sabuj Siddique,20,73.3,Medium,High School,Medium,Yes,8,71.4,High,No,0,Medium,Medium,Private,Negative,6,No,Moderate,Male,84.8
+Farhana Siddique,14,89.2,High,Postgraduate,High,Yes,8,64.1,Medium,Yes,1,Low,Medium,Private,Neutral,5,No,Moderate,Male,77.3
+Rakib Ahmed,20,100.0,High,Postgraduate,Medium,Yes,6,78.5,Low,Yes,3,Low,Medium,Public,Negative,6,No,Moderate,Female,93.9
+Rakib Mia,17,88.1,Low,High School,Low,No,5,78.4,Low,No,2,Medium,Low,Private,Negative,3,Yes,Moderate,Female,80.9
+Arafat Ali,27,81.1,Low,High School,Medium,Yes,8,71.5,Medium,No,0,Medium,Low,Private,Negative,7,No,Near,Male,99.9
+Rakib Jahan,28,88.1,High,High School,Low,Yes,5,92.3,Medium,No,4,Medium,High,Public,Positive,6,No,Moderate,Male,100.0
+Arif Siddique,20,64.7,Low,College,Medium,Yes,7,86.9,High,Yes,1,Low,Medium,Public,Neutral,1,No,Far,Female,80.4
+Mehedi Bhuiyan,29,88.4,Medium,Postgraduate,Low,No,8,84.7,Medium,Yes,1,Medium,Low,Public,Negative,1,No,Near,Male,93.9
+Nahid Rahman,23,71.8,High,High School,Low,Yes,8,65.0,Medium,Yes,3,Medium,High,Public,Positive,6,No,Moderate,Female,85.3
+Mahmud Shaikh,17,87.8,High,College,Medium,No,6,66.3,High,No,3,High,Low,Private,Negative,5,No,Far,Female,83.4
+Mehedi Siddique,12,87.1,Medium,College,High,Yes,8,100.0,Medium,No,0,Medium,Medium,Public,Negative,1,No,Far,Female,82.8
+Laboni Chowdhury,21,84.9,High,High School,Low,Yes,9,81.3,High,No,1,Low,Medium,Public,Neutral,3,Yes,Far,Male,86.3
+Sajib Chowdhury,11,87.1,High,College,Low,Yes,6,71.4,Low,Yes,0,Low,High,Public,Negative,1,No,Near,Female,74.9
+Tanzim Hasan,20,78.8,High,College,High,No,8,99.1,Medium,Yes,3,High,High,Private,Negative,7,No,Near,Male,100.0
+Arafat Khan,21,77.8,High,High School,Medium,Yes,7,78.7,High,No,3,High,High,Private,Neutral,1,No,Far,Male,92.0
+Mahmud Siddique,34,86.2,Low,High School,High,Yes,5,69.7,Low,Yes,3,High,High,Private,Negative,7,No,Far,Female,100.0
+Lamia Rahman,3,74.7,High,College,High,Yes,9,92.2,High,No,1,High,Medium,Public,Negative,5,No,Far,Male,74.2
+Rakib Alam,24,71.9,Medium,College,High,No,8,66.1,Medium,No,1,High,Medium,Private,Positive,7,No,Far,Male,82.5
+Arif Alam,32,78.1,High,College,Medium,Yes,7,91.0,Medium,No,1,High,Medium,Private,Negative,1,No,Far,Male,100.0
+Anika Jahan,19,96.7,Low,College,Low,Yes,7,74.5,High,No,0,Medium,Medium,Public,Negative,5,No,Near,Female,85.2
+Farhana Jahan,10,96.3,Medium,College,Low,Yes,9,67.5,High,No,0,Medium,Medium,Public,Positive,6,No,Moderate,Male,72.9
+Anika Shaikh,16,88.3,High,Postgraduate,Medium,No,8,66.9,Low,No,2,Low,Low,Private,Neutral,1,No,Far,Male,83.0
+Anika Siddique,21,100.0,Low,College,High,Yes,6,60.0,High,Yes,0,Low,Low,Private,Positive,4,Yes,Moderate,Male,88.4
+Anika Bhuiyan,28,66.2,Medium,High School,Low,Yes,6,84.1,Medium,No,2,Medium,Low,Private,Positive,7,No,Moderate,Female,89.0
+Sadia Khan,23,79.1,High,High School,Medium,Yes,9,83.4,Medium,Yes,0,Low,High,Public,Positive,1,No,Moderate,Female,96.7
+Nusrat Akter,6,54.7,Medium,College,Medium,Yes,9,76.0,Medium,No,1,Low,Low,Private,Neutral,2,No,Far,Female,61.3
+Rakib Shaikh,15,80.9,Low,High School,High,Yes,7,78.6,Medium,Yes,0,High,Low,Public,Negative,6,No,Moderate,Male,81.1
+Nusrat Ahmed,16,91.0,Medium,College,Low,No,8,76.7,Medium,No,3,High,Low,Public,Negative,5,No,Far,Male,83.5
+Laboni Shaikh,12,95.0,Medium,High School,Low,No,7,66.5,Medium,Yes,3,Low,Low,Private,Negative,7,Yes,Far,Female,79.1
+Nusrat Shaikh,22,74.3,Medium,Postgraduate,Medium,No,9,61.3,Low,Yes,0,Low,Medium,Public,Neutral,6,No,Far,Female,75.7
+Sabuj Shaikh,19,78.4,Low,Postgraduate,Medium,Yes,6,85.2,Medium,Yes,0,Medium,Medium,Private,Positive,5,No,Moderate,Female,75.6
+Tanvir Bhuiyan,28,71.6,Low,Postgraduate,Medium,Yes,9,80.0,Medium,No,1,Medium,Low,Private,Negative,6,No,Near,Female,92.8
+Nahid Ali,19,80.0,High,Postgraduate,Low,No,9,75.0,Medium,No,0,Medium,Low,Public,Neutral,5,No,Near,Male,79.8
+Mahmud Ali,22,96.0,Low,College,High,Yes,6,77.7,High,Yes,3,Medium,High,Public,Neutral,3,No,Far,Male,100.0
+Sadia Mia,21,94.0,Low,College,Medium,No,5,36.2,Medium,Yes,1,Low,Medium,Private,Positive,7,No,Near,Male,77.9
+Nahid Hasan,31,77.8,Medium,Postgraduate,High,Yes,7,86.4,High,No,1,Low,Low,Public,Negative,2,Yes,Near,Female,100.0
+Rafi Khan,32,97.8,Medium,High School,Low,Yes,6,97.0,Low,No,0,Medium,Low,Public,Neutral,1,No,Far,Male,100.0
+Mehedi Alam,12,82.4,Medium,Postgraduate,Medium,No,8,70.4,High,No,2,Low,Medium,Private,Negative,5,Yes,Far,Female,67.8
+Lamia Hasan,20,88.6,High,Postgraduate,High,No,9,74.6,High,Yes,2,Low,Low,Public,Neutral,4,Yes,Far,Male,100.0
+Laboni Bhuiyan,19,79.8,High,High School,Low,No,9,67.8,Medium,No,0,Low,Medium,Private,Neutral,2,Yes,Moderate,Male,63.7
+Rakib Ali,16,73.7,High,College,Low,Yes,6,54.3,High,No,2,Medium,High,Public,Negative,4,No,Moderate,Male,71.4
+Lamia Alam,12,74.0,High,High School,Medium,Yes,7,71.1,Low,Yes,0,Low,Medium,Private,Positive,1,No,Far,Female,67.7
+Laboni Mia,17,73.0,Medium,Postgraduate,High,No,6,78.5,High,Yes,1,Low,Low,Private,Positive,7,No,Far,Male,89.5
+Sadia Islam,23,79.8,High,High School,Medium,Yes,5,63.1,Medium,Yes,2,Low,Medium,Private,Neutral,4,No,Near,Female,82.1
+Fahim Ali,17,72.4,Medium,Postgraduate,Low,No,6,89.1,High,No,1,Medium,Medium,Public,Negative,5,Yes,Near,Male,79.7
+Tanvir Hasan,16,74.2,High,Postgraduate,Low,No,7,54.7,Low,Yes,1,Low,Low,Public,Negative,1,No,Far,Female,56.8
+Tanzim Hossain,22,88.1,Medium,High School,Low,No,8,51.9,High,Yes,3,Low,Medium,Public,Neutral,7,No,Moderate,Female,85.6
+Arafat Bhuiyan,21,74.6,Medium,Postgraduate,Low,No,6,64.1,Medium,No,1,High,Medium,Public,Negative,5,Yes,Far,Male,74.5
+Tanzim Hossain,2,73.4,High,Postgraduate,High,No,6,71.0,High,No,2,High,Low,Private,Positive,5,No,Moderate,Female,63.1
+Lamia Khan,24,80.0,High,Postgraduate,High,Yes,8,91.2,Medium,No,1,Low,Medium,Public,Positive,6,No,Near,Male,100.0
+Nusrat Mia,19,82.2,Low,Postgraduate,Medium,Yes,7,83.9,Medium,Yes,2,High,Low,Private,Neutral,7,No,Far,Female,87.7
+Arafat Ahmed,23,89.6,Medium,Postgraduate,High,No,7,74.8,Medium,No,0,Medium,Low,Public,Positive,7,No,Near,Male,88.3
+Sajib Alam,19,79.5,High,College,Medium,Yes,5,72.2,Low,No,1,High,High,Public,Neutral,7,No,Moderate,Female,75.2
+Laboni Ahmed,4,90.8,High,Postgraduate,High,No,7,86.0,Medium,No,3,Low,High,Public,Negative,4,No,Moderate,Male,88.4
+Arif Ali,14,100.0,Low,Postgraduate,High,No,6,57.3,Medium,Yes,1,Medium,Low,Public,Neutral,3,Yes,Near,Female,84.9
+Rakib Ali,17,99.2,Medium,High School,High,Yes,8,81.4,Medium,Yes,3,Low,Low,Public,Neutral,5,Yes,Far,Male,98.2
+Sadia Jahan,18,91.7,Medium,College,High,Yes,9,85.1,High,Yes,1,Low,Medium,Private,Negative,1,No,Moderate,Female,88.1
+Sabuj Ahmed,32,91.4,Low,Postgraduate,High,Yes,7,60.2,Low,No,0,Low,Medium,Private,Negative,2,No,Far,Male,100.0
+Mahmud Ahmed,11,79.4,Medium,Postgraduate,Medium,Yes,6,69.7,Medium,Yes,0,Medium,High,Public,Neutral,5,No,Near,Male,74.4
+Tasnim Siddique,20,80.1,Medium,College,Low,Yes,5,54.2,High,No,0,High,Medium,Public,Negative,2,No,Far,Female,76.9
+Sabuj Khan,6,72.3,High,High School,Low,No,7,87.5,Medium,Yes,1,High,Low,Public,Neutral,3,Yes,Far,Female,70.4
+Mahmud Mia,35,76.5,High,Postgraduate,Low,No,8,73.4,Medium,Yes,0,Medium,High,Public,Negative,2,No,Far,Female,89.2
+Farhana Islam,24,82.1,High,College,Medium,No,7,67.9,Medium,No,0,Low,Low,Private,Neutral,4,No,Moderate,Male,82.6
+Rakib Ali,11,77.7,Low,College,Medium,Yes,7,48.7,High,No,4,High,High,Public,Positive,5,No,Moderate,Male,72.0
+Rakib Chowdhury,25,78.0,High,College,Low,No,8,90.4,High,Yes,4,Medium,Low,Public,Neutral,5,No,Far,Female,98.0
+Sajib Siddique,7,64.2,High,High School,Low,No,8,81.4,High,Yes,0,High,High,Public,Positive,2,Yes,Moderate,Male,55.7
+Anika Chowdhury,33,100.0,Low,Postgraduate,Low,No,6,82.9,High,Yes,1,Low,High,Private,Neutral,6,No,Near,Male,100.0
+Sadia Khan,11,71.5,High,College,Medium,Yes,5,56.3,High,No,4,Medium,High,Private,Negative,5,No,Moderate,Female,70.1
+Sabuj Hasan,4,91.0,High,College,Low,Yes,5,59.0,Medium,Yes,1,High,Low,Private,Positive,2,No,Near,Female,60.2
+Sumaiya Mia,18,100.0,High,College,High,No,8,78.1,Medium,No,1,High,High,Private,Neutral,2,No,Far,Male,99.5
+Mahmud Siddique,10,88.0,Medium,College,Medium,Yes,8,67.5,Low,Yes,1,High,Medium,Public,Negative,2,No,Near,Female,71.2
+Arafat Islam,7,84.9,High,College,Medium,Yes,8,77.7,High,No,3,High,High,Private,Positive,3,Yes,Far,Female,87.3
+Farhana Islam,22,77.3,Medium,Postgraduate,Low,No,9,77.8,High,No,0,High,Medium,Public,Positive,4,No,Near,Male,80.0
+Tasnim Hossain,19,67.9,High,College,High,Yes,9,73.8,Low,Yes,3,Low,Low,Private,Neutral,7,Yes,Far,Male,84.9
+Lamia Ahmed,5,97.1,High,High School,Medium,No,6,61.3,High,No,2,Medium,Low,Private,Neutral,1,No,Moderate,Female,69.8
+Nahid Mia,21,53.0,Medium,Postgraduate,High,Yes,7,100.0,Medium,Yes,3,High,Low,Private,Positive,4,No,Far,Male,87.6
+Arafat Islam,19,85.4,High,High School,Medium,No,9,81.3,Medium,Yes,1,High,Low,Private,Neutral,6,No,Far,Male,87.9
+Sadia Akter,29,79.5,Medium,College,Low,Yes,8,72.1,Medium,Yes,1,Medium,High,Public,Neutral,7,No,Near,Male,93.7
+Sumaiya Bhuiyan,25,84.3,Medium,High School,High,No,6,73.7,Medium,Yes,2,High,High,Public,Negative,4,No,Near,Male,96.1
+Rafi Khan,27,95.2,Medium,College,High,No,5,68.3,High,No,1,Medium,Low,Private,Positive,3,No,Far,Female,97.5
+Rakib Chowdhury,14,92.3,High,College,High,No,7,87.3,High,No,0,High,Low,Public,Positive,7,No,Moderate,Female,91.9
+Nusrat Ahmed,24,90.6,High,Postgraduate,Medium,Yes,5,79.9,Medium,No,2,High,High,Public,Positive,7,No,Moderate,Male,94.8
+Arafat Shaikh,29,90.5,Medium,High School,High,Yes,9,78.9,Low,No,0,Medium,High,Private,Neutral,1,No,Near,Male,100.0
+Tanzim Hasan,13,81.7,High,High School,High,Yes,7,51.0,High,No,0,High,Low,Public,Negative,3,No,Near,Male,65.3
+Rakib Akter,13,78.3,Low,Postgraduate,Medium,Yes,7,47.5,Medium,Yes,0,Medium,Medium,Private,Neutral,1,No,Moderate,Female,63.1
+Tanvir Ali,31,82.0,Medium,High School,Medium,No,9,71.5,Low,Yes,0,High,Medium,Public,Positive,7,Yes,Near,Male,92.3
+Sumaiya Jahan,7,72.8,High,Postgraduate,Low,Yes,8,63.2,Medium,Yes,3,Low,High,Private,Negative,2,No,Moderate,Male,59.6
+Sabuj Alam,18,90.4,Low,Postgraduate,Medium,Yes,9,70.1,Medium,No,1,Medium,Low,Private,Neutral,2,Yes,Moderate,Male,84.8
+Sabuj Chowdhury,25,67.1,High,College,Low,No,5,74.8,High,No,1,Low,High,Private,Neutral,7,No,Moderate,Female,85.4
+Rakib Bhuiyan,13,86.0,Medium,Postgraduate,Low,Yes,8,74.1,Low,No,1,High,High,Public,Neutral,1,Yes,Near,Female,79.4
+Rakib Mia,34,96.9,Low,High School,Low,No,5,76.9,Low,Yes,0,High,Low,Public,Neutral,1,No,Moderate,Female,97.1
+Sajib Shaikh,26,88.7,Medium,Postgraduate,Low,No,6,77.3,Medium,Yes,1,High,Low,Public,Positive,4,No,Near,Male,94.4
+Sabuj Khan,23,75.9,High,High School,Low,Yes,9,73.6,High,Yes,0,Medium,High,Public,Negative,1,No,Moderate,Male,76.3
+Nusrat Hossain,22,70.6,Medium,Postgraduate,High,No,7,65.2,Low,No,0,Medium,Low,Public,Neutral,7,No,Far,Male,79.3
+Mahmud Bhuiyan,17,83.9,Low,Postgraduate,Low,Yes,8,85.6,Medium,No,1,Low,Low,Public,Neutral,2,No,Far,Male,76.6
+Lamia Shaikh,17,72.7,Low,High School,High,No,9,84.2,High,Yes,1,Low,Medium,Public,Negative,3,No,Near,Male,84.1
+Sumaiya Mia,22,84.3,Medium,Postgraduate,Low,No,9,85.9,Low,No,1,Low,Low,Private,Positive,2,No,Far,Male,85.2
+Fahim Hasan,19,100.0,Low,Postgraduate,Medium,Yes,9,96.0,Medium,Yes,2,Low,Medium,Public,Positive,5,No,Far,Female,92.8
+Farhana Khan,27,96.8,High,Postgraduate,Low,Yes,5,75.2,Medium,No,0,Medium,Low,Public,Negative,6,No,Near,Male,91.5
+Tasnim Ahmed,21,78.6,Low,College,Medium,Yes,8,67.9,Medium,Yes,1,High,High,Private,Negative,5,No,Near,Male,83.7
+Nusrat Hossain,20,89.2,Low,Postgraduate,Medium,Yes,5,53.8,High,No,0,Low,High,Private,Neutral,2,No,Moderate,Male,73.3
+Sumaiya Ali,8,65.0,Low,College,Low,No,7,91.3,Low,Yes,3,Low,Medium,Private,Negative,2,Yes,Near,Female,66.9
+Rakib Mia,24,68.3,Low,Postgraduate,Medium,Yes,8,88.5,Medium,Yes,0,Medium,Low,Private,Negative,4,No,Near,Female,84.4
+Mehedi Bhuiyan,27,100.0,Medium,High School,Medium,Yes,8,63.6,High,Yes,2,Medium,Low,Public,Positive,3,Yes,Near,Female,96.9
+Sabuj Mia,13,95.5,Medium,Postgraduate,Low,Yes,5,57.3,Low,Yes,2,High,Medium,Private,Positive,4,No,Moderate,Male,78.7
+Laboni Shaikh,21,80.2,Medium,Postgraduate,Medium,No,6,61.7,Medium,Yes,0,Low,High,Public,Neutral,2,No,Far,Female,74.1
+Tasnim Ahmed,20,70.0,Low,Postgraduate,Low,No,6,84.4,Low,Yes,0,Medium,Medium,Private,Negative,7,Yes,Near,Female,73.5
+Tasnim Akter,7,68.4,Medium,Postgraduate,High,No,5,70.9,Low,Yes,1,Medium,High,Public,Neutral,5,Yes,Moderate,Male,58.1
+Sajib Mia,39,91.4,Low,Postgraduate,High,No,6,73.7,Medium,No,4,High,Low,Public,Neutral,6,No,Moderate,Female,100.0
+Arif Mia,36,84.6,Low,Postgraduate,High,Yes,7,88.8,Low,No,2,High,Low,Private,Negative,3,No,Far,Male,100.0
+Tanvir Siddique,23,82.2,High,College,Medium,No,8,83.4,Low,No,0,High,Low,Private,Neutral,5,No,Moderate,Female,89.7
+Tasnim Bhuiyan,27,73.1,High,Postgraduate,Low,No,7,43.7,Low,Yes,1,Medium,Medium,Public,Negative,1,No,Near,Male,73.1
+Sadia Khan,21,82.6,Low,High School,High,Yes,7,76.4,High,No,2,Medium,Low,Private,Neutral,2,Yes,Moderate,Male,94.5
+Arafat Shaikh,2,70.8,Low,Postgraduate,High,No,9,68.5,Medium,No,0,High,Medium,Private,Positive,2,Yes,Moderate,Female,57.8
+Anika Islam,19,62.3,Medium,High School,Medium,No,9,71.5,Medium,No,0,Medium,Medium,Public,Negative,3,No,Far,Male,77.5
+Mehedi Islam,24,82.6,High,Postgraduate,High,Yes,7,71.1,Low,No,0,High,Low,Public,Negative,2,No,Moderate,Female,85.7
+Mahmud Siddique,16,78.2,High,High School,High,No,8,91.9,Medium,Yes,1,High,Medium,Public,Neutral,4,No,Near,Male,89.1
+Sadia Khan,22,77.6,Medium,High School,Low,No,7,55.8,High,No,2,Medium,High,Private,Positive,6,No,Far,Female,86.7
+Nusrat Mia,13,66.9,Medium,High School,Low,Yes,5,70.7,High,No,1,High,High,Public,Neutral,3,No,Moderate,Female,71.5
+Tanzim Hasan,22,89.4,High,High School,High,Yes,9,58.8,High,Yes,4,High,Low,Private,Negative,4,Yes,Far,Male,94.1
+Mahmud Khan,7,84.2,Medium,Postgraduate,High,Yes,7,100.0,High,No,0,Medium,Low,Private,Neutral,3,Yes,Moderate,Male,83.4
+Tasnim Ahmed,26,74.6,Medium,Postgraduate,Low,No,8,100.0,Low,No,1,Medium,High,Private,Positive,2,No,Far,Female,86.7
+Lamia Hasan,8,78.8,Low,High School,Low,No,8,68.0,Medium,Yes,4,Low,Medium,Private,Negative,2,Yes,Far,Female,69.7
+Arif Khan,20,86.0,High,Postgraduate,Low,No,6,68.1,Low,Yes,1,Medium,Low,Private,Neutral,1,No,Moderate,Female,71.6
+Sabuj Islam,21,74.1,Medium,College,High,No,5,80.0,High,No,2,Low,Medium,Public,Positive,1,Yes,Far,Male,91.4
+Tanvir Khan,19,67.1,Low,Postgraduate,High,No,7,60.5,Medium,No,2,High,High,Private,Positive,5,Yes,Far,Male,82.8
+Lamia Shaikh,12,87.7,Medium,High School,High,Yes,8,94.8,Low,No,1,Low,Low,Private,Neutral,6,No,Moderate,Female,88.7
+Tasnim Shaikh,24,79.5,Medium,College,High,Yes,7,82.8,High,Yes,0,High,Low,Public,Positive,7,No,Far,Female,89.1
+Anika Ahmed,27,76.6,High,Postgraduate,High,Yes,8,67.4,Medium,Yes,1,High,Low,Private,Negative,3,No,Moderate,Female,90.8
+Mehedi Hossain,19,76.2,Low,High School,High,No,7,62.9,Low,Yes,0,Low,Low,Public,Neutral,3,No,Near,Female,78.8
+Tasnim Islam,25,79.8,Medium,Postgraduate,High,Yes,7,64.9,Medium,Yes,1,Low,Low,Private,Negative,2,No,Far,Male,93.2
+Mahmud Islam,21,83.8,Low,College,High,No,8,75.4,Low,Yes,1,Low,Low,Public,Neutral,1,No,Near,Male,91.2
+Tanvir Shaikh,14,91.5,Low,College,High,Yes,6,46.4,Low,Yes,2,Low,Low,Public,Positive,7,No,Near,Male,79.4
+Tanvir Hasan,14,74.8,Medium,College,Low,Yes,6,52.6,High,Yes,0,High,High,Public,Positive,3,No,Far,Male,65.9
+Mehedi Alam,16,90.2,High,High School,High,Yes,8,75.5,Low,No,1,High,Low,Private,Neutral,4,No,Near,Female,88.2
+Mahmud Siddique,24,100.0,Low,College,Low,Yes,5,62.7,Medium,No,1,Medium,Low,Private,Negative,3,No,Far,Male,90.0
+Fahim Hossain,18,93.1,Medium,College,Medium,No,6,72.2,High,Yes,1,High,High,Private,Positive,7,Yes,Moderate,Female,96.2
+Arafat Alam,23,66.1,Medium,Postgraduate,Medium,Yes,8,66.3,Low,No,3,Medium,Low,Private,Positive,4,No,Near,Male,76.2
+Lamia Hossain,2,84.4,High,High School,Low,No,7,80.1,Medium,Yes,1,Low,Low,Private,Negative,7,Yes,Far,Female,63.4
+Lamia Hasan,28,90.9,Medium,Postgraduate,Medium,No,8,60.7,Medium,Yes,3,Medium,Medium,Private,Neutral,4,No,Near,Female,95.5
+Farhana Akter,5,85.8,Low,High School,Low,Yes,9,66.9,High,Yes,0,Medium,Low,Public,Neutral,5,No,Near,Female,61.9
+Nusrat Bhuiyan,25,51.3,Low,Postgraduate,High,No,9,63.8,Medium,No,1,High,Medium,Public,Neutral,5,No,Far,Female,72.1
+Sabuj Bhuiyan,25,68.2,Low,College,Low,No,6,83.3,Medium,No,1,Low,Medium,Private,Neutral,4,No,Near,Female,83.6
+Sumaiya Islam,11,67.6,Medium,Postgraduate,Medium,No,8,86.1,Medium,No,0,High,Low,Private,Positive,3,No,Far,Male,71.6
+Fahim Hasan,26,79.0,Medium,Postgraduate,High,Yes,7,65.6,Medium,Yes,1,Low,Medium,Private,Negative,4,No,Moderate,Male,94.6
+Nusrat Chowdhury,15,84.7,Medium,College,Medium,Yes,7,99.2,Medium,No,0,High,Low,Public,Negative,1,No,Far,Male,86.6
+Sajib Islam,23,98.8,Low,Postgraduate,Medium,No,7,83.1,Low,No,0,Low,Medium,Private,Positive,4,Yes,Far,Male,87.9
+Lamia Chowdhury,27,91.6,Medium,Postgraduate,Low,No,6,74.5,Medium,No,1,Low,Low,Public,Neutral,4,No,Moderate,Female,86.4
+Arafat Ali,24,79.8,High,High School,Medium,No,9,81.5,Medium,Yes,2,High,Low,Private,Positive,3,No,Far,Male,94.0
+Tanvir Hossain,26,81.1,High,Postgraduate,Medium,No,8,89.2,Medium,No,3,Medium,Low,Private,Negative,3,No,Near,Female,100.0
+Nahid Siddique,26,74.6,Medium,Postgraduate,High,No,9,66.2,Low,Yes,1,High,Low,Public,Positive,6,Yes,Moderate,Female,83.0
+Tanzim Siddique,28,93.3,Low,College,Medium,No,8,82.9,Low,No,1,Medium,Low,Public,Positive,3,No,Near,Male,99.3
+Anika Akter,11,77.4,Low,College,High,Yes,8,83.7,High,Yes,1,Low,Low,Private,Negative,4,No,Near,Female,84.6
+Arif Chowdhury,19,87.5,Medium,Postgraduate,Low,Yes,8,84.8,Low,No,3,Medium,Low,Private,Negative,7,No,Far,Male,83.0
+Sabuj Shaikh,24,82.6,Low,College,High,Yes,9,74.1,Medium,No,2,High,Low,Private,Neutral,6,No,Near,Male,90.3
+Laboni Alam,18,85.2,Low,Postgraduate,High,Yes,9,77.4,High,Yes,1,High,High,Private,Neutral,6,No,Moderate,Female,98.3
+Rafi Bhuiyan,16,71.6,High,Postgraduate,Low,Yes,9,83.7,Medium,Yes,2,Medium,Low,Public,Negative,1,Yes,Moderate,Female,73.6
+Fahim Siddique,14,91.3,Medium,Postgraduate,Low,Yes,7,89.6,Medium,No,3,Low,High,Private,Neutral,1,No,Moderate,Female,95.4
+Nahid Shaikh,17,83.7,High,Postgraduate,Low,No,9,49.1,High,No,1,High,High,Public,Neutral,7,No,Far,Male,74.8
+Farhana Ali,29,63.8,Medium,College,Low,Yes,8,91.0,Medium,No,1,Low,Medium,Private,Negative,7,No,Moderate,Female,83.6
+Tanzim Ahmed,15,61.5,Low,College,Medium,No,7,58.4,High,Yes,0,Low,Medium,Private,Positive,4,No,Far,Male,69.5
+Nahid Mia,24,80.2,High,Postgraduate,Medium,Yes,6,93.4,Medium,No,2,High,High,Public,Negative,6,No,Near,Female,100.0
+Anika Rahman,17,66.1,High,High School,Low,No,7,68.2,Low,No,0,Medium,Low,Public,Positive,2,Yes,Far,Male,66.1
+Lamia Ali,15,62.0,Medium,College,Low,No,9,55.4,Low,No,4,High,Medium,Private,Negative,6,No,Near,Male,64.2
+Nahid Akter,18,70.9,Low,High School,Medium,No,7,86.5,Low,No,1,High,Medium,Public,Negative,2,No,Near,Male,84.4
+Lamia Hossain,11,62.1,Low,Postgraduate,High,Yes,8,62.4,Medium,Yes,1,Low,Medium,Private,Negative,2,No,Moderate,Female,61.9
+Sumaiya Ali,12,70.0,Low,Postgraduate,Low,Yes,6,76.9,Medium,No,2,Low,High,Public,Neutral,5,No,Moderate,Female,71.0
+Rakib Alam,19,84.2,Low,College,High,Yes,6,76.8,High,No,2,Low,High,Private,Negative,6,No,Far,Female,91.8
+Rafi Mia,9,92.0,Medium,Postgraduate,High,Yes,9,85.4,Medium,Yes,2,Medium,Low,Public,Positive,6,No,Moderate,Female,79.6
+Nahid Mia,7,93.1,High,High School,Low,No,7,83.2,Medium,No,3,Low,High,Private,Neutral,2,No,Far,Male,72.3
+Laboni Khan,24,86.1,Medium,College,Low,No,7,79.5,Low,Yes,2,Medium,Medium,Private,Negative,6,No,Near,Female,83.0
+Tasnim Alam,13,100.0,Medium,College,Medium,Yes,5,74.6,High,No,0,High,Medium,Private,Neutral,2,Yes,Near,Female,82.4
+Sadia Shaikh,24,81.3,Low,High School,Low,No,7,89.7,Medium,No,0,Low,Medium,Public,Positive,6,Yes,Near,Female,85.0
+Arif Khan,13,80.3,Medium,College,Low,Yes,9,78.4,High,Yes,1,Medium,Low,Public,Neutral,6,No,Near,Female,75.4
+Lamia Jahan,16,62.7,High,High School,High,Yes,7,98.5,High,No,2,High,Low,Private,Negative,6,No,Moderate,Male,93.3
+Nusrat Chowdhury,26,70.3,Medium,Postgraduate,Low,No,7,79.0,Medium,No,0,Medium,Low,Public,Negative,1,No,Far,Male,82.6
+Nahid Khan,13,73.7,Medium,Postgraduate,High,No,5,61.2,High,No,0,Low,Low,Public,Negative,4,No,Far,Female,68.9
+Tanvir Islam,33,78.4,Low,College,Low,No,8,96.6,Low,No,0,High,Low,Public,Neutral,7,No,Near,Female,100.0
+Sumaiya Mia,23,87.7,Medium,Postgraduate,High,Yes,9,75.1,Low,No,0,Medium,Medium,Public,Neutral,5,Yes,Moderate,Female,93.6
+Sumaiya Hossain,31,90.2,Medium,College,High,Yes,8,76.2,Low,No,0,Medium,Medium,Private,Negative,5,No,Far,Male,100.0
+Laboni Hossain,25,79.5,Medium,College,Medium,Yes,9,89.0,Low,No,0,Low,Medium,Private,Negative,1,Yes,Moderate,Male,99.9
+Tanzim Siddique,26,78.8,Low,Postgraduate,Medium,No,5,89.5,Medium,No,1,Medium,Low,Private,Positive,6,No,Far,Male,95.8
+Rakib Islam,9,90.3,Low,College,Low,No,6,65.5,Low,No,1,High,Medium,Private,Neutral,2,No,Moderate,Male,73.6
+Arafat Mia,24,84.2,High,College,High,No,8,67.3,Low,Yes,0,Low,Medium,Public,Negative,6,No,Far,Female,80.5
+Rafi Ali,20,59.0,High,Postgraduate,High,No,5,73.8,High,No,4,Medium,Medium,Private,Positive,2,No,Near,Male,82.9
+Nusrat Ali,22,77.5,Low,Postgraduate,Low,Yes,8,98.5,Low,Yes,0,Medium,Low,Private,Positive,2,No,Near,Female,81.6
+Fahim Chowdhury,17,78.6,Low,High School,Low,No,9,85.1,Low,Yes,3,Medium,High,Private,Neutral,7,No,Near,Female,85.7
+Rafi Shaikh,14,86.0,Medium,High School,Low,No,9,59.9,High,No,0,Low,High,Private,Neutral,5,Yes,Moderate,Female,68.3
+Nahid Alam,43,96.9,High,College,Low,No,8,55.1,High,Yes,3,Medium,Low,Public,Neutral,5,Yes,Moderate,Male,100.0
+Tasnim Khan,14,94.1,High,College,Low,No,9,58.0,Low,No,1,Low,Medium,Public,Neutral,7,No,Far,Female,65.7
+Rakib Islam,18,71.8,Medium,Postgraduate,High,Yes,6,76.5,Medium,Yes,0,Medium,Medium,Private,Neutral,2,No,Far,Female,91.2
+Mahmud Islam,23,92.2,High,College,Low,Yes,6,76.4,Medium,Yes,2,Low,Medium,Private,Negative,2,No,Moderate,Female,89.2
+Laboni Shaikh,36,68.4,Low,College,Medium,Yes,9,80.6,Low,No,0,Medium,High,Public,Negative,3,No,Moderate,Male,94.5
+Sadia Ali,11,90.9,High,Postgraduate,High,No,9,75.6,High,Yes,0,Low,Low,Public,Neutral,1,No,Far,Male,88.9
+Mehedi Akter,14,66.9,Low,High School,Medium,No,7,71.0,Low,No,1,High,High,Private,Positive,7,No,Near,Female,70.6
+Sadia Hossain,8,89.2,Low,College,Medium,No,7,72.0,Low,Yes,0,Low,Low,Private,Neutral,6,No,Moderate,Female,67.3
+Farhana Islam,28,100.0,High,College,Low,No,9,51.8,Low,No,1,Low,Medium,Private,Neutral,1,Yes,Near,Male,79.2
+Arafat Rahman,28,94.7,Medium,College,Low,Yes,9,74.0,Medium,Yes,1,High,Low,Private,Negative,7,No,Moderate,Female,87.2
+Anika Mia,22,93.1,High,College,Medium,No,7,59.8,Low,No,2,High,Medium,Public,Positive,7,No,Far,Female,86.3
+Rafi Bhuiyan,17,72.5,Low,College,Low,Yes,9,80.1,Low,No,0,Low,High,Private,Neutral,3,No,Far,Female,71.5
+Mehedi Shaikh,26,79.2,Low,Postgraduate,High,No,9,74.5,Medium,Yes,1,High,Low,Private,Positive,3,No,Moderate,Female,86.4
+Nusrat Shaikh,19,72.8,High,High School,Medium,No,7,100.0,Medium,Yes,2,High,High,Public,Neutral,6,No,Moderate,Female,95.5
+Lamia Akter,22,100.0,Low,Postgraduate,Medium,No,8,79.2,High,Yes,3,Medium,High,Public,Negative,7,Yes,Near,Male,100.0
+Sumaiya Hossain,3,79.8,Low,High School,Medium,Yes,7,70.7,Low,No,0,High,Medium,Public,Neutral,5,Yes,Far,Female,65.7
+Fahim Akter,13,81.2,Medium,College,High,Yes,6,91.3,Medium,Yes,4,Medium,High,Private,Negative,4,Yes,Near,Male,91.1
+Fahim Shaikh,17,93.3,High,High School,High,Yes,5,80.9,Medium,No,0,High,Low,Private,Negative,3,No,Near,Male,88.5
+Anika Rahman,15,84.5,Medium,College,Medium,No,8,90.8,Low,Yes,1,Medium,Low,Public,Positive,1,No,Near,Male,81.9
+Nusrat Siddique,11,73.7,Medium,High School,Low,No,6,56.4,Medium,No,0,Medium,Medium,Private,Positive,5,Yes,Far,Male,51.4
+Rakib Bhuiyan,15,55.5,Medium,Postgraduate,Medium,No,8,86.6,Low,No,2,Low,High,Private,Negative,6,Yes,Moderate,Male,80.7
+Tanvir Akter,18,100.0,Low,High School,High,Yes,8,77.8,Low,Yes,0,Low,High,Private,Positive,5,No,Far,Male,100.0
+Sabuj Hossain,23,99.5,High,Postgraduate,Low,No,8,83.9,Low,Yes,3,High,Medium,Public,Negative,7,No,Moderate,Male,99.0
+Sabuj Rahman,10,82.7,Medium,High School,Medium,No,7,89.0,Low,Yes,2,Low,High,Private,Neutral,2,No,Far,Male,87.9
+Mehedi Ahmed,16,76.2,Low,High School,Medium,No,5,78.2,Medium,Yes,4,Low,High,Public,Negative,3,No,Moderate,Female,87.5
+Sadia Chowdhury,24,99.3,Medium,College,Medium,Yes,5,85.0,Low,No,1,High,Low,Public,Negative,3,Yes,Near,Female,98.9
+Rakib Siddique,11,86.8,Medium,High School,Medium,No,8,99.3,Low,Yes,0,Low,Medium,Public,Negative,1,No,Moderate,Female,80.7
+Laboni Jahan,14,69.9,Low,College,High,No,6,63.4,Low,Yes,1,Low,Low,Private,Positive,1,Yes,Far,Female,68.6
+Tanzim Alam,20,92.8,Medium,College,High,Yes,7,61.3,Medium,No,3,Low,High,Private,Neutral,1,No,Far,Male,99.1
+Rafi Mia,28,89.2,Low,High School,High,No,7,87.0,High,No,0,High,Medium,Private,Negative,2,No,Far,Female,99.5
+Sajib Rahman,21,88.6,Low,College,High,Yes,8,57.5,Medium,No,0,Low,Low,Public,Positive,5,No,Far,Male,79.1
+Fahim Bhuiyan,11,90.4,Medium,Postgraduate,Low,Yes,9,52.6,High,No,2,High,High,Public,Positive,3,No,Moderate,Female,74.7
+Rafi Islam,24,89.5,High,High School,Low,Yes,6,64.2,Medium,Yes,0,High,Medium,Public,Neutral,1,No,Moderate,Female,83.0
+Nahid Akter,12,99.2,Medium,Postgraduate,Low,No,8,67.6,Low,No,0,High,Medium,Private,Negative,1,No,Near,Male,72.3
+Tanvir Hasan,22,63.2,High,College,Low,Yes,9,75.3,High,Yes,1,Low,Low,Public,Negative,6,No,Far,Male,75.6
+Tanvir Jahan,25,78.5,High,High School,High,No,8,67.4,High,Yes,1,Medium,High,Private,Positive,3,No,Moderate,Female,96.9
+Nusrat Akter,26,89.3,High,College,Medium,Yes,7,59.8,Medium,Yes,0,Medium,High,Public,Positive,1,Yes,Far,Female,87.3
+Rafi Jahan,29,74.8,Medium,High School,High,No,7,48.6,Low,Yes,2,Low,High,Public,Positive,1,No,Near,Female,92.0
+Nusrat Shaikh,24,97.9,Medium,College,Low,Yes,7,79.4,High,Yes,1,Medium,High,Private,Neutral,5,No,Moderate,Male,100.0
+Farhana Hossain,27,86.0,High,Postgraduate,Medium,Yes,5,96.9,Low,Yes,4,Low,High,Private,Positive,7,No,Moderate,Female,100.0
+Sadia Shaikh,17,100.0,Medium,High School,Medium,Yes,8,62.5,High,Yes,0,High,High,Private,Negative,1,No,Moderate,Female,92.7
+Nahid Bhuiyan,25,83.9,Medium,High School,High,No,8,71.1,High,No,1,Medium,High,Public,Neutral,5,No,Moderate,Male,100.0
+Sajib Hasan,25,92.6,Low,High School,Low,Yes,8,65.7,Low,Yes,1,High,High,Public,Positive,6,No,Moderate,Female,88.8
+Nahid Khan,29,96.1,Low,High School,Low,No,7,81.8,Low,No,0,Medium,Low,Public,Neutral,5,No,Near,Female,94.3
+Sajib Ahmed,35,82.0,Medium,High School,High,Yes,6,88.2,High,Yes,0,Medium,High,Public,Negative,7,No,Near,Male,100.0
+Arafat Rahman,23,69.7,Low,Postgraduate,Medium,No,6,57.1,High,No,2,High,High,Private,Positive,1,No,Moderate,Female,84.3
+Rakib Alam,35,75.6,Low,College,Low,Yes,7,69.3,Low,No,0,High,High,Public,Positive,7,No,Near,Female,93.4
+Rafi Jahan,24,98.0,Medium,High School,Low,Yes,9,85.9,Medium,Yes,3,Low,Low,Public,Neutral,7,No,Moderate,Male,99.1
+Tasnim Shaikh,20,88.7,Low,High School,Low,Yes,5,38.6,Medium,No,0,High,Low,Public,Neutral,2,No,Near,Male,65.8
+Tanvir Alam,6,88.5,Low,High School,High,Yes,6,76.1,Low,No,1,Medium,Medium,Public,Neutral,5,No,Moderate,Female,77.5
+Nahid Alam,16,80.2,Medium,Postgraduate,Low,Yes,6,73.0,Low,No,0,High,Low,Public,Negative,1,No,Moderate,Female,69.4
+Nahid Hasan,27,85.1,Low,Postgraduate,Medium,No,8,78.6,Low,Yes,0,High,Medium,Public,Negative,7,Yes,Near,Male,94.4
+Nahid Hossain,25,72.3,Low,Postgraduate,Medium,No,8,86.5,High,Yes,4,Medium,High,Private,Neutral,4,No,Far,Female,97.4
+Tanvir Hasan,22,82.9,Medium,Postgraduate,High,Yes,8,90.7,High,No,0,Low,Low,Public,Negative,4,Yes,Near,Female,95.6
+Lamia Islam,15,79.6,Medium,College,High,No,8,71.1,Low,No,0,Low,Low,Public,Neutral,4,No,Moderate,Female,74.2
+Rakib Chowdhury,14,73.5,Medium,College,Medium,Yes,7,49.8,Medium,No,0,Low,Medium,Private,Negative,1,No,Far,Male,61.3
+Anika Ali,17,79.1,High,Postgraduate,High,Yes,7,73.1,High,Yes,0,Low,Low,Private,Negative,2,No,Near,Male,84.8
+Sajib Ahmed,15,94.6,Medium,Postgraduate,High,No,8,59.8,Medium,Yes,0,Medium,Low,Public,Positive,7,No,Moderate,Female,76.2
+Lamia Bhuiyan,13,66.4,High,High School,Medium,Yes,9,67.6,High,Yes,0,High,High,Public,Neutral,5,No,Moderate,Male,71.2
+Arif Bhuiyan,16,86.0,Medium,Postgraduate,Medium,No,7,86.3,Medium,No,0,Low,Low,Private,Negative,2,Yes,Moderate,Male,80.7
+Lamia Ali,19,71.8,Low,College,High,Yes,7,82.0,Low,No,3,Medium,Medium,Private,Neutral,5,Yes,Far,Female,80.6
+Sabuj Hasan,21,69.2,Low,High School,Low,Yes,5,57.7,Medium,No,2,Low,High,Private,Neutral,3,Yes,Near,Female,73.6
+Lamia Khan,19,60.7,High,College,Low,No,7,72.9,Low,Yes,1,Low,Low,Public,Negative,2,No,Near,Female,65.2
+Farhana Ahmed,10,54.1,High,Postgraduate,Low,Yes,5,81.6,Medium,Yes,2,Medium,Low,Private,Positive,2,Yes,Moderate,Male,67.4
+Arif Chowdhury,23,86.4,Medium,Postgraduate,Low,No,9,79.5,Medium,No,3,High,Low,Public,Negative,2,Yes,Near,Female,81.4
+Laboni Mia,10,76.0,High,College,Medium,Yes,9,97.8,Low,No,1,High,Low,Public,Neutral,4,No,Far,Female,77.1
+Rakib Khan,29,81.3,High,High School,High,No,6,87.3,Low,No,1,High,Medium,Private,Neutral,5,No,Moderate,Male,99.3
+Sumaiya Khan,15,58.4,Medium,Postgraduate,Low,Yes,5,67.1,High,Yes,0,Low,High,Public,Neutral,6,No,Far,Female,66.7
+Mahmud Alam,35,100.0,Medium,College,High,No,9,100.0,Low,No,0,Medium,Medium,Public,Negative,1,No,Moderate,Male,100.0
+Rakib Shaikh,3,92.4,Low,Postgraduate,High,No,7,61.5,High,No,1,Low,High,Private,Neutral,1,Yes,Near,Male,75.2
+Sadia Rahman,15,72.0,High,Postgraduate,Medium,Yes,6,65.5,Medium,No,3,Low,Medium,Public,Negative,7,Yes,Moderate,Male,71.5
+Sabuj Hasan,23,79.7,Low,High School,Medium,Yes,7,74.9,Low,Yes,0,High,High,Private,Negative,2,No,Near,Female,88.2
+Mahmud Mia,29,75.8,Low,Postgraduate,High,Yes,9,63.9,Low,No,1,High,Medium,Public,Positive,1,No,Moderate,Male,89.5
+Tanzim Bhuiyan,23,87.6,Medium,High School,Low,Yes,5,81.3,Medium,No,0,Low,Low,Public,Negative,2,No,Moderate,Male,80.9
+Nusrat Bhuiyan,23,78.3,High,High School,High,Yes,9,62.3,Low,No,0,Medium,Low,Private,Positive,4,No,Far,Male,78.9
+Sumaiya Hossain,22,86.5,Low,High School,Low,No,6,93.0,Medium,No,0,Low,Medium,Public,Negative,1,Yes,Near,Female,90.1
+Tanvir Akter,3,75.0,High,College,Low,No,9,73.6,Low,Yes,4,High,Low,Private,Neutral,3,No,Moderate,Male,58.6
+Rafi Akter,14,73.2,High,High School,Medium,No,8,73.0,Low,Yes,1,Medium,High,Private,Positive,5,No,Far,Female,78.6
+Farhana Siddique,15,87.5,High,Postgraduate,Low,Yes,7,35.5,Low,No,1,Low,Low,Public,Neutral,4,No,Near,Male,59.7
+Anika Jahan,29,77.6,Low,College,Low,No,9,65.6,High,No,1,Low,Low,Public,Positive,7,No,Moderate,Male,82.3
+Sumaiya Akter,26,84.6,Medium,High School,Low,Yes,9,81.1,High,Yes,0,High,Medium,Private,Negative,7,No,Far,Male,100.0
+Rafi Siddique,20,75.9,Medium,High School,Medium,Yes,5,90.8,High,Yes,0,Low,Low,Public,Neutral,2,No,Near,Male,86.3
+Lamia Siddique,19,76.9,Low,High School,High,Yes,7,66.0,Low,Yes,2,Low,Medium,Private,Neutral,3,Yes,Near,Male,83.7
+Lamia Khan,13,75.4,High,High School,Medium,No,6,91.1,Medium,Yes,1,Medium,Low,Private,Neutral,7,Yes,Moderate,Female,76.2
+Fahim Shaikh,15,86.3,Medium,College,Low,Yes,7,63.8,Medium,No,2,Medium,High,Public,Positive,4,Yes,Moderate,Female,79.0
+Arif Hasan,25,83.4,Medium,High School,Medium,Yes,8,65.0,Low,Yes,0,Low,High,Private,Negative,4,No,Far,Female,85.9
+Sumaiya Chowdhury,20,97.6,High,College,Medium,Yes,7,63.9,Medium,Yes,1,Medium,Medium,Public,Neutral,7,No,Near,Female,88.2
+Tasnim Siddique,24,84.4,High,College,High,No,5,83.7,High,No,2,High,Medium,Public,Positive,7,No,Near,Female,94.2
+Tasnim Akter,26,76.5,High,Postgraduate,Low,No,5,61.6,High,Yes,0,Medium,High,Public,Neutral,1,No,Far,Male,86.6
+Arafat Akter,27,94.5,High,College,Medium,Yes,9,58.8,High,No,0,Low,High,Public,Positive,5,Yes,Moderate,Female,89.0
+Rafi Hasan,6,77.3,Medium,Postgraduate,Medium,No,7,88.0,High,Yes,4,Medium,Low,Public,Positive,1,No,Far,Female,76.7
+Mehedi Ali,16,68.1,Medium,High School,Low,No,7,58.7,Low,No,4,High,High,Private,Positive,2,Yes,Near,Male,72.8
+Sadia Jahan,20,46.1,Medium,High School,High,Yes,8,71.4,Low,Yes,2,High,Medium,Public,Negative,4,No,Near,Female,66.5
+Nahid Hossain,26,91.8,High,High School,Low,No,8,86.1,Medium,Yes,3,Medium,Low,Private,Negative,4,No,Far,Male,97.5
+Nusrat Shaikh,12,100.0,Low,College,Low,Yes,7,87.1,High,Yes,3,Medium,High,Public,Negative,5,No,Moderate,Female,90.1
+Sumaiya Rahman,17,89.1,Medium,Postgraduate,Medium,No,5,58.5,Medium,No,0,High,Low,Private,Positive,1,No,Moderate,Female,78.5
+Rakib Ali,15,69.3,High,College,High,No,9,91.1,Low,Yes,0,Medium,Low,Public,Positive,4,Yes,Far,Female,79.1
+Mahmud Shaikh,21,100.0,High,College,Low,No,7,73.1,High,No,0,Low,Medium,Public,Positive,4,Yes,Moderate,Male,80.3
+Fahim Akter,9,100.0,High,High School,High,Yes,9,86.8,Medium,Yes,1,Low,Medium,Public,Positive,7,Yes,Near,Female,86.5
+Rakib Islam,26,97.0,Medium,High School,Medium,Yes,5,100.0,High,Yes,3,High,High,Public,Negative,2,No,Near,Female,100.0
+Sajib Alam,6,70.5,Medium,College,Low,Yes,6,72.3,High,Yes,1,High,Medium,Private,Positive,5,Yes,Near,Female,61.3
+Nahid Hossain,11,80.8,High,College,Medium,No,5,76.1,High,Yes,2,Low,High,Private,Positive,1,No,Near,Female,77.9
+Arafat Rahman,20,79.5,High,Postgraduate,Low,No,9,60.7,High,No,0,High,Low,Private,Negative,5,No,Moderate,Male,74.4
+Mahmud Ali,6,89.0,Medium,College,Medium,Yes,7,73.1,Medium,Yes,1,Medium,High,Public,Positive,2,No,Far,Female,74.4
+Anika Ali,16,100.0,Low,College,High,Yes,6,81.8,Medium,No,0,Medium,Low,Private,Negative,4,No,Moderate,Female,84.9
+Anika Mia,5,94.3,Medium,High School,Medium,Yes,7,80.0,Low,Yes,1,Low,High,Public,Positive,7,Yes,Far,Female,77.8
+Mehedi Shaikh,9,65.2,High,College,Medium,No,9,65.8,Medium,No,0,Low,High,Private,Neutral,4,No,Moderate,Male,66.2
+Nusrat Islam,19,71.8,Medium,Postgraduate,Low,Yes,6,91.3,High,Yes,0,Medium,Medium,Private,Positive,2,Yes,Moderate,Male,80.3
+Mahmud Mia,29,76.4,High,High School,Medium,Yes,7,68.2,High,No,1,Medium,High,Public,Positive,4,No,Near,Male,98.7
+Mehedi Shaikh,23,79.8,Low,Postgraduate,High,No,8,78.7,Medium,Yes,0,Low,High,Private,Negative,3,No,Near,Female,99.6
+Nahid Islam,2,74.1,High,Postgraduate,Medium,No,5,80.3,High,No,4,High,High,Public,Neutral,1,Yes,Moderate,Male,69.2
+Arafat Hossain,33,88.0,Medium,Postgraduate,High,No,8,72.1,High,No,0,High,Low,Public,Positive,4,No,Far,Male,100.0
+Sumaiya Ahmed,24,83.9,High,High School,Low,Yes,6,65.8,Medium,No,1,High,Low,Public,Neutral,6,Yes,Near,Male,81.7
+Nusrat Islam,2,95.7,High,Postgraduate,Low,Yes,5,79.6,Low,Yes,2,Low,High,Private,Neutral,5,No,Far,Male,72.7
+Tanvir Ali,9,73.5,Low,High School,Low,Yes,5,70.0,High,No,1,High,Medium,Private,Positive,5,No,Near,Female,61.5
+Anika Akter,29,97.4,High,College,Low,No,6,71.7,High,Yes,0,High,Medium,Private,Positive,1,No,Far,Male,92.2
+Mahmud Islam,22,78.0,Medium,High School,Low,No,7,72.7,High,No,0,Low,High,Public,Positive,4,Yes,Near,Female,80.7
+Mehedi Chowdhury,21,94.2,Medium,High School,Medium,Yes,7,74.2,High,Yes,2,High,Medium,Public,Positive,5,No,Far,Male,87.0
+Laboni Hasan,21,90.3,Low,College,Low,Yes,9,56.2,Medium,Yes,2,Medium,Medium,Private,Negative,4,No,Far,Male,85.3
+Arafat Rahman,35,86.2,High,High School,Medium,No,5,96.8,Medium,Yes,3,Low,Medium,Public,Negative,7,Yes,Near,Female,100.0
+Nusrat Islam,21,79.0,High,Postgraduate,Medium,No,5,90.8,High,No,1,High,Medium,Public,Positive,2,No,Far,Male,91.8
+Sajib Bhuiyan,25,79.4,Medium,High School,Medium,Yes,6,83.2,High,No,1,Low,High,Private,Neutral,4,No,Far,Male,94.3
+Lamia Mia,4,83.7,Medium,High School,High,No,9,48.5,High,No,0,Low,Medium,Public,Positive,3,Yes,Moderate,Female,64.9
+Tanvir Chowdhury,32,73.7,High,Postgraduate,Low,No,5,92.3,Medium,No,3,Low,High,Public,Neutral,2,No,Near,Male,96.7
+Lamia Shaikh,18,89.0,Low,Postgraduate,Medium,Yes,9,64.1,High,No,4,Medium,Medium,Public,Neutral,2,No,Moderate,Male,91.5
+Sabuj Mia,20,78.0,Medium,Postgraduate,High,Yes,7,92.0,High,No,0,Low,Medium,Public,Positive,7,No,Near,Male,96.8
+Sadia Siddique,9,88.9,Medium,High School,Medium,Yes,7,80.3,Medium,No,1,High,Medium,Public,Neutral,3,No,Far,Male,67.9
+Fahim Ahmed,17,77.9,Medium,High School,Low,No,5,94.9,High,Yes,3,Medium,High,Private,Negative,5,Yes,Near,Female,88.6
+Rakib Rahman,18,72.9,Medium,College,Low,No,5,88.7,Low,Yes,0,Low,Medium,Public,Neutral,5,Yes,Moderate,Male,82.6
+Laboni Alam,17,75.9,Low,College,Low,No,7,65.7,Medium,Yes,0,Medium,Low,Public,Positive,4,Yes,Moderate,Female,67.6
+Mehedi Siddique,4,97.8,Medium,High School,Medium,No,5,75.0,High,No,0,Low,Medium,Public,Negative,2,No,Far,Male,71.1
+Anika Shaikh,14,94.1,Low,College,Medium,Yes,8,75.4,High,No,1,High,Medium,Public,Negative,5,No,Near,Female,82.2
+Fahim Bhuiyan,20,87.3,High,Postgraduate,Low,Yes,9,87.3,Medium,Yes,0,Low,Medium,Private,Negative,1,No,Near,Female,79.4
+Farhana Shaikh,18,91.4,High,College,Medium,No,6,65.2,High,No,1,Medium,High,Public,Neutral,5,Yes,Near,Female,87.3
+Sadia Mia,23,87.6,High,High School,Low,Yes,9,64.1,Medium,No,3,Low,Low,Private,Positive,5,Yes,Far,Male,81.3
+Mehedi Jahan,4,74.7,High,Postgraduate,High,No,5,83.5,Low,Yes,0,Medium,Low,Public,Negative,5,No,Near,Female,64.4
+Mahmud Hossain,2,77.5,Low,College,Medium,No,5,59.5,High,No,1,Medium,Medium,Public,Negative,3,No,Far,Female,52.3
+Nusrat Ahmed,22,67.8,Medium,College,Medium,Yes,6,82.5,High,Yes,0,Low,Medium,Public,Neutral,3,No,Near,Female,86.1
+Fahim Ahmed,16,73.7,High,High School,Medium,No,9,57.8,Low,No,2,Low,Medium,Private,Neutral,7,No,Far,Male,63.9
+Sadia Rahman,32,71.7,Medium,Postgraduate,Medium,No,6,81.4,High,Yes,0,High,High,Private,Negative,6,Yes,Near,Male,93.8
+Nahid Hossain,11,73.0,Low,Postgraduate,High,Yes,5,53.5,Low,No,2,Medium,Low,Private,Negative,2,Yes,Near,Male,65.6
+Mahmud Chowdhury,24,93.7,High,Postgraduate,Medium,Yes,6,68.7,High,No,0,Low,Medium,Private,Neutral,5,Yes,Moderate,Male,95.7
+Tanvir Mia,13,98.0,Low,College,Low,No,9,57.2,High,No,0,High,Low,Public,Positive,4,No,Near,Female,76.1
+Arif Bhuiyan,24,95.4,Medium,College,High,Yes,9,88.7,Medium,Yes,0,High,Low,Public,Negative,6,No,Far,Female,100.0
+Laboni Ahmed,38,74.6,Medium,High School,Medium,Yes,6,52.5,High,Yes,1,High,Medium,Public,Negative,3,No,Moderate,Male,87.3
+Sadia Ahmed,29,84.5,Low,Postgraduate,Low,No,6,87.0,Low,No,1,Medium,High,Public,Negative,4,No,Far,Female,99.1
+Nahid Ahmed,12,73.9,Medium,High School,High,No,8,63.2,Low,Yes,3,Medium,Medium,Public,Positive,6,No,Far,Male,77.6
+Tanvir Ali,16,92.7,High,Postgraduate,High,No,6,86.6,High,No,2,Low,Low,Private,Negative,6,Yes,Near,Female,100.0
+Sumaiya Rahman,25,100.0,Low,College,Low,Yes,7,50.8,Medium,Yes,2,High,Low,Private,Negative,1,Yes,Far,Male,82.8
+Anika Islam,25,69.6,Low,College,High,Yes,5,82.7,High,No,2,Low,Low,Public,Negative,6,Yes,Far,Female,89.6
+Laboni Islam,22,70.1,High,High School,High,Yes,5,62.1,Low,Yes,1,High,Medium,Private,Negative,3,No,Near,Male,84.8
+Sadia Akter,18,88.4,High,High School,Low,Yes,6,69.6,Low,Yes,0,Low,High,Private,Positive,3,Yes,Far,Female,78.4
+Sajib Khan,11,100.0,Low,High School,Low,Yes,5,56.1,High,Yes,0,Low,High,Private,Positive,5,No,Far,Female,74.5
+Sumaiya Islam,21,82.9,Low,High School,Low,No,8,96.7,Low,No,1,Low,Medium,Private,Negative,2,Yes,Far,Male,95.7
+Nusrat Jahan,6,94.7,Low,College,Medium,No,9,71.6,Low,Yes,0,Low,High,Private,Negative,3,No,Near,Female,75.6
+Nahid Islam,12,94.4,High,College,Low,No,7,100.0,High,No,4,Low,High,Private,Positive,7,No,Moderate,Female,96.1
+Arafat Bhuiyan,25,94.7,Low,High School,High,No,7,79.1,Low,No,0,Low,Medium,Public,Neutral,2,No,Far,Female,97.7
+Arafat Rahman,25,68.3,Low,High School,Medium,No,8,91.0,Medium,No,0,High,Medium,Private,Neutral,4,No,Near,Male,93.6
+Arif Khan,12,96.1,High,Postgraduate,Medium,Yes,6,83.3,High,No,1,High,High,Public,Neutral,3,No,Far,Male,96.4
+Sabuj Jahan,13,85.4,Low,College,High,No,9,95.5,Medium,No,2,Low,Low,Public,Negative,4,No,Moderate,Male,86.9
+Farhana Jahan,12,98.3,Low,High School,High,Yes,9,90.4,Low,No,4,Medium,Low,Public,Neutral,1,No,Far,Male,95.9
+Fahim Ali,24,100.0,High,High School,Low,Yes,8,75.4,Low,Yes,1,Low,Medium,Public,Negative,6,Yes,Near,Male,87.2
+Sadia Mia,7,100.0,High,Postgraduate,Medium,Yes,9,69.4,Medium,No,1,Low,Medium,Private,Neutral,7,No,Near,Male,72.9
+Mehedi Siddique,19,85.3,Low,High School,Medium,No,7,89.0,Medium,No,4,High,High,Private,Positive,1,No,Moderate,Male,96.7
+Laboni Chowdhury,30,86.1,Low,Postgraduate,Low,No,8,57.1,Medium,Yes,1,High,High,Public,Negative,3,No,Far,Female,83.9
+Rafi Ali,29,95.7,Medium,High School,Low,No,5,62.9,Medium,Yes,2,Low,High,Private,Negative,2,No,Moderate,Female,93.2
+Anika Islam,21,69.7,High,High School,Low,Yes,5,89.4,Low,Yes,2,High,High,Public,Neutral,5,No,Near,Female,89.1
+Lamia Shaikh,19,95.0,High,College,Low,Yes,7,84.4,Low,No,0,Medium,Medium,Public,Neutral,7,Yes,Far,Male,90.2
+Rafi Mia,36,69.8,Medium,High School,High,Yes,7,68.9,High,Yes,0,Low,Low,Private,Neutral,2,Yes,Moderate,Male,100.0
+Sadia Akter,40,74.3,Medium,High School,High,Yes,7,62.1,Low,Yes,0,High,High,Public,Negative,3,No,Moderate,Male,100.0
+Tasnim Hasan,21,71.2,Medium,High School,High,Yes,6,52.3,High,Yes,2,High,Medium,Public,Negative,7,Yes,Near,Male,81.5
+Anika Siddique,35,81.8,Low,College,Low,Yes,5,62.3,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,Moderate,Male,88.3
+Rakib Ahmed,32,88.9,Medium,College,Medium,No,9,93.6,High,Yes,1,Medium,Low,Public,Positive,6,No,Moderate,Female,100.0
+Sadia Khan,24,71.0,Medium,Postgraduate,High,No,6,45.6,Medium,No,4,Medium,Medium,Public,Positive,6,No,Far,Male,85.2
+Arif Shaikh,11,96.8,Low,High School,Medium,Yes,8,60.5,Medium,No,2,Medium,Low,Private,Negative,6,No,Moderate,Female,82.1
+Arif Alam,2,67.9,Medium,High School,Low,No,7,77.1,Low,Yes,4,Medium,High,Public,Neutral,5,No,Near,Female,58.6
+Fahim Jahan,15,80.0,High,Postgraduate,Medium,Yes,9,75.1,Low,No,0,Low,Medium,Private,Negative,7,No,Moderate,Male,66.3
+Rafi Shaikh,3,73.8,Medium,College,Medium,No,5,61.0,Low,No,3,Medium,Low,Public,Negative,3,No,Near,Male,58.6
+Rafi Hossain,5,65.7,Medium,Postgraduate,Medium,No,7,64.1,Medium,Yes,2,Low,High,Public,Positive,2,No,Moderate,Female,68.6
+Mahmud Rahman,21,88.1,Medium,College,Medium,No,5,100.0,High,No,1,High,High,Public,Positive,6,Yes,Near,Male,99.0
+Lamia Hasan,6,69.7,Low,College,High,Yes,8,70.1,High,No,0,Low,High,Private,Negative,3,Yes,Moderate,Male,65.2
+Laboni Mia,13,90.1,Low,College,Low,Yes,6,75.1,High,Yes,1,Medium,Medium,Public,Negative,3,No,Far,Female,74.7
+Mahmud Jahan,21,94.3,High,Postgraduate,Low,No,8,89.5,Medium,Yes,1,High,Medium,Public,Neutral,4,Yes,Far,Female,87.7
+Tasnim Rahman,20,72.5,High,College,High,No,8,71.1,Medium,No,0,Low,Low,Public,Neutral,3,No,Far,Female,83.1
+Sumaiya Akter,19,81.1,Medium,Postgraduate,High,Yes,8,100.0,Low,No,0,Low,Low,Public,Negative,5,Yes,Far,Male,86.8
+Lamia Bhuiyan,29,85.8,Low,Postgraduate,Medium,No,8,73.4,Medium,Yes,2,Low,Low,Public,Neutral,4,Yes,Near,Female,92.2
+Rafi Shaikh,23,88.8,Medium,High School,High,No,5,76.7,Medium,Yes,0,Low,Medium,Private,Neutral,2,Yes,Near,Male,91.3
+Tasnim Ali,24,72.2,High,Postgraduate,High,No,5,72.6,Medium,Yes,1,High,Medium,Public,Positive,7,Yes,Near,Female,84.5
+Lamia Chowdhury,25,83.5,Low,Postgraduate,Medium,Yes,9,70.9,High,No,3,Low,Low,Private,Neutral,1,No,Far,Male,100.0
+Lamia Bhuiyan,15,92.1,Medium,Postgraduate,Medium,Yes,5,71.6,High,Yes,2,Low,Low,Private,Negative,5,Yes,Near,Male,80.7
+Arif Alam,15,80.2,Low,Postgraduate,Medium,No,9,85.8,Low,Yes,1,Low,High,Public,Neutral,7,No,Moderate,Male,84.2
+Farhana Mia,17,64.6,Medium,College,High,Yes,5,78.6,Low,Yes,1,Low,Medium,Public,Negative,2,Yes,Far,Male,82.7
+Anika Ahmed,22,98.6,Low,High School,Low,Yes,5,80.2,Medium,No,2,Low,Medium,Public,Neutral,2,Yes,Near,Female,95.7
+Sumaiya Chowdhury,7,100.0,Medium,Postgraduate,Medium,Yes,9,74.7,Low,Yes,2,Low,Low,Private,Negative,5,No,Moderate,Female,79.8
+Arif Shaikh,24,66.7,Low,Postgraduate,High,Yes,5,56.0,Medium,Yes,0,High,Low,Public,Positive,2,No,Near,Female,77.9
+Sabuj Rahman,31,88.7,Low,High School,Low,No,8,52.4,High,No,2,Low,High,Public,Neutral,6,No,Moderate,Female,94.0
+Fahim Chowdhury,19,72.3,High,College,Low,No,8,68.6,Medium,No,0,Low,Low,Public,Positive,4,No,Near,Male,68.2
+Rakib Chowdhury,15,80.4,High,Postgraduate,Medium,No,8,78.0,Medium,No,1,Low,High,Public,Positive,2,No,Moderate,Male,70.8
+Tanzim Siddique,28,77.5,Medium,Postgraduate,Medium,Yes,7,74.3,Medium,Yes,0,Low,High,Private,Neutral,2,No,Moderate,Male,86.1
+Arafat Jahan,21,73.2,High,College,Medium,No,9,88.2,Low,Yes,1,High,Medium,Public,Negative,7,No,Near,Female,85.8
+Sajib Alam,21,66.0,Low,Postgraduate,Low,Yes,9,68.2,Medium,Yes,4,High,Medium,Public,Positive,6,No,Far,Male,77.1
+Sumaiya Akter,16,91.9,Medium,College,Medium,No,8,51.1,Low,Yes,1,Medium,Low,Public,Neutral,2,Yes,Near,Male,74.5
+Nahid Rahman,27,56.7,High,College,Low,Yes,9,90.2,High,No,1,Medium,Low,Private,Negative,5,No,Moderate,Male,90.3
+Tanzim Rahman,2,78.1,High,High School,Low,No,9,75.5,Medium,No,2,Medium,Low,Private,Positive,7,No,Moderate,Male,61.5
+Sajib Khan,12,62.8,High,High School,Medium,Yes,5,69.4,Medium,No,0,High,High,Private,Neutral,7,No,Near,Male,64.8
+Sabuj Islam,24,94.5,Low,College,High,Yes,5,54.3,High,Yes,4,High,Medium,Public,Negative,3,No,Far,Male,100.0
+Tanzim Hossain,18,77.7,Low,College,Low,Yes,7,90.5,Medium,Yes,4,High,Medium,Private,Neutral,7,Yes,Near,Male,83.2
+Sadia Bhuiyan,24,77.8,High,College,High,Yes,8,67.1,Medium,No,1,High,High,Public,Positive,2,Yes,Moderate,Female,92.2
+Arafat Ahmed,22,81.3,Medium,Postgraduate,Low,Yes,5,81.0,Medium,Yes,1,Low,High,Public,Positive,6,Yes,Near,Male,83.7
+Mahmud Khan,15,100.0,Medium,High School,Medium,No,9,90.8,Low,No,3,High,Medium,Public,Positive,1,Yes,Far,Male,94.8
+Sadia Jahan,13,87.1,Medium,College,Medium,Yes,9,91.9,High,Yes,1,Medium,High,Public,Neutral,6,Yes,Near,Female,80.2
+Nusrat Islam,21,82.1,Medium,High School,High,Yes,7,79.6,Low,No,1,Low,Low,Public,Neutral,3,Yes,Far,Female,86.3
+Nusrat Alam,15,67.9,High,High School,Medium,No,5,71.2,Medium,No,1,Low,Low,Public,Neutral,1,Yes,Moderate,Female,78.7
+Rafi Mia,29,61.2,Medium,High School,Medium,No,6,57.5,Low,No,1,High,Medium,Public,Positive,1,Yes,Near,Male,79.4
+Farhana Hossain,36,100.0,Low,High School,High,Yes,5,83.5,Medium,No,0,Low,Low,Public,Positive,2,Yes,Moderate,Female,100.0
+Tanvir Khan,29,74.5,Low,High School,Low,No,7,51.3,Medium,Yes,2,Low,High,Private,Positive,7,No,Far,Female,84.0
+Farhana Islam,31,85.8,Medium,Postgraduate,Low,Yes,5,83.6,Low,Yes,1,High,Low,Private,Neutral,2,Yes,Moderate,Female,100.0
+Tanvir Alam,16,74.7,Low,High School,High,Yes,5,99.3,Low,No,1,Low,High,Private,Neutral,5,Yes,Near,Male,85.1
+Anika Ali,5,81.6,Low,Postgraduate,High,No,9,83.0,Low,No,0,Medium,Low,Public,Negative,3,Yes,Far,Female,71.7
+Fahim Ahmed,12,81.3,Medium,College,Low,No,6,85.9,Medium,Yes,1,Medium,Medium,Private,Positive,6,No,Near,Female,82.1
+Sadia Rahman,27,82.6,Medium,High School,Low,Yes,7,77.2,High,Yes,3,Low,High,Private,Neutral,6,Yes,Far,Male,100.0
+Arif Alam,30,86.7,Medium,Postgraduate,Low,No,9,95.8,Medium,No,4,Medium,High,Private,Neutral,5,No,Near,Male,100.0
+Sajib Ali,9,85.4,High,High School,Medium,Yes,9,62.4,Medium,Yes,0,Medium,High,Private,Neutral,3,No,Moderate,Male,66.3
+Nahid Siddique,24,60.0,High,High School,Medium,Yes,5,52.2,Medium,No,2,Low,Medium,Public,Neutral,4,No,Moderate,Male,79.7
+Anika Shaikh,20,66.5,Medium,College,High,No,6,64.3,Low,No,1,High,Low,Private,Negative,6,No,Near,Female,73.2
+Mahmud Chowdhury,30,96.2,High,High School,Medium,Yes,7,72.5,Low,No,1,Medium,Low,Private,Neutral,5,Yes,Near,Female,100.0
+Anika Islam,30,95.8,High,College,High,Yes,7,60.4,Medium,No,3,Low,High,Public,Positive,3,Yes,Far,Male,100.0
+Arafat Ahmed,17,87.4,High,Postgraduate,Medium,Yes,9,67.4,High,Yes,3,High,Low,Private,Neutral,6,Yes,Far,Female,84.2
+Tasnim Khan,36,82.0,Medium,College,Medium,Yes,6,84.9,Medium,No,2,Low,Medium,Private,Negative,5,No,Far,Female,100.0
+Laboni Rahman,13,61.7,Low,Postgraduate,High,Yes,5,81.8,High,No,1,High,Medium,Public,Neutral,1,No,Moderate,Female,77.2
+Tanzim Ahmed,25,90.8,High,High School,Medium,No,6,60.2,High,No,2,Low,Low,Private,Positive,5,No,Far,Male,90.4
+Sadia Siddique,24,100.0,High,College,Low,No,5,74.3,Low,Yes,1,Medium,High,Public,Neutral,2,No,Near,Male,87.4
+Nahid Alam,35,70.6,Low,Postgraduate,Low,Yes,8,62.3,Low,No,1,Medium,Low,Public,Neutral,4,No,Near,Female,89.4
+Mehedi Ali,13,74.3,Low,Postgraduate,Medium,Yes,6,75.5,High,No,1,Low,High,Private,Positive,2,No,Near,Male,78.5
+Laboni Mia,23,85.2,High,Postgraduate,Low,Yes,5,69.3,Medium,No,4,Medium,Medium,Private,Neutral,4,No,Moderate,Female,88.3
+Sumaiya Ali,7,68.1,Medium,High School,Low,No,5,73.7,Medium,Yes,0,High,Medium,Public,Positive,3,No,Near,Female,53.8
+Sadia Khan,13,68.6,High,College,Medium,Yes,6,77.6,Low,No,1,High,Low,Private,Positive,6,Yes,Far,Male,71.6
+Sadia Rahman,15,87.1,High,Postgraduate,High,No,9,78.6,Medium,No,2,Low,Medium,Public,Neutral,6,Yes,Moderate,Female,87.0
+Mehedi Hasan,20,57.0,High,Postgraduate,High,No,5,76.2,High,No,0,High,Medium,Public,Positive,7,Yes,Near,Male,87.3
+Mehedi Jahan,27,74.6,Low,Postgraduate,Low,Yes,8,72.2,Medium,Yes,2,Low,High,Private,Neutral,1,No,Far,Female,88.8
+Tanzim Hasan,25,89.1,Medium,High School,Low,Yes,8,72.0,High,Yes,3,Medium,Low,Private,Neutral,2,No,Far,Female,94.1
+Lamia Siddique,23,73.3,Low,High School,Medium,Yes,5,85.8,Medium,Yes,0,Medium,Medium,Private,Negative,2,No,Near,Male,89.3
+Tanzim Bhuiyan,19,82.9,Low,High School,Medium,Yes,9,75.0,Medium,No,1,Low,High,Public,Neutral,3,No,Far,Female,84.5
+Tasnim Hasan,17,94.6,High,High School,Low,Yes,8,78.7,Medium,Yes,1,High,Medium,Private,Negative,2,No,Near,Male,80.5
+Tanzim Hasan,24,71.8,High,College,Low,No,9,100.0,Low,Yes,1,Low,Medium,Private,Neutral,5,No,Near,Male,89.0
+Laboni Ahmed,23,86.5,Medium,Postgraduate,Low,No,8,65.7,High,No,3,High,High,Public,Positive,3,No,Near,Female,91.6
+Mahmud Rahman,29,94.7,Low,High School,Low,Yes,7,86.2,High,Yes,2,Medium,High,Private,Positive,1,No,Far,Male,100.0
+Sumaiya Hasan,18,70.9,High,Postgraduate,Low,Yes,7,75.0,High,Yes,2,Low,Medium,Public,Neutral,4,Yes,Far,Male,77.8
+Fahim Ahmed,12,72.0,Low,High School,Low,Yes,8,72.0,Low,No,2,Low,Low,Private,Positive,6,Yes,Moderate,Male,68.0
+Sumaiya Siddique,11,78.4,Low,High School,Medium,Yes,5,74.3,Low,No,4,Medium,High,Private,Neutral,5,No,Near,Male,78.6
+Sabuj Jahan,8,66.2,Medium,Postgraduate,High,Yes,6,77.9,High,Yes,1,Low,Low,Public,Positive,3,No,Near,Female,62.8
+Tanzim Rahman,20,94.6,Medium,Postgraduate,High,No,5,58.1,Low,No,4,High,Medium,Public,Positive,3,No,Far,Male,91.5
+Arif Jahan,18,80.7,Medium,Postgraduate,High,No,9,87.9,Medium,No,1,High,Low,Private,Positive,3,No,Far,Male,95.5
+Sajib Mia,31,77.4,High,Postgraduate,Low,No,7,81.1,Low,No,2,Low,Medium,Private,Positive,6,No,Near,Male,91.1
+Arif Jahan,10,54.2,Low,College,High,No,7,86.0,Low,No,1,Low,Low,Public,Positive,3,No,Moderate,Male,65.3
+Lamia Chowdhury,27,61.9,Medium,High School,Low,Yes,6,74.0,Medium,No,4,Medium,High,Private,Neutral,4,Yes,Near,Male,86.6
+Mehedi Akter,16,80.1,Medium,Postgraduate,Low,No,5,68.8,High,Yes,0,High,Medium,Public,Positive,3,No,Moderate,Male,67.3
+Nahid Chowdhury,23,90.2,Medium,Postgraduate,High,No,8,76.1,Low,No,4,Medium,Low,Private,Positive,6,No,Near,Female,98.1
+Farhana Islam,12,79.8,Low,College,High,No,7,43.5,Medium,No,1,High,Low,Public,Positive,3,Yes,Near,Female,66.9
+Tanvir Bhuiyan,31,91.7,High,Postgraduate,Low,Yes,8,72.5,Low,No,3,Medium,Medium,Private,Neutral,1,No,Moderate,Male,95.7
+Tasnim Khan,14,58.4,High,Postgraduate,Low,No,7,75.4,Medium,Yes,3,Medium,Low,Public,Neutral,7,No,Moderate,Female,74.7
+Fahim Islam,18,100.0,Low,Postgraduate,Low,Yes,5,73.9,Low,Yes,4,Low,High,Public,Negative,5,Yes,Far,Female,93.1
+Farhana Shaikh,13,91.9,High,College,Medium,Yes,5,77.2,Low,Yes,3,Medium,High,Private,Positive,5,No,Near,Female,86.6
+Arafat Jahan,22,75.2,Low,College,High,No,7,54.1,Medium,No,3,Low,High,Private,Negative,4,No,Moderate,Female,83.5
+Tasnim Khan,28,76.0,Medium,Postgraduate,Low,Yes,6,63.1,Low,Yes,0,Low,Medium,Public,Neutral,4,No,Moderate,Female,76.2
+Lamia Shaikh,21,66.1,High,Postgraduate,Low,Yes,9,64.8,Medium,No,1,High,High,Public,Negative,4,No,Far,Male,66.4
+Laboni Siddique,3,81.0,Medium,College,Medium,No,5,71.9,Low,Yes,0,Medium,High,Private,Negative,6,No,Moderate,Female,62.6
+Farhana Khan,12,76.1,High,College,Medium,No,9,68.6,Low,Yes,2,Medium,Medium,Public,Neutral,2,Yes,Near,Male,72.4
+Sumaiya Akter,21,97.6,High,Postgraduate,Low,No,9,82.2,High,Yes,0,Low,Medium,Private,Neutral,4,Yes,Moderate,Male,88.3
+Mahmud Alam,32,82.8,Low,College,Low,No,6,65.1,Low,Yes,0,Low,Low,Private,Neutral,1,No,Moderate,Male,83.5
+Sadia Siddique,8,62.8,High,College,Medium,Yes,5,57.0,Medium,No,2,Low,Low,Private,Positive,1,No,Moderate,Male,58.1
+Tasnim Khan,15,71.2,Medium,Postgraduate,Medium,Yes,9,94.2,High,Yes,2,High,Medium,Private,Neutral,5,No,Near,Male,84.6
+Tasnim Akter,12,87.0,High,College,Medium,No,5,62.0,Medium,Yes,1,Low,Medium,Public,Positive,5,No,Moderate,Female,71.9
+Laboni Alam,15,80.9,High,Postgraduate,High,No,8,72.1,Medium,Yes,0,Low,Medium,Private,Neutral,5,No,Far,Male,79.7
+Tanvir Hasan,16,67.8,High,College,Low,No,7,68.4,Medium,No,4,Medium,Medium,Public,Negative,3,Yes,Near,Male,72.9
+Nahid Bhuiyan,30,75.2,Low,High School,High,Yes,5,90.8,Medium,Yes,0,High,Low,Public,Negative,4,No,Far,Male,93.0
+Sabuj Rahman,29,87.8,Low,College,High,Yes,8,71.2,Medium,No,1,Medium,High,Private,Positive,4,No,Far,Male,98.6
+Fahim Ahmed,8,97.8,Low,High School,Medium,Yes,9,78.2,High,Yes,3,High,High,Public,Neutral,3,No,Moderate,Male,82.4
+Tanvir Khan,12,78.3,High,Postgraduate,High,No,5,65.4,High,Yes,0,High,Low,Private,Negative,2,No,Near,Male,71.6
+Sadia Hasan,29,100.0,Medium,High School,High,No,6,60.2,Low,Yes,3,High,Medium,Private,Negative,6,Yes,Moderate,Male,100.0
+Arafat Siddique,18,64.8,High,Postgraduate,Low,Yes,9,66.7,Low,Yes,0,Low,Medium,Public,Neutral,4,Yes,Far,Female,67.0
+Lamia Jahan,17,91.6,High,College,Medium,Yes,9,58.5,High,No,0,High,High,Public,Neutral,3,Yes,Moderate,Female,86.4
+Arif Khan,8,89.1,Medium,High School,Low,No,8,63.9,Low,Yes,0,High,Medium,Private,Neutral,3,Yes,Near,Male,62.0
+Nusrat Rahman,15,78.8,High,College,High,No,8,59.1,Low,Yes,1,Low,Medium,Private,Positive,1,No,Moderate,Male,74.3
+Arif Bhuiyan,22,100.0,Medium,College,High,No,6,76.0,Medium,No,1,Medium,Medium,Private,Neutral,3,No,Moderate,Female,100.0
+Tanzim Ahmed,16,76.9,Medium,College,Low,Yes,8,70.6,High,No,1,Low,Low,Public,Positive,1,No,Far,Male,76.3
+Sajib Alam,14,96.3,Medium,Postgraduate,Low,Yes,7,87.3,High,Yes,0,High,Low,Public,Neutral,7,Yes,Far,Male,84.4
+Mehedi Alam,18,62.0,Medium,College,Medium,Yes,8,84.4,Low,Yes,4,High,High,Public,Negative,1,No,Far,Female,81.0
+Mehedi Ahmed,5,71.3,Medium,High School,Low,No,5,73.1,High,Yes,1,Medium,High,Public,Negative,1,Yes,Near,Female,65.6
+Arafat Siddique,25,79.0,High,Postgraduate,High,Yes,7,95.2,Medium,Yes,3,High,Low,Public,Positive,4,Yes,Near,Female,100.0
+Laboni Mia,13,59.1,Low,College,Medium,No,8,68.5,Medium,No,2,Medium,Low,Public,Neutral,5,Yes,Near,Male,69.5
+Tanvir Khan,21,88.9,Medium,Postgraduate,High,No,9,85.0,High,No,3,Medium,Low,Private,Negative,1,No,Moderate,Male,100.0
+Rafi Bhuiyan,15,80.4,Low,College,Medium,No,6,97.4,Medium,No,1,Low,High,Public,Positive,7,No,Near,Male,83.8
+Fahim Hasan,14,97.5,Low,High School,Low,Yes,7,58.1,Medium,Yes,2,Medium,High,Private,Positive,7,No,Moderate,Female,79.3
+Sadia Shaikh,8,84.6,Medium,Postgraduate,High,Yes,7,88.1,High,No,1,High,Medium,Public,Neutral,4,Yes,Moderate,Male,78.9
+Fahim Siddique,12,50.9,High,Postgraduate,High,Yes,6,74.8,Low,No,2,Low,Low,Private,Positive,2,No,Near,Male,71.1
+Rakib Ali,17,62.7,Low,High School,Medium,No,7,70.3,Medium,No,0,Low,Low,Private,Negative,6,No,Near,Female,67.0
+Tanvir Siddique,26,67.8,Medium,Postgraduate,Medium,No,8,76.5,High,Yes,0,High,High,Public,Negative,4,No,Far,Female,93.4
+Mahmud Alam,25,100.0,Medium,Postgraduate,High,No,5,86.4,Low,No,4,Low,Low,Private,Negative,3,No,Moderate,Male,100.0
+Mahmud Jahan,5,92.4,High,High School,High,No,7,66.0,Medium,Yes,3,Low,Medium,Public,Negative,6,No,Far,Male,75.7
+Sabuj Alam,17,72.7,Low,College,Medium,No,5,79.3,Medium,No,1,High,High,Private,Neutral,6,No,Near,Male,85.3
+Mahmud Ahmed,29,81.0,Low,College,High,No,6,85.9,Low,No,0,Low,Low,Private,Neutral,1,No,Near,Male,96.9
+Nahid Islam,24,87.1,Low,High School,Medium,Yes,9,70.1,Low,No,0,Medium,Medium,Public,Negative,7,Yes,Moderate,Female,80.7
+Nusrat Jahan,22,100.0,High,College,Medium,No,6,57.7,Medium,No,0,High,High,Private,Neutral,6,No,Far,Male,89.5
+Tanvir Mia,19,79.1,Low,College,High,Yes,7,89.6,Medium,No,2,High,Medium,Private,Positive,7,No,Near,Male,92.2
+Rakib Bhuiyan,24,81.0,High,College,High,No,7,78.7,Medium,Yes,1,High,Low,Public,Neutral,5,No,Near,Female,92.8
+Mahmud Shaikh,15,86.4,High,College,Medium,Yes,8,78.4,Low,No,1,Low,Medium,Private,Positive,1,No,Far,Female,72.7
+Tanvir Ahmed,10,86.2,High,High School,High,No,5,94.4,Low,No,4,Low,High,Private,Positive,3,Yes,Far,Male,86.7
+Sabuj Hasan,22,84.3,High,High School,High,No,7,81.1,High,Yes,0,Low,Low,Public,Negative,1,Yes,Far,Male,99.1
+Arif Ahmed,28,100.0,Low,Postgraduate,High,No,8,70.5,High,Yes,1,High,Low,Private,Positive,4,No,Far,Male,100.0
+Tanzim Hossain,21,57.0,Low,Postgraduate,Low,No,6,81.7,High,Yes,0,Medium,Medium,Public,Negative,6,No,Far,Female,71.3
+Sabuj Ahmed,18,72.1,Medium,Postgraduate,Medium,Yes,5,63.4,Low,No,0,Low,Medium,Private,Positive,2,No,Near,Male,78.6
+Sajib Hasan,4,91.0,High,High School,Low,Yes,7,45.1,Low,Yes,2,Medium,Low,Private,Neutral,1,No,Far,Male,56.3
+Rafi Mia,19,75.4,Medium,High School,Medium,Yes,7,82.4,Low,Yes,0,Medium,High,Private,Neutral,6,No,Near,Female,82.0
+Rakib Ahmed,33,86.3,Low,College,Medium,No,8,61.9,High,Yes,4,Low,Medium,Private,Positive,3,Yes,Near,Male,100.0
+Anika Jahan,39,86.5,Medium,Postgraduate,High,Yes,5,72.6,High,No,1,Low,High,Private,Negative,5,Yes,Moderate,Male,100.0
+Mehedi Khan,16,89.6,Low,College,High,Yes,5,74.3,Medium,No,2,High,Medium,Private,Positive,2,No,Far,Female,81.4
+Sumaiya Khan,20,73.9,Medium,College,High,Yes,9,90.5,Low,No,0,High,Low,Private,Neutral,4,No,Near,Female,86.4
+Lamia Hasan,15,80.9,High,College,High,No,6,100.0,Medium,No,1,Medium,Medium,Public,Neutral,7,Yes,Moderate,Male,84.0
+Laboni Hossain,10,68.5,Medium,College,Medium,Yes,6,70.1,High,No,0,High,Medium,Public,Negative,6,No,Far,Male,62.7
+Sajib Bhuiyan,32,91.6,Low,High School,Medium,Yes,7,86.1,Low,No,1,Low,Medium,Private,Neutral,3,No,Near,Male,98.1
+Arafat Islam,32,80.6,Low,High School,Medium,No,8,60.5,Low,Yes,4,Medium,High,Public,Negative,5,No,Moderate,Male,94.2
+Rafi Mia,19,73.7,Low,College,High,No,7,76.9,Medium,Yes,1,Medium,Medium,Public,Negative,7,No,Moderate,Female,86.2
+Sumaiya Hasan,13,67.2,Medium,Postgraduate,Low,Yes,9,76.7,Medium,Yes,1,Medium,Medium,Public,Negative,5,No,Moderate,Male,70.4
+Rafi Alam,19,86.7,Low,Postgraduate,Low,Yes,6,63.7,Low,No,2,Medium,Medium,Public,Negative,4,No,Moderate,Female,78.2
+Sadia Ahmed,20,90.5,Medium,College,High,Yes,7,77.1,Medium,Yes,2,Medium,Low,Private,Neutral,6,No,Moderate,Male,88.7
+Nusrat Akter,27,79.2,Medium,High School,Low,No,7,84.5,Medium,Yes,2,Medium,Low,Private,Positive,4,Yes,Moderate,Male,91.7
+Tanvir Mia,16,72.8,High,High School,High,No,5,84.7,Medium,No,1,Low,High,Private,Neutral,2,No,Moderate,Female,89.7
+Sabuj Rahman,24,73.5,High,Postgraduate,Medium,Yes,8,52.5,Low,No,2,Medium,High,Private,Neutral,3,No,Near,Female,80.2
+Tanzim Alam,19,79.0,High,Postgraduate,Medium,No,7,57.6,Medium,Yes,4,High,Medium,Private,Positive,4,No,Near,Female,79.4
+Sabuj Khan,16,78.3,Medium,College,High,Yes,6,82.9,Low,No,1,Low,High,Public,Neutral,6,No,Near,Male,83.9
+Sadia Akter,17,82.6,Medium,College,Medium,No,6,73.2,Medium,Yes,3,Low,Medium,Public,Positive,5,No,Moderate,Male,80.7
+Nusrat Chowdhury,26,83.0,High,Postgraduate,Low,No,8,90.0,Medium,Yes,0,Low,High,Private,Neutral,1,No,Far,Male,90.8
+Mahmud Hasan,21,87.0,Medium,College,High,Yes,7,81.8,High,No,0,High,High,Public,Positive,6,Yes,Near,Female,95.8
+Mehedi Ahmed,29,69.6,High,Postgraduate,Low,No,8,82.3,High,No,2,Low,Medium,Public,Positive,6,Yes,Near,Male,88.8
+Sadia Ahmed,18,74.5,Medium,College,High,Yes,9,60.3,High,Yes,4,High,Medium,Public,Negative,3,No,Near,Male,80.5
+Nahid Ali,30,92.6,Medium,Postgraduate,Medium,No,7,73.1,High,No,3,High,High,Private,Positive,3,No,Moderate,Female,100.0
+Rakib Islam,28,79.8,Medium,Postgraduate,Medium,No,8,64.5,Low,No,2,Medium,High,Public,Positive,5,No,Far,Male,87.5
+Tasnim Hossain,32,63.6,Low,Postgraduate,High,No,9,96.8,Medium,No,0,Low,Medium,Private,Neutral,3,No,Far,Male,97.0
+Lamia Chowdhury,18,78.2,Medium,High School,Medium,No,6,56.2,High,Yes,1,Medium,High,Private,Negative,2,No,Near,Female,78.2
+Nusrat Hasan,15,80.4,Medium,High School,Low,Yes,5,87.4,High,No,0,High,Medium,Private,Neutral,6,No,Moderate,Female,79.1
+Sajib Siddique,33,94.0,High,Postgraduate,Medium,No,5,97.8,Low,No,1,Low,Medium,Private,Neutral,5,No,Moderate,Female,100.0
+Sajib Bhuiyan,18,82.0,Medium,Postgraduate,Low,No,9,89.0,High,No,0,Medium,Low,Private,Positive,2,No,Far,Male,87.8
+Sadia Hasan,21,81.5,High,Postgraduate,Low,No,7,74.9,High,Yes,4,Low,High,Private,Negative,1,Yes,Far,Male,80.3
+Nahid Alam,24,100.0,High,College,High,No,7,79.3,High,Yes,1,Low,Low,Public,Neutral,2,Yes,Far,Male,100.0
+Anika Hossain,2,75.8,Low,High School,High,No,9,63.3,Medium,Yes,1,Low,Medium,Public,Positive,7,Yes,Far,Male,60.3
+Sajib Ali,27,79.4,Low,High School,Medium,Yes,8,81.4,High,No,1,High,Low,Public,Positive,3,Yes,Moderate,Male,92.8
+Arif Hossain,5,83.3,High,Postgraduate,High,No,7,90.0,High,Yes,1,Medium,High,Public,Neutral,4,Yes,Far,Male,81.7
+Laboni Akter,17,79.0,High,College,Medium,Yes,6,87.8,Low,Yes,1,Medium,Low,Public,Neutral,2,Yes,Far,Female,80.0
+Fahim Jahan,15,76.1,Medium,High School,Medium,No,7,80.4,High,Yes,1,Medium,High,Public,Neutral,7,No,Moderate,Female,82.2
+Rakib Mia,19,85.7,Medium,Postgraduate,Medium,No,7,99.4,High,Yes,4,Low,Low,Public,Negative,3,No,Far,Female,98.8
+Mehedi Hasan,12,93.8,High,College,Medium,Yes,6,72.6,High,Yes,2,High,Medium,Private,Negative,1,No,Moderate,Female,78.3
+Mahmud Hasan,16,81.2,Medium,High School,High,No,9,79.5,Low,No,1,High,Medium,Private,Positive,7,No,Moderate,Male,84.8
+Laboni Rahman,6,100.0,High,College,Medium,No,7,86.5,Medium,Yes,3,Medium,High,Public,Positive,2,Yes,Near,Male,84.3
+Anika Jahan,28,63.2,Low,High School,Medium,Yes,9,35.0,High,No,0,Medium,High,Public,Positive,2,Yes,Far,Male,76.6
+Mahmud Rahman,6,89.3,High,High School,Medium,Yes,9,64.5,High,No,4,High,Low,Private,Positive,5,No,Near,Female,68.8
+Farhana Jahan,20,74.5,Medium,Postgraduate,Low,No,5,80.9,High,Yes,0,Low,High,Public,Negative,6,No,Far,Female,70.7
+Mahmud Mia,15,78.9,Low,High School,High,Yes,7,71.8,Medium,No,1,Medium,Low,Public,Negative,7,No,Far,Male,80.7
+Arafat Jahan,20,88.7,Medium,High School,Medium,Yes,5,100.0,Low,No,2,Medium,Medium,Public,Negative,6,No,Far,Female,94.2
+Rakib Bhuiyan,35,100.0,High,High School,High,No,7,57.5,High,No,4,High,High,Private,Negative,5,No,Moderate,Male,100.0
+Fahim Siddique,19,96.1,Medium,Postgraduate,Medium,No,8,54.8,Medium,No,1,High,High,Public,Neutral,1,Yes,Near,Male,85.4
+Sajib Alam,21,100.0,High,College,Medium,No,6,92.0,Low,Yes,0,Medium,Low,Public,Neutral,7,No,Far,Male,92.9
+Nusrat Bhuiyan,7,67.8,Low,High School,Medium,No,9,94.1,High,Yes,1,High,Medium,Private,Positive,6,No,Far,Male,71.2
+Sadia Rahman,22,98.4,Low,High School,Medium,No,8,89.0,Low,No,0,High,Low,Public,Neutral,7,No,Near,Female,92.5
+Anika Rahman,20,63.5,Low,College,Medium,No,8,76.3,High,No,1,High,Medium,Private,Neutral,1,Yes,Moderate,Male,87.7
+Sumaiya Rahman,20,87.7,High,High School,Medium,No,8,88.8,Medium,No,1,Medium,Low,Public,Negative,3,No,Moderate,Female,90.8
+Arif Siddique,13,99.1,High,High School,Low,Yes,9,72.7,High,Yes,1,Low,High,Private,Neutral,4,No,Moderate,Female,79.6
+Tanzim Bhuiyan,16,88.6,High,College,High,No,7,63.5,High,Yes,3,Low,Medium,Public,Neutral,5,No,Far,Female,82.7
+Tasnim Khan,19,87.9,Medium,High School,Medium,No,9,78.1,Low,Yes,2,Low,High,Public,Neutral,1,No,Far,Male,82.0
+Rakib Jahan,27,71.2,Medium,Postgraduate,High,Yes,6,52.0,High,Yes,1,Low,Medium,Private,Positive,2,No,Moderate,Female,80.3
+Sajib Khan,3,80.8,Low,College,Medium,Yes,8,65.6,Medium,Yes,4,Low,Low,Private,Neutral,7,Yes,Moderate,Female,61.9
+Tanzim Ali,9,56.5,High,High School,High,No,5,78.1,Medium,No,0,Medium,Low,Private,Negative,5,No,Far,Male,64.0
+Arafat Siddique,29,93.7,Low,Postgraduate,Low,Yes,8,63.1,High,Yes,2,High,Low,Private,Positive,6,Yes,Moderate,Female,94.9
+Sadia Akter,21,74.1,Medium,High School,Low,No,5,62.5,High,Yes,3,Medium,High,Private,Neutral,1,No,Near,Female,84.7
+Farhana Rahman,8,79.5,Medium,High School,Medium,No,6,90.9,Low,Yes,1,High,High,Private,Positive,7,No,Far,Male,71.1
+Sadia Jahan,16,73.8,Medium,High School,Low,No,6,63.6,Low,Yes,1,Medium,High,Public,Negative,3,No,Near,Male,67.5
+Mehedi Chowdhury,12,90.4,Medium,High School,Low,Yes,8,55.7,Medium,No,4,Low,Low,Public,Neutral,1,Yes,Far,Male,65.7
+Rakib Khan,10,71.3,Medium,High School,Low,Yes,9,95.5,Medium,Yes,3,Low,High,Public,Negative,3,No,Near,Female,77.5
+Sajib Chowdhury,16,94.1,Low,High School,Low,Yes,8,58.2,High,No,0,Low,Medium,Private,Neutral,7,No,Moderate,Female,79.1
+Nusrat Rahman,6,71.0,Medium,College,Low,Yes,5,88.7,Medium,No,1,Medium,High,Private,Negative,2,No,Moderate,Female,69.9
+Farhana Islam,15,92.8,High,High School,Low,No,7,97.8,High,Yes,2,Low,Low,Public,Positive,5,No,Far,Female,88.8
+Sumaiya Ali,28,100.0,Low,College,Low,Yes,6,79.9,Low,No,0,Low,High,Public,Positive,3,No,Near,Female,100.0
+Rafi Akter,3,78.2,Medium,College,High,Yes,9,87.2,Medium,No,1,Low,Low,Public,Neutral,4,No,Moderate,Male,71.7
+Nahid Mia,22,100.0,High,High School,Low,Yes,8,46.5,Low,No,0,Low,Low,Private,Negative,7,No,Moderate,Female,76.1
+Arif Khan,3,82.6,Low,Postgraduate,High,No,8,70.5,Low,Yes,0,Medium,Medium,Private,Neutral,4,No,Far,Male,58.3
+Lamia Jahan,15,85.8,Low,High School,High,Yes,6,83.1,Low,Yes,2,High,Low,Public,Positive,2,Yes,Moderate,Male,89.8
+Tanvir Islam,22,72.1,High,Postgraduate,Medium,No,9,77.9,Medium,Yes,2,Medium,High,Private,Positive,6,Yes,Moderate,Male,91.7
+Tanzim Mia,33,52.1,Medium,Postgraduate,Low,Yes,9,75.4,Low,Yes,0,Low,Low,Public,Negative,4,Yes,Moderate,Male,78.2
+Fahim Ali,6,75.4,Medium,High School,High,No,9,58.7,High,No,2,High,Medium,Private,Negative,3,Yes,Near,Female,68.4
+Sajib Alam,15,87.3,Low,College,Medium,Yes,8,75.1,Medium,No,1,High,High,Private,Positive,6,No,Near,Female,86.7
+Sabuj Siddique,22,72.7,Low,High School,Low,No,9,76.2,Medium,Yes,2,Medium,Low,Public,Positive,1,No,Moderate,Female,80.3
+Laboni Islam,16,74.6,Medium,Postgraduate,Low,Yes,9,82.1,Low,No,2,High,High,Public,Negative,3,No,Far,Male,78.2
+Arif Jahan,24,91.8,High,Postgraduate,Low,Yes,6,78.5,Medium,Yes,0,High,Low,Public,Positive,3,No,Far,Female,84.5
+Tanzim Chowdhury,8,96.7,Medium,College,High,Yes,6,78.5,Medium,No,0,Low,Medium,Private,Neutral,6,No,Moderate,Female,78.3
+Nahid Hasan,28,93.3,Low,High School,Medium,Yes,6,80.8,Low,No,2,Low,Low,Private,Negative,7,Yes,Moderate,Male,100.0
+Tasnim Hossain,22,71.5,Low,College,Low,No,5,66.4,Medium,Yes,1,High,Low,Public,Negative,5,No,Moderate,Male,73.6
+Anika Siddique,24,92.5,Low,Postgraduate,High,Yes,7,64.6,Medium,No,1,Low,Low,Private,Neutral,1,No,Far,Female,91.6
+Rafi Ali,26,81.3,Medium,High School,High,No,6,54.5,Medium,No,1,Low,Medium,Public,Positive,7,No,Near,Female,90.2
+Fahim Ali,17,55.4,High,College,Medium,No,7,93.2,Low,No,2,High,High,Public,Neutral,1,No,Moderate,Female,75.7
+Sabuj Hossain,12,93.0,High,College,Low,No,9,63.3,High,No,2,Low,Medium,Public,Positive,5,Yes,Far,Female,73.7
+Rafi Shaikh,20,76.2,High,High School,High,Yes,7,49.1,High,No,0,High,Low,Public,Negative,6,Yes,Moderate,Male,67.7
+Rakib Ali,27,88.4,Medium,Postgraduate,High,Yes,5,67.5,Low,Yes,3,High,Medium,Private,Positive,3,No,Near,Female,92.0
+Sumaiya Bhuiyan,17,88.0,Low,Postgraduate,Medium,Yes,7,55.0,Medium,No,0,Medium,Medium,Private,Neutral,7,No,Moderate,Female,74.0
+Mehedi Jahan,18,96.1,High,Postgraduate,High,Yes,7,82.4,Medium,No,0,Low,High,Private,Neutral,7,No,Moderate,Male,86.0
+Anika Hossain,23,100.0,High,High School,High,Yes,7,67.1,Medium,No,0,Low,Medium,Private,Positive,3,No,Far,Female,90.8
+Rakib Alam,20,74.5,Medium,High School,Low,No,6,75.3,Medium,No,3,High,Low,Public,Negative,1,No,Moderate,Male,77.2
+Arafat Mia,10,66.0,High,Postgraduate,Medium,No,9,52.3,Medium,No,0,Low,Low,Private,Positive,5,Yes,Near,Female,58.4
+Arafat Rahman,25,98.8,Low,College,Low,No,6,95.8,Low,Yes,2,Medium,High,Public,Positive,2,No,Far,Male,100.0
+Rakib Akter,15,68.1,Low,High School,Low,No,9,85.9,Medium,No,4,Medium,Low,Public,Positive,5,No,Moderate,Male,78.7
+Rafi Akter,10,87.6,High,College,High,No,5,100.0,Medium,No,2,Medium,High,Private,Neutral,6,No,Moderate,Female,96.6
+Sadia Rahman,26,88.2,High,High School,High,No,9,67.5,High,No,2,Low,Low,Public,Positive,7,No,Far,Female,100.0
+Farhana Khan,21,81.0,Medium,Postgraduate,Low,No,9,75.1,Medium,Yes,0,Low,High,Private,Neutral,6,No,Far,Female,78.9
+Tanzim Alam,13,88.6,Medium,College,High,No,8,73.5,Low,No,4,High,Low,Private,Negative,6,No,Far,Female,80.3
+Sadia Chowdhury,16,77.5,Low,Postgraduate,Medium,Yes,7,74.1,Medium,No,4,Low,High,Private,Neutral,5,No,Near,Male,91.2
+Nusrat Bhuiyan,23,70.5,Low,Postgraduate,Low,Yes,8,65.7,High,Yes,2,High,Medium,Public,Positive,6,No,Near,Male,77.3
+Nusrat Rahman,31,88.5,Low,High School,Medium,No,7,66.9,High,No,1,Low,High,Private,Neutral,3,No,Near,Male,93.3
+Mehedi Mia,12,65.8,Medium,College,Medium,Yes,5,51.8,Low,Yes,4,Medium,Low,Private,Neutral,5,No,Moderate,Female,66.5
+Tanvir Shaikh,23,78.5,High,High School,High,Yes,8,78.1,Low,Yes,4,High,High,Private,Negative,3,No,Near,Female,95.3
+Sabuj Bhuiyan,25,81.2,High,Postgraduate,Medium,No,6,57.4,Low,Yes,0,High,Low,Public,Positive,5,No,Moderate,Male,84.3
+Tasnim Hasan,15,78.7,Low,College,High,Yes,5,93.0,Low,Yes,0,High,High,Public,Neutral,3,No,Moderate,Female,86.1
+Mehedi Hasan,22,71.2,High,High School,Low,No,9,67.2,Medium,No,2,High,Low,Public,Positive,1,Yes,Moderate,Male,80.1
+Sajib Jahan,35,87.0,Medium,High School,Low,No,7,88.5,Medium,Yes,0,Medium,Low,Private,Negative,5,No,Far,Male,100.0
+Lamia Hasan,19,75.4,High,Postgraduate,High,No,8,76.4,Medium,Yes,3,Medium,High,Public,Neutral,4,No,Moderate,Female,94.0
+Rafi Hossain,28,96.4,Medium,High School,Medium,No,9,58.7,Low,No,2,Medium,Medium,Private,Positive,7,No,Far,Male,96.7
+Tanzim Jahan,21,78.4,Low,College,High,No,8,70.9,High,Yes,2,High,High,Public,Positive,2,No,Near,Female,95.9
+Tasnim Siddique,6,58.8,Low,Postgraduate,Medium,No,6,89.0,High,Yes,4,Low,High,Public,Positive,6,No,Moderate,Male,71.4
+Sajib Hossain,22,89.0,High,High School,Medium,No,6,72.6,Low,Yes,0,High,High,Public,Negative,6,No,Moderate,Male,88.0
+Sajib Islam,21,90.6,Medium,High School,Medium,Yes,8,60.6,Medium,No,2,Medium,Low,Public,Negative,6,No,Near,Female,87.6
+Sabuj Chowdhury,19,78.4,Medium,College,Medium,Yes,5,59.9,Low,No,3,Low,Medium,Private,Positive,6,Yes,Near,Male,80.1
+Nusrat Hossain,25,67.4,Low,College,Low,No,5,96.8,Low,No,0,Medium,High,Private,Negative,7,No,Moderate,Female,80.9
+Nusrat Chowdhury,26,75.2,Low,High School,High,Yes,5,85.9,Medium,No,4,Medium,Low,Public,Positive,7,No,Near,Male,95.0
+Rafi Islam,20,92.3,Low,Postgraduate,Low,Yes,6,68.5,Low,No,4,High,Medium,Private,Neutral,6,No,Far,Male,87.4
+Sajib Shaikh,15,78.4,High,High School,Low,No,6,85.3,Medium,Yes,1,High,Medium,Public,Neutral,3,No,Moderate,Female,73.2
+Laboni Hossain,17,74.0,Low,High School,High,No,6,74.4,Low,Yes,1,Low,Medium,Private,Negative,5,No,Far,Male,80.6
+Sajib Shaikh,15,92.0,Low,Postgraduate,Low,Yes,6,76.9,Medium,No,4,Medium,High,Public,Positive,1,No,Near,Male,82.5
+Rafi Shaikh,29,81.9,High,High School,Medium,Yes,7,98.9,High,Yes,2,Low,Low,Public,Positive,6,Yes,Far,Female,100.0
+Nahid Chowdhury,16,69.0,Medium,Postgraduate,Low,No,6,65.4,High,No,1,Low,Medium,Private,Neutral,2,Yes,Far,Female,69.7
+Anika Akter,21,82.1,High,High School,Medium,Yes,8,92.8,Medium,No,1,Medium,Low,Private,Positive,6,No,Near,Female,89.8
+Arif Ali,23,97.7,Low,College,Low,No,8,71.0,High,No,2,Medium,Medium,Public,Neutral,3,Yes,Moderate,Female,95.6
+Sajib Rahman,10,100.0,High,College,Low,Yes,8,63.7,High,Yes,2,High,High,Public,Negative,5,No,Far,Female,76.2
+Sumaiya Rahman,20,57.8,High,College,Low,No,6,94.2,Medium,No,0,High,Low,Private,Negative,3,Yes,Near,Male,72.0
+Arif Alam,10,100.0,Low,Postgraduate,Medium,Yes,8,70.6,High,Yes,1,Medium,Medium,Public,Neutral,5,No,Moderate,Male,80.5
+Mahmud Islam,16,100.0,Medium,College,Medium,No,5,61.6,Low,Yes,3,High,High,Public,Neutral,1,No,Near,Male,90.6
+Tanzim Rahman,9,87.0,Low,College,Medium,No,8,83.0,Low,Yes,3,Medium,High,Public,Negative,3,No,Far,Female,76.9
+Mehedi Ahmed,7,75.5,Medium,High School,High,Yes,6,79.4,Low,No,1,Low,Low,Public,Neutral,1,Yes,Far,Female,74.8
+Sadia Alam,8,81.3,Medium,High School,Low,No,8,53.5,Low,Yes,4,Low,Medium,Private,Neutral,1,No,Moderate,Male,68.5
+Fahim Akter,3,48.0,High,College,Medium,Yes,6,85.4,Low,No,3,High,Medium,Public,Negative,6,Yes,Near,Male,58.3
+Sajib Ahmed,33,77.3,High,High School,Medium,No,9,70.7,High,Yes,0,Medium,Medium,Public,Positive,1,No,Near,Female,100.0
+Fahim Rahman,7,79.2,Low,High School,High,No,5,70.5,Low,No,4,Medium,High,Private,Neutral,3,No,Moderate,Female,80.8
+Arif Shaikh,37,88.7,Low,Postgraduate,Low,No,7,59.0,High,Yes,1,Medium,High,Public,Neutral,6,Yes,Moderate,Male,100.0
+Rafi Rahman,21,72.4,Medium,Postgraduate,Medium,No,7,94.7,Medium,No,0,High,High,Private,Negative,1,No,Moderate,Female,87.1
+Rakib Alam,17,68.1,High,High School,High,Yes,5,76.8,Medium,Yes,1,Low,High,Public,Negative,2,No,Near,Female,83.2
+Lamia Bhuiyan,13,82.4,Low,High School,Low,No,5,83.1,Low,Yes,0,Low,High,Public,Positive,5,Yes,Far,Female,68.8
+Nusrat Shaikh,9,90.8,High,High School,Low,Yes,5,87.0,High,Yes,2,Medium,Low,Public,Negative,4,No,Near,Male,82.2
+Sajib Akter,26,85.0,High,High School,Medium,Yes,9,70.8,Low,No,0,Medium,High,Private,Positive,1,No,Moderate,Male,88.1
+Arafat Islam,27,95.6,Low,College,Low,Yes,6,64.6,High,Yes,0,Low,High,Public,Positive,4,No,Moderate,Male,89.6
+Lamia Ahmed,8,76.2,High,College,High,No,7,72.8,High,No,1,High,Medium,Public,Neutral,3,No,Far,Male,74.5
+Mehedi Hossain,17,85.3,Low,High School,Medium,No,7,80.1,Medium,Yes,2,High,High,Public,Positive,5,Yes,Near,Male,85.4
+Tasnim Mia,21,76.4,High,Postgraduate,High,No,7,60.1,Low,No,2,Medium,High,Private,Positive,7,Yes,Moderate,Female,79.5
+Fahim Rahman,16,96.9,High,Postgraduate,Low,No,8,72.3,Low,No,2,Medium,High,Public,Negative,7,Yes,Moderate,Female,86.6
+Rakib Khan,27,81.5,Low,High School,High,No,5,65.5,Medium,No,3,High,Medium,Public,Negative,4,No,Moderate,Female,97.0
+Mehedi Islam,16,91.2,High,High School,Low,Yes,8,75.8,Low,No,1,Medium,Low,Private,Neutral,2,No,Near,Female,73.7
+Anika Ali,25,83.3,High,College,Low,No,5,88.1,Low,Yes,0,Medium,Medium,Private,Neutral,3,No,Moderate,Male,89.7
+Fahim Hasan,3,100.0,Medium,High School,Low,No,9,62.9,High,Yes,2,Medium,Medium,Public,Neutral,4,No,Moderate,Female,67.9
+Nahid Hossain,32,82.2,High,High School,High,Yes,8,57.4,Medium,No,2,High,Medium,Private,Positive,3,Yes,Near,Male,95.6
+Sumaiya Jahan,21,80.6,Low,College,High,No,9,58.8,Low,No,4,High,Medium,Private,Neutral,2,No,Near,Female,88.6
+Lamia Hasan,13,82.4,Low,High School,Medium,Yes,8,54.9,High,No,3,Low,Medium,Public,Neutral,5,No,Near,Female,77.7
+Tanvir Hossain,2,83.5,Medium,College,Low,Yes,7,66.2,Medium,No,1,Low,High,Public,Neutral,3,No,Far,Male,61.1
+Nahid Khan,13,83.2,High,High School,Medium,Yes,6,89.5,Medium,Yes,3,High,Medium,Private,Positive,5,No,Moderate,Male,83.3
+Laboni Ahmed,24,77.6,Low,College,Medium,Yes,5,79.5,High,Yes,0,Medium,Low,Private,Neutral,3,No,Near,Female,85.6
+Rakib Bhuiyan,8,97.4,Low,College,High,No,6,64.7,Medium,No,2,Low,High,Public,Positive,6,No,Moderate,Female,83.9
+Nahid Khan,26,70.4,Medium,High School,High,Yes,7,77.7,Low,No,0,High,Medium,Public,Negative,7,Yes,Moderate,Male,92.0
+Rafi Siddique,10,79.0,Low,Postgraduate,Medium,No,9,88.4,High,Yes,0,High,Medium,Private,Negative,1,No,Moderate,Male,79.7
+Sadia Khan,30,82.3,Low,High School,Low,Yes,8,74.3,Low,Yes,4,Medium,Low,Public,Positive,3,No,Moderate,Male,98.1
+Arafat Khan,2,91.4,Medium,Postgraduate,Low,Yes,7,73.7,High,Yes,1,Low,Medium,Private,Positive,2,Yes,Near,Male,70.2
+Farhana Shaikh,29,81.6,High,Postgraduate,High,Yes,9,69.3,Low,Yes,1,Low,Low,Public,Neutral,3,No,Near,Male,99.3
+Sajib Chowdhury,42,78.3,High,Postgraduate,Medium,Yes,9,84.2,Low,No,1,High,High,Private,Neutral,1,No,Near,Male,100.0
+Mahmud Jahan,14,78.3,High,College,Low,No,9,61.6,Medium,Yes,1,Medium,High,Public,Positive,3,No,Near,Male,67.0
+Tanvir Siddique,23,58.6,Medium,Postgraduate,Medium,Yes,8,45.3,Low,No,1,Medium,Low,Private,Neutral,1,Yes,Near,Female,69.4
+Rakib Hasan,19,86.5,High,Postgraduate,High,Yes,6,62.0,Medium,No,1,Low,Low,Public,Negative,5,No,Near,Female,79.8
+Anika Rahman,14,89.8,Medium,High School,High,Yes,6,94.0,High,No,1,Low,Low,Private,Negative,4,No,Near,Female,91.3
+Rafi Mia,8,85.6,Medium,College,Medium,No,9,69.0,High,Yes,3,Low,Low,Private,Neutral,1,No,Near,Male,77.2
+Sabuj Ahmed,30,71.5,Low,College,Medium,Yes,5,82.8,Medium,No,0,Low,High,Public,Negative,3,No,Moderate,Female,92.5
+Sumaiya Akter,19,66.1,Low,College,Low,No,5,83.5,Low,Yes,1,Low,Medium,Public,Neutral,1,No,Moderate,Male,73.6
+Arafat Mia,27,69.4,Low,College,High,Yes,8,86.2,High,No,0,Low,High,Private,Neutral,6,No,Near,Male,92.9
+Rafi Shaikh,20,99.9,Low,College,Medium,Yes,6,62.7,Medium,Yes,0,Medium,Medium,Public,Negative,7,No,Far,Female,82.0
+Tanvir Shaikh,30,74.2,High,College,Low,Yes,7,62.7,Low,No,0,High,High,Private,Negative,3,Yes,Near,Male,83.9
+Arafat Hasan,18,71.4,Medium,College,Medium,No,9,76.6,High,Yes,3,Medium,Low,Private,Positive,4,No,Moderate,Male,85.9
+Tasnim Khan,2,75.6,Medium,College,Low,No,7,66.1,High,Yes,1,High,Medium,Private,Neutral,6,No,Near,Female,58.3
+Rakib Khan,38,79.2,High,Postgraduate,Low,No,5,75.5,Low,Yes,1,High,Medium,Public,Positive,7,No,Near,Female,100.0
+Sumaiya Alam,26,93.4,Low,Postgraduate,High,Yes,7,75.8,Low,No,0,High,High,Public,Positive,4,No,Far,Male,98.9
+Nusrat Rahman,11,72.1,High,College,High,No,6,54.9,Medium,No,1,High,High,Private,Negative,7,No,Near,Female,66.1
+Mahmud Mia,21,81.6,Low,Postgraduate,Low,No,6,76.1,Medium,Yes,0,Medium,Low,Public,Positive,1,No,Near,Male,76.3
+Sabuj Shaikh,20,97.1,Medium,High School,Low,No,5,100.0,Low,No,0,Low,High,Public,Negative,6,Yes,Moderate,Female,99.4
+Nahid Ahmed,15,69.8,Medium,College,Medium,No,7,55.2,Low,Yes,0,High,Medium,Private,Positive,3,Yes,Near,Female,65.5
+Sabuj Ahmed,24,89.4,High,College,Medium,No,5,63.6,High,No,0,Low,Low,Private,Positive,4,Yes,Near,Female,85.8
+Tanvir Siddique,27,98.5,Low,High School,Low,No,7,62.1,High,No,0,Low,High,Public,Neutral,5,Yes,Near,Female,94.7
+Rakib Jahan,16,88.0,High,College,Low,Yes,9,76.8,Low,No,1,Low,High,Public,Positive,4,No,Moderate,Female,78.8
+Arif Akter,21,89.6,High,High School,Medium,No,8,62.5,High,No,1,Low,Low,Private,Negative,1,No,Moderate,Female,80.7
+Sadia Ali,19,74.1,Low,High School,Medium,Yes,7,70.4,Medium,No,1,Low,Low,Public,Neutral,7,No,Near,Male,73.1
+Lamia Ali,25,89.2,Medium,High School,High,Yes,7,68.5,Medium,Yes,1,Low,High,Public,Negative,7,No,Moderate,Female,91.9
+Sumaiya Shaikh,23,76.7,High,Postgraduate,High,No,5,61.4,Medium,Yes,1,Medium,High,Public,Neutral,1,Yes,Far,Female,88.7
+Arafat Ahmed,22,72.1,High,College,Medium,Yes,6,66.7,Medium,Yes,1,Low,High,Public,Negative,4,No,Far,Male,86.5
+Arif Rahman,20,92.3,High,College,Medium,No,6,68.1,Low,Yes,3,High,High,Public,Positive,3,No,Near,Male,86.6
+Sadia Mia,30,97.5,High,College,Low,No,8,97.3,Medium,Yes,2,Medium,Low,Public,Negative,7,No,Moderate,Male,100.0
+Mahmud Jahan,10,86.4,High,College,Medium,No,5,83.1,Medium,Yes,0,Low,Low,Public,Negative,4,No,Far,Male,78.2
+Laboni Hossain,9,80.3,High,High School,Low,No,8,89.4,High,No,2,Low,Medium,Private,Negative,1,Yes,Near,Female,67.1
+Mahmud Akter,27,87.7,High,College,Medium,Yes,6,68.9,Medium,No,3,High,High,Public,Positive,5,Yes,Far,Male,96.2
+Laboni Ahmed,20,96.8,Medium,High School,Medium,Yes,8,87.8,High,Yes,1,High,Low,Private,Negative,3,No,Moderate,Female,90.6
+Rakib Akter,37,96.4,Medium,College,High,No,5,56.4,High,No,1,High,Medium,Private,Neutral,6,No,Moderate,Female,100.0
+Fahim Rahman,16,87.2,High,Postgraduate,High,No,6,77.4,High,No,2,Medium,Low,Private,Positive,5,No,Moderate,Female,95.2
+Mahmud Rahman,12,90.0,Medium,High School,Medium,No,7,88.8,High,No,1,High,High,Private,Neutral,2,No,Far,Male,88.9
+Tasnim Mia,19,88.0,High,Postgraduate,Medium,No,7,69.5,Low,Yes,4,Low,Medium,Public,Negative,2,No,Near,Female,83.5
+Rafi Khan,26,77.3,High,College,High,No,5,69.4,Medium,Yes,0,Medium,High,Private,Negative,1,No,Moderate,Female,94.1
+Mahmud Bhuiyan,12,95.4,Medium,College,Medium,No,9,69.9,High,Yes,1,Medium,High,Private,Positive,1,No,Moderate,Female,89.4
+Fahim Chowdhury,15,97.7,Medium,College,Low,Yes,6,45.0,Low,Yes,1,Low,Low,Public,Neutral,7,No,Near,Female,65.3
+Nusrat Alam,31,83.4,High,Postgraduate,Medium,Yes,6,79.5,Low,No,2,High,Low,Public,Negative,2,No,Moderate,Female,90.0
+Farhana Hasan,12,70.5,High,Postgraduate,Medium,Yes,9,76.0,High,No,1,Low,Medium,Public,Negative,5,No,Moderate,Male,73.9
+Sabuj Islam,18,82.8,Low,Postgraduate,High,Yes,9,76.7,High,Yes,1,Medium,Medium,Private,Negative,2,No,Near,Female,98.1
+Mehedi Alam,14,79.3,Low,College,Low,No,8,61.7,Low,No,0,Low,Low,Private,Neutral,6,No,Near,Male,55.1
+Rakib Khan,25,100.0,Low,Postgraduate,Medium,No,7,85.3,High,Yes,0,High,Medium,Public,Positive,1,Yes,Moderate,Female,97.0
+Fahim Siddique,18,65.7,High,College,Medium,Yes,7,60.3,High,No,2,Low,Low,Private,Negative,3,Yes,Near,Male,70.5
+Rafi Ahmed,28,87.9,Low,Postgraduate,Medium,Yes,7,63.7,Low,Yes,0,Medium,Medium,Private,Negative,4,No,Moderate,Female,87.7
+Sabuj Khan,20,85.4,Medium,Postgraduate,Medium,No,6,66.2,Medium,Yes,1,Medium,Low,Private,Neutral,2,No,Moderate,Female,81.2
+Farhana Ali,3,100.0,High,Postgraduate,High,No,5,76.2,High,No,0,Low,High,Public,Negative,5,No,Near,Male,81.6
+Arif Shaikh,7,79.5,Medium,High School,High,Yes,7,39.4,Medium,No,1,Medium,Medium,Public,Neutral,2,No,Near,Female,52.4
+Laboni Hossain,11,76.7,Low,High School,High,No,9,92.0,Low,No,2,Low,High,Public,Neutral,6,No,Near,Male,85.6
+Arafat Hossain,24,79.7,Low,College,Low,No,7,77.3,High,Yes,1,Low,Low,Private,Positive,7,No,Near,Male,89.7
+Mehedi Bhuiyan,37,73.8,Medium,Postgraduate,Low,Yes,6,96.7,High,Yes,0,Low,High,Public,Neutral,7,Yes,Near,Male,100.0
+Nahid Ali,13,83.6,Medium,Postgraduate,Medium,Yes,6,95.1,Medium,Yes,2,Low,Low,Private,Negative,1,No,Near,Female,82.5
+Anika Khan,3,81.7,High,College,High,No,6,89.7,Medium,No,2,High,High,Private,Positive,5,Yes,Moderate,Female,77.2
+Fahim Islam,18,85.4,Low,High School,Low,No,7,69.4,High,No,1,Medium,Medium,Private,Negative,4,No,Moderate,Male,82.0
+Mahmud Bhuiyan,25,82.2,Low,High School,Medium,Yes,6,72.1,High,No,3,Medium,Low,Private,Positive,4,No,Near,Male,92.3
+Tanvir Khan,9,76.7,Medium,College,High,Yes,7,47.4,Medium,No,4,Low,Medium,Public,Neutral,3,No,Near,Male,63.4
+Tanzim Rahman,20,100.0,Medium,College,High,No,6,73.7,Medium,Yes,0,Medium,Low,Private,Neutral,3,No,Moderate,Female,93.0
+Laboni Islam,16,62.5,Low,High School,Low,Yes,8,63.2,High,Yes,1,High,High,Private,Negative,3,No,Near,Female,72.1
+Nahid Khan,21,83.2,Medium,Postgraduate,Medium,Yes,9,74.6,Medium,No,2,Medium,Medium,Public,Positive,6,Yes,Far,Male,90.2
+Lamia Siddique,33,100.0,Low,High School,Medium,No,7,49.7,Medium,Yes,0,Low,High,Private,Positive,4,No,Near,Female,97.6
+Farhana Shaikh,27,100.0,Low,College,Low,Yes,6,73.8,Low,No,0,Low,Low,Private,Positive,1,Yes,Far,Female,93.6
+Arafat Islam,29,84.2,Low,College,High,Yes,7,82.8,Medium,No,0,Low,Low,Public,Neutral,5,No,Far,Female,97.5
+Tasnim Ali,8,100.0,Medium,College,High,No,6,72.4,High,Yes,0,High,High,Private,Positive,7,No,Far,Male,82.8
+Sabuj Chowdhury,22,83.6,Medium,College,Medium,No,6,85.3,High,Yes,0,High,Medium,Private,Positive,5,No,Moderate,Male,88.1
+Farhana Ali,13,82.8,Low,High School,Medium,No,6,88.4,Low,No,2,High,Low,Private,Neutral,2,No,Moderate,Male,84.0
+Nahid Khan,20,91.7,High,High School,Medium,Yes,5,75.1,Low,No,0,Medium,Medium,Private,Neutral,3,No,Moderate,Female,80.9
+Farhana Khan,16,100.0,Medium,College,High,No,9,73.4,Low,Yes,4,High,Medium,Private,Negative,3,No,Moderate,Male,88.9
+Lamia Chowdhury,10,59.2,Low,High School,Low,No,8,84.5,Low,No,0,Low,High,Public,Negative,2,No,Near,Male,69.5
+Tanzim Islam,8,76.8,Medium,College,High,Yes,5,70.4,High,Yes,0,Low,High,Private,Positive,5,No,Moderate,Male,73.9
+Arafat Shaikh,14,89.3,High,High School,Low,No,6,73.3,Low,No,0,High,Medium,Private,Negative,1,No,Far,Female,69.5
+Rakib Hasan,21,83.2,Medium,High School,High,Yes,8,80.1,High,No,0,Low,High,Public,Neutral,7,Yes,Moderate,Male,97.8
+Rakib Rahman,24,87.1,High,College,Medium,Yes,8,74.6,High,No,0,High,High,Private,Neutral,2,No,Near,Male,99.1
+Sadia Shaikh,23,90.7,Low,High School,High,Yes,7,64.3,Low,Yes,2,High,Low,Public,Neutral,5,No,Moderate,Female,89.0
+Farhana Mia,16,94.7,Medium,College,Medium,Yes,8,76.7,Low,No,4,High,High,Private,Positive,2,No,Moderate,Male,97.3
+Tasnim Hossain,19,79.5,Low,High School,Medium,No,7,84.5,Medium,No,1,Medium,Low,Private,Neutral,7,No,Moderate,Female,85.4
+Lamia Ali,10,87.0,High,High School,Low,No,9,73.5,Low,No,0,Low,Medium,Private,Negative,5,No,Near,Male,60.5
+Fahim Ahmed,21,100.0,Low,Postgraduate,Low,No,5,71.4,Medium,No,1,High,Low,Public,Positive,4,No,Moderate,Male,81.4
+Laboni Jahan,40,89.8,Low,High School,Medium,No,9,61.7,High,Yes,0,Medium,High,Private,Positive,7,No,Moderate,Female,100.0
+Rakib Shaikh,13,68.5,Medium,College,Low,No,8,78.3,Medium,No,0,High,High,Public,Neutral,3,No,Moderate,Male,63.0
+Anika Alam,30,70.0,High,High School,Low,No,8,45.2,High,Yes,1,High,High,Private,Neutral,2,No,Near,Male,85.0
+Rafi Shaikh,19,82.2,Medium,High School,Low,No,5,77.1,Medium,Yes,4,Medium,High,Private,Negative,7,No,Far,Female,85.2
+Farhana Alam,13,65.3,Medium,Postgraduate,High,No,5,87.9,Medium,Yes,4,Medium,Low,Public,Negative,2,No,Moderate,Male,83.1
+Tanvir Islam,17,84.6,High,College,High,Yes,9,61.1,Medium,Yes,1,Medium,Medium,Public,Neutral,6,No,Moderate,Female,86.6
+Arif Akter,18,99.3,Low,High School,Low,No,9,61.5,Low,Yes,3,Low,Low,Public,Negative,7,Yes,Moderate,Male,76.4
+Arif Khan,13,93.1,High,High School,Medium,No,9,69.4,High,Yes,4,Medium,High,Private,Negative,3,No,Moderate,Male,87.0
+Sabuj Alam,28,100.0,High,High School,Low,Yes,8,50.1,Low,No,3,High,Low,Private,Negative,7,No,Near,Female,94.7
+Sumaiya Hossain,11,82.7,High,College,Low,Yes,8,75.5,Low,Yes,4,High,Low,Private,Positive,3,Yes,Far,Female,70.5
+Tasnim Jahan,26,77.3,Low,High School,Medium,No,5,63.2,Low,No,0,Medium,Low,Private,Negative,2,No,Moderate,Female,84.9
+Nusrat Hasan,22,75.9,High,Postgraduate,Low,No,6,66.8,High,Yes,1,High,Low,Private,Neutral,3,No,Far,Female,73.9
+Arif Ali,15,86.0,Medium,College,Low,Yes,8,68.3,Low,No,1,Medium,Low,Private,Positive,1,No,Moderate,Female,62.4
+Laboni Rahman,16,87.0,Low,College,Medium,Yes,6,82.4,High,No,1,Medium,Medium,Private,Negative,5,No,Far,Male,89.9
+Nahid Hasan,14,100.0,Low,College,Low,Yes,6,79.6,Low,Yes,1,High,Medium,Private,Neutral,1,No,Far,Male,77.6
+Tanvir Ahmed,8,96.4,High,Postgraduate,Low,No,5,76.5,High,Yes,0,Medium,High,Private,Positive,6,No,Moderate,Female,79.5
+Sajib Ahmed,32,78.3,High,High School,Low,No,7,73.6,Low,Yes,3,Medium,Low,Public,Negative,2,No,Moderate,Male,99.5
+Lamia Siddique,15,63.3,Low,High School,Medium,Yes,8,85.5,Low,No,0,Low,Low,Public,Positive,1,No,Near,Male,73.4
+Laboni Alam,16,91.8,Medium,Postgraduate,High,No,7,66.3,Low,Yes,1,High,Medium,Public,Negative,2,Yes,Near,Female,80.6
+Rafi Hasan,13,68.4,Medium,Postgraduate,Medium,No,8,68.2,Medium,No,1,High,Low,Public,Positive,5,Yes,Near,Male,64.4
+Mahmud Mia,4,73.0,Medium,Postgraduate,Low,Yes,5,80.5,High,Yes,2,High,Low,Public,Positive,6,No,Near,Male,65.5
+Arafat Akter,29,72.2,Medium,High School,Low,Yes,7,89.3,Medium,Yes,0,High,Low,Public,Positive,2,No,Moderate,Male,85.8
+Rakib Islam,22,93.6,Low,Postgraduate,High,No,6,79.1,Low,No,1,Medium,Medium,Private,Neutral,4,No,Far,Male,88.7
+Tasnim Jahan,10,90.4,High,Postgraduate,Low,Yes,5,68.3,Medium,No,2,Low,Medium,Private,Neutral,7,Yes,Moderate,Male,73.8
+Tanzim Mia,24,57.0,Medium,Postgraduate,Medium,Yes,8,83.5,Low,No,3,Medium,Medium,Public,Neutral,7,No,Moderate,Male,79.5
+Laboni Hossain,32,87.0,High,College,Medium,Yes,8,57.0,Medium,No,3,Medium,High,Public,Neutral,2,Yes,Moderate,Male,100.0
+Rakib Alam,24,61.3,Low,High School,Low,Yes,5,64.4,High,Yes,1,Medium,Medium,Private,Negative,3,No,Far,Female,79.8
+Laboni Bhuiyan,30,80.0,Medium,Postgraduate,Medium,No,9,75.1,Low,No,2,Low,Low,Public,Negative,1,No,Far,Female,97.9
+Sadia Shaikh,26,70.2,Medium,Postgraduate,High,No,8,78.0,Medium,Yes,1,Low,High,Private,Negative,3,No,Far,Female,93.8
+Tanvir Hasan,18,71.8,Low,Postgraduate,Medium,No,5,63.4,High,No,2,High,High,Private,Negative,7,No,Near,Female,76.4
+Sajib Rahman,35,64.8,Medium,High School,High,Yes,5,70.4,Medium,Yes,0,Low,Medium,Public,Neutral,2,No,Near,Female,90.4
+Rakib Chowdhury,7,79.4,High,Postgraduate,Low,Yes,5,71.3,Low,Yes,0,High,High,Private,Positive,1,No,Near,Female,65.6
+Tanvir Shaikh,25,83.1,High,College,Low,Yes,9,76.5,Medium,No,3,Low,High,Private,Negative,5,No,Near,Female,88.1
+Farhana Shaikh,21,81.9,Medium,Postgraduate,Medium,Yes,9,66.8,High,No,4,Medium,Low,Public,Neutral,3,No,Near,Male,90.3
+Sabuj Chowdhury,7,73.6,High,College,Medium,Yes,6,48.6,Medium,Yes,0,High,High,Public,Negative,2,No,Near,Male,59.3
+Tanzim Mia,22,96.3,Low,High School,Low,Yes,6,63.2,Low,No,0,Low,Low,Private,Neutral,3,No,Near,Male,78.8
+Anika Ali,27,74.0,High,College,Low,No,8,80.1,High,Yes,1,Low,Low,Public,Neutral,1,No,Near,Male,86.9
+Arafat Bhuiyan,11,87.1,Low,High School,Low,Yes,9,50.2,Low,Yes,2,Medium,Medium,Public,Neutral,5,No,Moderate,Male,61.9
+Lamia Jahan,22,81.7,Medium,College,Low,No,7,71.8,High,Yes,1,High,Medium,Private,Neutral,4,No,Near,Female,80.9
+Arif Khan,4,82.4,Low,Postgraduate,Low,Yes,9,82.6,High,No,4,Medium,Low,Public,Negative,2,No,Near,Male,74.0
+Sadia Jahan,23,86.3,Low,Postgraduate,High,Yes,7,91.8,High,No,1,High,Low,Public,Positive,5,No,Moderate,Female,100.0
+Sadia Ali,6,71.1,Low,High School,Medium,Yes,9,48.7,Medium,Yes,4,High,Low,Public,Negative,1,Yes,Near,Female,58.2
+Sajib Khan,14,78.5,Low,Postgraduate,Medium,Yes,6,64.3,Medium,Yes,0,High,Low,Public,Negative,7,No,Near,Female,69.5
+Lamia Hossain,18,64.0,Low,Postgraduate,Low,No,7,93.1,Medium,Yes,2,High,Low,Private,Positive,3,No,Far,Male,76.4
+Rafi Akter,5,72.2,Low,Postgraduate,High,Yes,9,89.0,Medium,Yes,0,High,Medium,Private,Negative,7,Yes,Moderate,Female,66.7
+Arafat Islam,11,81.2,Low,College,High,No,5,80.0,High,Yes,1,High,Low,Private,Neutral,5,Yes,Moderate,Male,84.3
+Tanzim Shaikh,23,82.2,High,College,Low,No,9,66.7,Medium,No,0,High,Medium,Private,Negative,1,No,Moderate,Female,79.7
+Farhana Chowdhury,12,100.0,Low,College,High,Yes,5,85.8,Low,No,4,Medium,Medium,Private,Positive,5,No,Far,Female,94.5
+Tanzim Akter,16,69.6,Medium,High School,Medium,No,5,58.9,Low,No,4,Low,Low,Private,Positive,3,No,Near,Male,74.8
+Tanzim Alam,9,55.9,Low,College,Medium,No,9,64.2,High,Yes,0,High,Low,Public,Neutral,2,Yes,Moderate,Male,58.4
+Rafi Mia,28,64.3,Low,Postgraduate,High,Yes,6,80.4,Low,Yes,2,Low,Medium,Private,Negative,5,Yes,Far,Female,91.3
+Lamia Akter,4,85.7,High,Postgraduate,High,Yes,6,57.4,Medium,Yes,1,Medium,Medium,Private,Negative,1,No,Moderate,Female,63.0
+Anika Bhuiyan,20,89.1,Medium,High School,Medium,No,6,76.9,Low,Yes,1,Medium,Medium,Private,Positive,4,No,Moderate,Male,83.5
+Farhana Mia,18,95.4,High,College,Medium,Yes,7,66.6,High,Yes,2,High,High,Public,Neutral,4,No,Moderate,Female,88.8
+Tanvir Ali,27,72.8,Medium,Postgraduate,High,Yes,6,65.1,High,No,1,Low,High,Public,Negative,4,No,Moderate,Female,89.2
+Nahid Ali,15,67.9,High,High School,High,Yes,7,74.5,High,No,1,Low,Medium,Public,Neutral,2,No,Near,Male,73.8
+Laboni Ahmed,18,53.1,High,College,High,Yes,5,53.6,Low,Yes,0,Low,Medium,Public,Negative,5,Yes,Far,Female,62.1
+Tanzim Hasan,20,77.9,Low,High School,High,Yes,8,83.6,Low,Yes,3,Medium,High,Public,Neutral,7,No,Near,Male,92.4
+Tanzim Mia,2,75.7,Low,High School,High,Yes,5,64.2,High,No,0,High,Medium,Private,Neutral,2,Yes,Far,Male,58.1
+Mahmud Ali,26,79.3,Low,High School,High,Yes,8,55.1,Low,Yes,4,Low,Medium,Private,Negative,3,Yes,Moderate,Female,97.9
+Anika Ali,35,95.7,High,High School,High,No,9,72.6,Medium,No,2,Low,Low,Public,Neutral,1,No,Near,Female,100.0
+Nusrat Ali,27,98.8,High,Postgraduate,High,Yes,9,65.2,Medium,No,1,High,Low,Private,Negative,2,Yes,Moderate,Male,96.7
+Sumaiya Jahan,4,78.8,Low,Postgraduate,Low,Yes,5,73.8,Low,No,1,Medium,High,Public,Negative,1,No,Moderate,Female,68.9
+Tanvir Alam,22,85.0,Low,Postgraduate,High,No,8,69.4,High,Yes,1,Medium,Medium,Public,Positive,4,No,Moderate,Male,91.8
+Sumaiya Chowdhury,15,86.6,High,High School,High,Yes,9,79.8,High,No,0,Low,Low,Public,Positive,2,No,Near,Male,84.9
+Tasnim Chowdhury,18,100.0,Medium,Postgraduate,Low,No,6,71.4,Low,Yes,3,Medium,Medium,Public,Positive,3,No,Near,Male,86.1
+Sajib Rahman,24,56.4,Low,College,High,Yes,9,90.6,High,No,4,High,Low,Private,Positive,2,Yes,Moderate,Male,99.0
+Laboni Ali,2,90.9,Medium,College,High,Yes,8,75.9,Low,No,0,Low,Low,Public,Neutral,7,No,Moderate,Male,70.8
+Arif Mia,31,67.5,High,High School,Medium,No,8,54.2,Low,Yes,2,Low,Low,Public,Positive,6,No,Far,Female,83.1
+Sabuj Hasan,18,74.2,Low,Postgraduate,Medium,No,8,43.3,High,Yes,2,Low,High,Public,Neutral,7,Yes,Moderate,Male,80.6
+Nahid Mia,24,89.4,High,Postgraduate,High,No,9,84.3,Medium,No,3,Low,High,Private,Positive,4,No,Near,Female,100.0
+Lamia Jahan,16,92.1,Low,College,High,No,6,59.3,Low,Yes,0,Low,Medium,Public,Positive,3,No,Near,Male,69.1
+Sadia Bhuiyan,13,72.6,Medium,College,High,Yes,8,99.2,High,No,4,Low,Low,Private,Positive,7,Yes,Far,Male,95.7
+Sumaiya Alam,29,63.8,Low,Postgraduate,Medium,Yes,9,81.1,Low,Yes,1,Medium,High,Public,Neutral,2,No,Far,Male,93.1
+Arif Bhuiyan,24,54.9,Low,College,Low,No,9,64.6,Medium,No,3,Low,Medium,Public,Negative,6,No,Moderate,Female,69.2
+Sadia Chowdhury,13,74.7,High,College,Low,No,8,89.7,High,Yes,0,Low,Medium,Private,Neutral,1,No,Far,Female,74.6
+Sadia Bhuiyan,18,74.3,Low,Postgraduate,Medium,Yes,9,78.6,High,No,3,Medium,Medium,Public,Neutral,3,No,Near,Female,91.9
+Tanzim Ali,18,100.0,Low,High School,Medium,No,8,59.2,Low,No,2,Medium,Low,Public,Positive,5,No,Near,Male,82.7
+Mahmud Hossain,25,62.5,Low,Postgraduate,Low,Yes,5,55.3,High,No,3,High,Medium,Public,Negative,3,No,Far,Female,84.8
+Nahid Hossain,17,61.9,High,College,Low,Yes,5,100.0,Medium,No,2,High,Medium,Public,Positive,6,Yes,Far,Male,79.9
+Tasnim Jahan,33,67.8,High,College,Medium,No,6,94.3,Low,No,0,Low,Medium,Private,Neutral,6,No,Far,Female,93.5
+Rafi Bhuiyan,19,64.6,Medium,Postgraduate,Low,Yes,6,75.1,High,No,4,High,Low,Private,Negative,5,Yes,Moderate,Male,83.4
+Nahid Hossain,5,44.6,Medium,High School,Medium,Yes,6,76.9,High,Yes,0,Low,High,Private,Negative,3,Yes,Near,Male,55.2
+Tasnim Mia,20,90.3,Low,High School,Medium,Yes,5,89.2,Medium,No,0,Low,Low,Private,Positive,5,No,Near,Male,92.1
+Mehedi Shaikh,16,83.1,Medium,High School,Low,No,6,57.0,Medium,No,0,High,Low,Private,Negative,2,No,Moderate,Male,66.8
+Rakib Hossain,12,58.5,High,Postgraduate,Medium,Yes,9,64.6,Medium,No,1,Low,Medium,Public,Positive,1,No,Moderate,Female,61.8
+Nusrat Chowdhury,22,66.7,Medium,College,Low,No,6,85.8,Low,Yes,2,Medium,Medium,Public,Positive,4,Yes,Far,Male,88.7
+Fahim Akter,29,73.3,High,High School,Low,Yes,7,65.0,Low,No,2,High,Low,Public,Positive,5,No,Near,Male,72.6
+Sumaiya Islam,7,93.4,High,Postgraduate,Medium,No,9,77.1,High,Yes,0,High,Medium,Private,Negative,6,No,Near,Male,77.1
+Sajib Chowdhury,28,61.1,Low,College,Low,No,5,79.7,High,No,0,High,Medium,Public,Neutral,4,No,Moderate,Female,81.0
+Fahim Jahan,8,90.2,Medium,Postgraduate,Low,Yes,7,80.8,Low,Yes,1,High,Medium,Public,Neutral,3,No,Near,Male,69.7
+Mehedi Hossain,23,84.6,Medium,Postgraduate,High,No,5,56.2,Medium,Yes,1,High,Low,Private,Positive,5,No,Moderate,Male,83.1
+Mehedi Hossain,21,77.0,High,High School,Medium,Yes,9,86.0,High,No,0,Low,Medium,Private,Positive,7,Yes,Far,Female,87.6
+Sabuj Islam,28,83.1,Low,High School,Medium,No,7,66.8,Low,No,0,High,High,Public,Positive,5,No,Far,Male,80.2
+Sajib Ali,12,67.8,High,Postgraduate,High,Yes,5,72.8,High,No,1,Medium,High,Public,Positive,6,Yes,Far,Female,78.3
+Rakib Hossain,12,87.7,Medium,High School,Low,No,7,98.0,High,Yes,3,High,Medium,Private,Neutral,4,No,Near,Female,86.6
+Arafat Hasan,31,95.3,Low,Postgraduate,High,No,9,78.9,High,No,0,High,Medium,Private,Positive,4,No,Far,Female,100.0
+Sadia Ali,21,85.6,Low,College,High,Yes,6,63.0,High,No,1,High,Low,Private,Positive,3,No,Moderate,Male,91.0
+Tanzim Mia,30,89.0,Medium,High School,High,No,6,69.5,Medium,No,3,High,Medium,Private,Positive,3,No,Near,Male,100.0
+Arif Islam,2,98.3,High,College,Medium,No,7,84.6,Medium,No,2,High,Medium,Public,Positive,7,Yes,Near,Male,67.8
+Nahid Ahmed,34,67.3,Low,Postgraduate,Low,Yes,6,89.0,High,Yes,0,High,Low,Private,Neutral,3,No,Moderate,Female,98.5
+Arafat Akter,18,95.5,High,College,Low,No,6,61.7,High,No,1,Low,Medium,Private,Negative,3,No,Moderate,Male,77.2
+Laboni Hasan,17,92.5,High,College,Low,No,9,68.5,Low,No,1,Medium,High,Public,Positive,3,No,Far,Female,81.4
+Rafi Ali,20,64.3,High,College,Low,No,9,67.2,High,No,2,Low,Medium,Private,Positive,1,No,Near,Female,68.1
+Laboni Ali,14,90.7,High,High School,Low,Yes,7,76.3,Medium,Yes,1,High,High,Private,Negative,7,No,Far,Male,82.2
+Tanzim Hossain,39,82.6,Medium,High School,Medium,No,6,65.0,Medium,Yes,1,Medium,Low,Private,Neutral,6,No,Near,Male,100.0
+Mehedi Rahman,23,76.4,High,High School,Medium,No,6,58.8,Medium,No,2,Medium,High,Public,Negative,6,No,Near,Female,83.5
+Nusrat Ahmed,12,77.9,Low,High School,Medium,Yes,8,59.9,Low,No,4,High,Medium,Private,Positive,1,No,Far,Male,72.7
+Tanvir Rahman,15,73.1,Low,High School,High,Yes,7,50.0,High,Yes,2,Medium,High,Private,Neutral,7,Yes,Moderate,Male,71.4
+Lamia Siddique,9,80.0,Medium,College,High,Yes,7,75.0,Medium,No,0,High,Medium,Private,Negative,5,No,Far,Female,65.2
+Sajib Mia,29,100.0,High,College,Medium,Yes,7,78.0,Medium,No,4,High,High,Private,Negative,1,No,Near,Female,100.0
+Sadia Alam,16,73.1,Low,High School,Low,Yes,7,72.5,Low,Yes,0,Low,Medium,Private,Positive,7,No,Near,Male,70.7
+Sajib Hossain,15,81.1,Low,High School,Medium,Yes,7,45.7,Medium,No,1,High,Medium,Public,Positive,3,No,Far,Male,68.9
+Anika Ali,27,85.6,High,Postgraduate,High,No,7,63.2,Medium,Yes,3,Medium,Medium,Private,Negative,6,Yes,Far,Female,100.0
+Sumaiya Islam,5,85.2,High,High School,Low,No,6,75.8,Medium,Yes,3,Low,High,Public,Neutral,2,No,Near,Male,69.1
+Arafat Islam,23,76.9,Low,Postgraduate,Low,Yes,8,80.3,High,Yes,1,Medium,Low,Private,Positive,3,No,Near,Male,83.9
+Fahim Islam,14,82.9,Low,Postgraduate,High,Yes,6,51.3,Medium,No,0,Medium,Medium,Public,Positive,7,No,Far,Female,69.0
+Mehedi Alam,16,67.4,Medium,College,Medium,No,7,43.1,Medium,No,1,Low,Medium,Private,Positive,2,Yes,Near,Male,60.5
+Nahid Hossain,20,86.0,High,Postgraduate,High,Yes,5,73.2,Medium,No,3,Low,Medium,Public,Positive,6,No,Far,Female,89.9
+Fahim Islam,15,78.6,Low,College,High,Yes,6,82.1,Low,Yes,1,Low,Low,Private,Positive,5,No,Near,Male,88.1
+Lamia Alam,10,88.3,High,High School,High,No,6,100.0,Medium,No,0,High,Low,Public,Positive,5,No,Far,Female,86.4
+Arif Islam,16,84.4,Low,High School,Medium,Yes,5,73.7,High,No,0,High,Medium,Public,Positive,4,No,Moderate,Female,76.2
+Rakib Mia,2,79.5,High,College,Low,Yes,9,61.4,Low,No,1,Medium,Medium,Private,Negative,6,No,Far,Female,54.6
+Nusrat Islam,24,78.0,Medium,Postgraduate,High,Yes,6,66.7,Medium,No,2,Low,Low,Public,Positive,6,No,Near,Female,92.0
+Nahid Khan,4,85.1,High,College,High,No,5,65.8,Low,Yes,4,High,Low,Private,Positive,7,No,Near,Male,71.9

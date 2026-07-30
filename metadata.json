@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Analytics & Prediction System",
+  "description": "A comprehensive Data Warehouse Star Schema & Machine Learning analytics platform for World University of Bangladesh CSE Department.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
