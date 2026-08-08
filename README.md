@@ -122,7 +122,7 @@ The **Student Performance Analytics & ML Risk Predictor** is an enterprise-grade
 
 ## 🌐 Live Demo & Credentials
 
-> 🔗 **Application Deployment**: [WUB Student Performance Portal](https://ais-pre-nfr5hipkxsqodvoe2mm57t-330033169079.asia-southeast1.run.app)  
+> 🔗 **Application Deployment**: [WUB Student Performance Portal]([https://ais-pre-nfr5hipkxsqodvoe2mm57t-330033169079.asia-southeast1.run.app](https://wubstudent.vercel.app/))  
 > 📁 **GitHub Repository**: [sabujshaikh/Student-Performance-Project](https://github.com/sabujshaikh/Student-Performance-Project)
 
 ### Role-Based Testing Credentials
