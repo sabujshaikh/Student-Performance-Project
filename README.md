@@ -774,8 +774,11 @@ Submission Date: 19 July 2026
 
 | Team Member | Roll No | Project Role | Core Contributions |
 | :--- | :---: | :--- | :--- |
-| **[Sabuj Shaikh](https://github.com/sabujshaikh)** | **4070** | **Team Lead & Data Engineer, Frontend Developer** | Star Schema design, Python ETL pipeline, React Portal, deployment, UI components, Chart.js integrations, styling |
-| **[MD Nazim Uddin](https://github.com/nazimuddin0)** | **4069** | **ML Engineer & Backend Developer** | Scikit-Learn training script, RF / DT / LR benchmark evaluation / Flask REST API endpoints, routing, authentication logic | 
+| **[Sabuj Shaikh](https://github.com/sabujshaikh)** | **4070** | **Team Lead & Data Engineer** | Star Schema design, Python ETL pipeline, React Portal, deployment |
+| **Md Nazim Uddin** | **4069** | **ML Engineer** | Scikit-Learn training script, RF / DT / LR benchmark evaluation |
+| **Wafa Ahmed** | **4072** | **Backend Developer** | Flask REST API endpoints, routing, authentication logic |
+| **Nadia Akter Luna** | **4073** | **Frontend Developer** | UI components, Chart.js integrations, styling |
+
 <br>
 
 **Project Supervisor**: **Md Tanzim Hossain**  

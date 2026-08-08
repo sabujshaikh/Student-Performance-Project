@@ -63,14 +63,6 @@ export const Header: React.FC<HeaderProps> = ({
             {darkMode ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
           </button>
 
-          <button
-            onClick={onOpenInfo}
-            className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold rounded-xl bg-amber-400/10 text-amber-300 border border-amber-400/30 hover:bg-amber-400/20 transition"
-          >
-            <Info className="w-3.5 h-3.5" />
-            <span>Project Proposal</span>
-          </button>
-
           {currentUser ? (
             <div className="flex items-center gap-2.5 pl-3 border-l border-slate-700/80">
               <div className="text-right hidden sm:block">

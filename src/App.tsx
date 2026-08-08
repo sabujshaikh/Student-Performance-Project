@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { User, StudentProfile, StarSchemaAnalytics, BenchmarkData, PredictionInput, PredictionResult } from './types';
+import { API_BASE_URL } from './config';
 import { Header } from './components/Header';
 import { LoginView } from './components/LoginView';
 import { DashboardView } from './components/DashboardView';
@@ -37,7 +38,7 @@ export default function App() {
   useEffect(() => {
     if (!currentUser) return;
 
-    fetch('/api/students')
+    fetch(`${API_BASE_URL}/api/students`)
       .then(res => res.json())
       .then(data => {
         if (data.data && Array.isArray(data.data)) {
@@ -49,12 +50,12 @@ export default function App() {
       })
       .catch(err => console.error('Error fetching students:', err));
 
-    fetch('/api/warehouse/analytics')
+    fetch(`${API_BASE_URL}/api/warehouse/analytics`)
       .then(res => res.json())
       .then(data => setAnalytics(data))
       .catch(err => console.error('Error fetching analytics:', err));
 
-    fetch('/api/prediction/benchmark')
+    fetch(`${API_BASE_URL}/api/prediction/benchmark`)
       .then(res => res.json())
       .then(data => setBenchmark(data))
       .catch(err => console.error('Error fetching benchmark:', err));
@@ -81,7 +82,7 @@ export default function App() {
     attendance: number
   ) => {
     try {
-      const res = await fetch(`/api/students/${id}/update`, {
+      const res = await fetch(`${API_BASE_URL}/api/students/${id}/update`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ subject_marks: updatedMarks, attendance })
@@ -101,7 +102,7 @@ export default function App() {
 
   // Execute Scikit-Learn Prediction via Python Flask REST API
   const handleExecutePredict = async (input: PredictionInput): Promise<PredictionResult> => {
-    const res = await fetch('/api/prediction/predict', {
+    const res = await fetch(`${API_BASE_URL}/api/prediction/predict`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(input)
@@ -112,7 +113,7 @@ export default function App() {
 
   // Execute Star Schema SQL Query via MySQL/SQLite REST API
   const handleExecuteSql = async (query: string) => {
-    const res = await fetch('/api/warehouse/query', {
+    const res = await fetch(`${API_BASE_URL}/api/warehouse/query`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ query })
@@ -122,7 +123,7 @@ export default function App() {
 
   // Run ETL Pipeline via Python REST API
   const handleRunEtl = async () => {
-    const res = await fetch('/api/etl/run', {
+    const res = await fetch(`${API_BASE_URL}/api/etl/run`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' }
     });

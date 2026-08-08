@@ -60,49 +60,6 @@ export const ProjectInfoModal: React.FC<ProjectInfoModalProps> = ({ onClose }) =
             This project combines data warehousing with data mining to predict student academic outcomes early. A MySQL-based star schema data warehouse consolidates 6,607 student records across 20 attributes into a central fact table linked to dimension tables. On top of this warehouse, three supervised machine learning algorithms — Decision Tree, Random Forest, and Logistic Regression — are trained and compared to predict exam scores and surface risk factors.
           </p>
         </div>
-
-        {/* Team Members Grid */}
-        <div className="space-y-3">
-          <h4 className="font-extrabold text-xs uppercase tracking-wider text-teal-600 flex items-center gap-2">
-            <Users className="w-4 h-4" />
-            <span>Group Members Info (Batch-66D)</span>
-          </h4>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
-            {teamMembers.map((m, idx) => (
-              <div key={idx} className="p-3 rounded-xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 space-y-1">
-                <div className="font-bold text-slate-900 dark:text-slate-100">{m.name} ({m.roll})</div>
-                <div className="text-[11px] font-bold text-emerald-600">{m.role}</div>
-                <p className="text-[10px] text-slate-500">{m.task}</p>
-              </div>
-            ))}
-          </div>
-          <div className="p-3 rounded-xl bg-emerald-500/10 border border-emerald-500/20 text-xs text-emerald-900 dark:text-emerald-300 font-bold">
-            Submitted To Supervisor: Md Tanzim Hossain (Lecturer, Dept of CSE, World University of Bangladesh)
-          </div>
-        </div>
-
-        {/* Deliverable Files List */}
-        <div className="space-y-3">
-          <h4 className="font-extrabold text-xs uppercase tracking-wider text-violet-600 flex items-center gap-2">
-            <FileCode2 className="w-4 h-4" />
-            <span>Project Source Code & SQL Deliverables</span>
-          </h4>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
-            {deliverables.map((item, idx) => (
-              <div key={idx} className="p-3 rounded-xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 flex items-center justify-between">
-                <div>
-                  <div className="font-mono font-bold text-slate-800 dark:text-slate-200 text-[11px]">{item.filename}</div>
-                  <div className="text-[10px] text-slate-500">{item.desc}</div>
-                </div>
-                <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-600">
-                  Ready
-                </span>
-              </div>
-            ))}
-          </div>
-        </div>
       </div>
     </div>
   );

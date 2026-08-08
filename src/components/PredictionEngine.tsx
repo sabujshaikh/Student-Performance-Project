@@ -44,7 +44,7 @@ export const PredictionEngine: React.FC<PredictionEngineProps> = ({ onPredict })
             <Cpu className="w-3.5 h-3.5" />
             <span>Random Forest Classifier Engine (89.4% Accuracy)</span>
           </div>
-          <h2 className="text-xl sm:text-2xl font-black tracking-tight">
+          <h2 className="text-xl sm:text-2xl font-black tracking-tight" style={{ color: '#7c86ff' }}>
             Interactive Student Academic Performance Predictor
           </h2>
           <p className="text-xs text-indigo-200 mt-1">
@@ -61,20 +61,18 @@ export const PredictionEngine: React.FC<PredictionEngineProps> = ({ onPredict })
               <Sliders className="w-5 h-5 text-indigo-600 dark:text-indigo-400" />
               <span>Input Factors & Predictor Variables</span>
             </h3>
-            <span className="text-xs text-indigo-600 dark:text-indigo-400 font-extrabold px-2.5 py-0.5 rounded-full bg-indigo-50 dark:bg-indigo-950"></span>
           </div>
 
           <form onSubmit={handleSubmit} className="space-y-5">
             {/* Primary Quantitative Factors */}
-            <div className="space-y-4">
+            <div className="space-y-4" style={{ borderColor: '#bec9de' }}>
               <div className="text-xs font-black text-indigo-600 dark:text-indigo-400 uppercase tracking-wider">
                 1. Core Academic & Assessment Factors
               </div>
 
               <div>
-                <div className="flex justify-between text-xs font-bold mb-1 text-white">
-                  <span>Attendance Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.attendance_mark}</strong></span>
-                  <span className="text-slate-400"></span>
+                <div className="flex justify-between text-xs font-bold mb-1">
+                  <span style={{ color: '#fdfeff' }}>Attendance Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.attendance_mark}</strong></span>
                 </div>
                 <input
                   type="range"
@@ -87,9 +85,8 @@ export const PredictionEngine: React.FC<PredictionEngineProps> = ({ onPredict })
               </div>
 
               <div>
-                <div className="flex justify-between text-xs font-bold mb-1 text-white">
-                  <span>Lab Report Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.lab_report_mark}</strong></span>
-                  <span className="text-slate-400"></span>
+                <div className="flex justify-between text-xs font-bold mb-1">
+                  <span style={{ color: '#ffffff' }}>Lab Report Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.lab_report_mark}</strong></span>
                 </div>
                 <input
                   type="range"
@@ -102,9 +99,8 @@ export const PredictionEngine: React.FC<PredictionEngineProps> = ({ onPredict })
               </div>
 
               <div>
-                <div className="fflex justify-between text-xs font-bold mb-1 text-white">
-                  <span>Assignment Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.assignment_mark}</strong></span>
-                  <span className="text-slate-400"></span>
+                <div className="flex justify-between text-xs font-bold mb-1">
+                  <span style={{ color: '#ffffff' }}>Assignment Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.assignment_mark}</strong></span>
                 </div>
                 <input
                   type="range"
@@ -117,9 +113,8 @@ export const PredictionEngine: React.FC<PredictionEngineProps> = ({ onPredict })
               </div>
 
               <div>
-                <div className="flex justify-between text-xs font-bold mb-1 text-white">
-                  <span>Forum Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.forum_mark}</strong></span>
-                  <span className="text-slate-400"></span>
+                <div className="flex justify-between text-xs font-bold mb-1">
+                  <span style={{ color: '#ffffff' }}>Forum Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.forum_mark}</strong></span>
                 </div>
                 <input
                   type="range"
@@ -132,9 +127,8 @@ export const PredictionEngine: React.FC<PredictionEngineProps> = ({ onPredict })
               </div>
 
               <div>
-                <div className="flex justify-between text-xs font-bold mb-1 text-white">
-                  <span>Class Performance Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.class_performance_mark}</strong></span>
-                  <span className="text-slate-400"></span>
+                <div className="flex justify-between text-xs font-bold mb-1">
+                  <span style={{ color: '#fcfcff' }}>Class Performance Mark: <strong className="text-indigo-600 dark:text-indigo-400">{formState.class_performance_mark}</strong></span>
                 </div>
                 <input
                   type="range"

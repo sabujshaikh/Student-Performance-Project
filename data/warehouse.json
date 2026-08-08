@@ -13,7 +13,7 @@
       "Student_Key": 1,
       "Student_ID": "4070",
       "Student_Name": "Sabuj Shaikh",
-      "Gender": "Male"
+      "Gender": "Female"
     },
     {
       "Student_Key": 2,
@@ -60,7 +60,7 @@
     {
       "Student_Key": 9,
       "Student_ID": "STU-1009",
-      "Student_Name": "Aabuj Akter",
+      "Student_Name": "Sabuj Akter",
       "Gender": "Female"
     },
     {

@@ -52,7 +52,7 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
               <Sparkles className="w-3.5 h-3.5" />
               <span>World University of Bangladesh • Dept. of CSE</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black tracking-tight text-white">
+            <h2 className="text-2xl sm:text-3xl font-black tracking-tight" style={{ color: '#7c86ff' }}>
               {isStudent && studentMatch
                 ? `Academic Performance Analytics: ${studentMatch.student_name}`
                 : 'Student Performance Dashboard & ML Risk Predictor'}

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { User } from '../types';
+import { API_BASE_URL } from '../config';
 import { Lock, GraduationCap, Users, ShieldCheck, ArrowRight, AlertCircle, Sparkles } from 'lucide-react';
 
 interface LoginViewProps {
@@ -19,7 +20,7 @@ export const LoginView: React.FC<LoginViewProps> = ({ onLoginSuccess }) => {
     setLoading(true);
 
     try {
-      const res = await fetch('/api/auth/login', {
+      const res = await fetch(`${API_BASE_URL}/api/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ username, password, role })
@@ -69,9 +70,7 @@ export const LoginView: React.FC<LoginViewProps> = ({ onLoginSuccess }) => {
             alt="World University of Bangladesh Logo"
             className="inline-block w-20 h-20 object-contain rounded-2xl bg-white p-2 shadow-xl mb-1 border border-slate-200 dark:border-slate-700"
           />
-          <h2 className="text-2xl font-black dark:text-white tracking-tight" 
-style={{ color: '#120c8f' }}>
-            
+          <h2 className="text-2xl font-black text-slate-900 dark:text-white tracking-tight">
             World University of Bangladesh
           </h2>
           <p className="text-xs font-bold text-indigo-600 dark:text-indigo-400 uppercase tracking-widest">
