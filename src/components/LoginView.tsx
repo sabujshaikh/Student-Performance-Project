@@ -70,13 +70,13 @@ export const LoginView: React.FC<LoginViewProps> = ({ onLoginSuccess }) => {
             alt="World University of Bangladesh Logo"
             className="inline-block w-20 h-20 object-contain rounded-2xl bg-white p-2 shadow-xl mb-1 border border-slate-200 dark:border-slate-700"
           />
-          <h2 className="text-2xl font-black text-slate-900 dark:text-white tracking-tight">
+          <h2 className="text-2xl font-black text-slate-900 dark:text-indigo-400 tracking-tight">
             World University of Bangladesh
           </h2>
           <p className="text-xs font-bold text-indigo-600 dark:text-indigo-400 uppercase tracking-widest">
             Department of Computer Science & Engineering
           </p>
-          <p className="text-xs text-slate-500 dark:text-slate-400">
+          <p className="text-xs text-slate-500 dark:text-indigo-400">
             Student Performance Analytics & ML Risk Prediction System
           </p>
         </div>
