@@ -938,6 +938,3 @@ Submission Date: 19 July 2026
 [⬆️ Back to Top](#-student-performance-analytics--ml-risk-predictor)
 
 </div>
-```
-
-Ei puro ta ekta code block e dewa hoiche — **sob select kore copy kore `README.md` file e paste korlei hobe**! ✅
