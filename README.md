@@ -868,9 +868,6 @@ Submission Date: 19 July 2026
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/sabujshaikh">
-        <img src="https://github.com/sabujshaikh.png?size=150" width="130" style="border-radius: 50%; border: 3px solid #4F46E5;" />
-      </a>
       <br/><br/>
       <strong style="font-size: 1.15em;">Sabuj Shaikh</strong>
       <br/>
