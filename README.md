@@ -886,7 +886,6 @@ Submission Date: 19 July 2026
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://placehold.co/130x130/10B981/ffffff?text=MN" width="130" style="border-radius: 50%; border: 3px solid #10B981;" />
       <br/><br/>
       <strong style="font-size: 1.15em;">Md Nazim Uddin</strong>
       <br/>
