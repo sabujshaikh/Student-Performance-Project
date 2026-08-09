@@ -440,7 +440,7 @@ Authenticates a user and returns role-based permissions.
 ```json
 {
   "username": "4070",
-  "password": "any",
+  "password": "password",
   "role": "student"
 }
 ```
