@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
   <img src="https://www.clipartmax.com/png/small/272-2722209_world-university-of-bangladesh.png" alt="WUB Logo" width="130" height="130" />
