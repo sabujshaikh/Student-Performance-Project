@@ -65,7 +65,6 @@
   - [Solution & Objectives](#solution--objectives)
   - [Real-World Academic Impact](#real-world-academic-impact)
 - [🌐 Live Demo & Credentials](#-live-demo--credentials)
-- [🖼️ System Screenshots](#️-system-screenshots)
 - [✨ Key Features](#-key-features)
 - [💻 Technology Stack](#-technology-stack)
 - [🏗️ System Architecture](#️-system-architecture)
@@ -154,27 +153,7 @@ The **Student Performance Analytics & ML Risk Predictor** is an **enterprise-gra
 
 ---
 
-## 🖼️ System Screenshots
 
-<div align="center">
-
-| | |
-|:---:|:---:|
-| **📊 Academic Performance Dashboard** | **🎓 Role-Based Student Portal** |
-| <img src="https://raw.githubusercontent.com/sabujshaikh/Student-Performance-Project/main/assets/dashboard.png" alt="Dashboard" onError="this.src='https://placehold.co/580x320/0d1b3e/ffffff?text=Academic+Dashboard';" width="100%" /> | <img src="https://raw.githubusercontent.com/sabujshaikh/Student-Performance-Project/main/assets/student_portal.png" alt="Student Portal" onError="this.src='https://placehold.co/580x320/022c22/ffffff?text=Student+Portal+%26+Transcript';" width="100%" /> |
-| *Bento-grid cohort KPIs, risk distribution & attendance bands* | *Official WUB transcript, subject marks, GPA chart & PDF export* |
-| | |
-| **🤖 Live ML Risk Predictor** | **⚡ Model Benchmark & Evaluation** |
-| <img src="https://raw.githubusercontent.com/sabujshaikh/Student-Performance-Project/main/assets/prediction.png" alt="Predictor" onError="this.src='https://placehold.co/580x320/1e1b4b/ffffff?text=Live+ML+Risk+Predictor';" width="100%" /> | <img src="https://raw.githubusercontent.com/sabujshaikh/Student-Performance-Project/main/assets/benchmark.png" alt="Benchmark" onError="this.src='https://placehold.co/580x320/0f172a/ffffff?text=ML+Model+Benchmark';" width="100%" /> |
-| *Real-time slider inputs for exam scores, risk bands & confidence* | *Comparative metrics — RF (89.4%), DT & LR confusion matrices* |
-| | |
-| **👩‍🏫 Teacher Management Console** | **🗄️ Data Warehouse & ETL Studio** |
-| <img src="https://raw.githubusercontent.com/sabujshaikh/Student-Performance-Project/main/assets/teacher_portal.png" alt="Teacher Portal" onError="this.src='https://placehold.co/580x320/172554/ffffff?text=Teacher+Console';" width="100%" /> | <img src="https://raw.githubusercontent.com/sabujshaikh/Student-Performance-Project/main/assets/warehouse.png" alt="Warehouse" onError="this.src='https://placehold.co/580x320/31103f/ffffff?text=Star+Schema+SQL+Studio';" width="100%" /> |
-| *Faculty panel — update attendance, marks & student comparisons* | *Live SQL terminal, schema viewer & ETL re-execution engine* |
-
-</div>
-
----
 
 ## ✨ Key Features
 
