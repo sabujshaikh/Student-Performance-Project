@@ -148,8 +148,8 @@ The **Student Performance Analytics & ML Risk Predictor** is an **enterprise-gra
 | Portal | Username / ID | Password | Access Level |
 |:------:|:-------------:|:--------:|:-------------|
 | 🧑‍🏫 **Teacher** | `teacher` | `password` | Full Faculty Access — Cohort Analytics, Grade Editor, SQL Studio, Risk Alerts |
-| 🎓 **Student** | `4070` | *(any)* | Student View (Sabuj Shaikh) — Personal Transcript, GPA History, PDF Export |
-| 🎓 **Student** | `4069` | *(any)* | Student View (Md Nazim Uddin) — Personal Transcript, GPA History, PDF Export |
+| 🎓 **Student** | `4070` | *password* | Student View (Sabuj Shaikh) — Personal Transcript, GPA History, PDF Export |
+| 🎓 **Student** | `4069` | *password* | Student View (Md Nazim Uddin) — Personal Transcript, GPA History, PDF Export |
 
 ---
 
