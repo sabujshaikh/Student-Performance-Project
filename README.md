@@ -1,7 +1,3 @@
-# 🎓 Updated & Beautified `README.md`
-
-Here's the fully polished README with **only 2 team members** and a much cleaner, more professional look:
-
 ```markdown
 <div align="center">
 
@@ -22,7 +18,6 @@ Here's the fully polished README with **only 2 team members** and a much cleaner
     </a>
   </p>
 
-  <!-- ━━━ Badges ━━━ -->
   <p align="center">
     <a href="https://github.com/sabujshaikh/Student-Performance-Project/stargazers">
       <img src="https://img.shields.io/github/stars/sabujshaikh/Student-Performance-Project?style=for-the-badge&color=amber&logo=github" alt="Stars" />
@@ -657,8 +652,8 @@ Executes custom SQL queries against `vw_student_performance_summary`.
 -- ═══════════════════════════════════════════════════════════
 SELECT
   CASE
-    WHEN Attendance_Percentage >= 90 THEN '90–100% (High)'
-    WHEN Attendance_Percentage >= 75 THEN '75–89%  (Moderate)'
+    WHEN Attendance_Percentage >= 90 THEN '90-100% (High)'
+    WHEN Attendance_Percentage >= 75 THEN '75-89%  (Moderate)'
     ELSE                                '<75%   (Low)'
   END AS Attendance_Band,
 
@@ -838,7 +833,7 @@ python train_models.py    # Retrain & export new .pkl
 | Issue | Cause | Fix |
 |:------|:------|:----|
 | `ModuleNotFoundError: No module named 'flask'` | venv not activated | `source venv/bin/activate && pip install -r requirements.txt` |
-| `Port 3000 already in use` | Another process on port 3000 | `lsof -ti:3000 | xargs kill` or use `PORT=3001 npm run dev` |
+| `Port 3000 already in use` | Another process on port 3000 | `lsof -ti:3000 \| xargs kill` or use `PORT=3001 npm run dev` |
 | `Model file not found` | `train_models.py` not run yet | Execute `python train_models.py` first |
 | Blank dashboard | Flask API not running | Start backend: `python app.py` on port 5000 |
 
@@ -916,9 +911,7 @@ Submission Date: 19 July 2026
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/nazimuddin">
-        <img src="https://github.com/nazimuddin.png?size=150" width="130" style="border-radius: 50%; border: 3px solid #10B981;" onError="this.src='https://placehold.co/130x130/10B981/ffffff?text=MN';" />
-      </a>
+      <img src="https://placehold.co/130x130/10B981/ffffff?text=MN" width="130" style="border-radius: 50%; border: 3px solid #10B981;" />
       <br/><br/>
       <strong style="font-size: 1.15em;">Md Nazim Uddin</strong>
       <br/>
@@ -932,9 +925,7 @@ Submission Date: 19 July 2026
       <br/><br/>
       <em>Scikit-Learn training · RF/DT/LR<br/>benchmark · Feature engineering</em>
       <br/><br/>
-      <a href="https://github.com/nazimuddin">
-        <img src="https://img.shields.io/badge/GitHub-nazimuddin-181717?style=flat-square&logo=github" alt="GitHub" />
-      </a>
+      <img src="https://img.shields.io/badge/GitHub-nazimuddin-181717?style=flat-square&logo=github" alt="GitHub" />
     </td>
   </tr>
 </table>
@@ -974,18 +965,4 @@ Submission Date: 19 July 2026
 </div>
 ```
 
----
-
-## ✅ Key Changes Summary
-
-| Change | Before | After |
-|:-------|:-------|:------|
-| **Team Members** | 4 people (Sabuj, Nazim, Wafa, Nadia) | **2 people only** |
-| **Sabuj Shaikh's Role** | Team Lead & Data Engineer | **Team Lead · Data Engineer · Frontend Developer** |
-| **Md Nazim Uddin's Role** | ML Engineer | **ML Engineer · Data Mining & Analytics · Model Benchmarking** |
-| **Removed Members** | Wafa Ahmed (4072), Nadia Akter Luna (4073) | ❌ Removed from everywhere |
-| **Team Section Design** | Simple table | **Beautiful card layout with GitHub avatars** |
-| **Overall Polish** | Good | **Professional — cleaner tables, better spacing, improved ASCII art, enhanced FAQ** |
-| **OLAP Queries** | 1 query | **2 queries** (added Risk Distribution query) |
-| **FAQ** | 2 questions | **3 questions** (added model retraining FAQ) |
-| **Troubleshooting** | 2 issues | **4 issues** (added model & API issues) |
+Ei puro ta ekta code block e dewa hoiche — **sob select kore copy kore `README.md` file e paste korlei hobe**! ✅
