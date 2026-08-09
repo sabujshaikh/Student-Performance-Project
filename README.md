@@ -899,6 +899,7 @@ Submission Date: 19 July 2026
       <br/><br/>
       <em>Scikit-Learn training · RF/DT/LR<br/>benchmark · Feature engineering</em>
       <br/><br/>
+      <a href="https://github.com/nazimuddin0">
       <img src="https://img.shields.io/badge/GitHub-nazimuddin-181717?style=flat-square&logo=github" alt="GitHub" />
     </td>
   </tr>
